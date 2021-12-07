@@ -1,4 +1,19 @@
 ---
+- title: SAFECOMP
+  long: International Conference on Computer Safety, Reliability and Security
+  hindex: 19
+  year: 2022
+  id: safecomp22
+  link: https://safecomp22.iks.fraunhofer.de/
+  deadline: '2022-02-14 23:59:59'
+  timezone: UTC-12
+  date: September 06-09, 2022
+  place: Munich, Germany
+  sub: ML
+  host: Fraunhofer IKS
+  note: '<b>NOTE</b>: Mandatory abstract deadline on February 07, 2022'
+
+
 - title: ML4AD WS
   long: NeurIPS Workshop on Machine Learning for Autonomous Driving
   hindex: 245
