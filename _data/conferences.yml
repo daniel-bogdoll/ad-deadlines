@@ -32,12 +32,38 @@
   hindex: 25
   year: 2022
   id: fusion22
-  link: https://event.trippus.net/Home/Index/AEAKgINj5lvKf3HSAcLjoJfY3I9opYDhEYN-w-ZpDeNRTOzGVw-KRbNlFUlb9DZtbxdjA7tLiQ0t/AEAKgIOBL-lfyotyEzWuxqqPVNwOl-CwBybAr866X5ZL9foS4IKZipJh2-u3g_CPCYEmEw9V94aw/eng
+  link: https://www.fusion2022.se/
   deadline: '2022-03-01 23:59:59'
   timezone: UTC-12
   date: July 04-07, 2022
   place: Linköping, Sweden
+  sub: CV
+  host: IEEE
+  
+- title: ICTR (Deadline estimated)
+  long: International Congress on Transportation Research
+  hindex: 
+  year: 2022
+  id: ictr22
+  link: https://www.ictr.gr/
+  deadline: '2022-02-19 23:59:59'
+  timezone: UTC-12
+  date: July 04-07, 2022
+  place: Rhodes, Greece
   sub: IV
+  host: H.I.T.
+  
+- title: ICCP
+  long: International Conference on Intelligent Computer Communication and Processing
+  hindex: 
+  year: 2022
+  id: iccp22
+  link: https://www.iccp.ro/iccp2022/
+  deadline: '2022-05-01 23:59:59'
+  timezone: UTC-12
+  date: September 22-24, 2022
+  place: Cluj-Napoca, Romania
+  sub: V2X
   host: IEEE
   
 - title: ICARA
