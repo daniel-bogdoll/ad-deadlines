@@ -579,16 +579,29 @@
   sub: IV
   host: IEEE
   
-- title: ITSC
-  long:  International Conference on Intelligent Transportation Systems
-  hindex: --
+- title: MT-ITS
+  long:  International IEEE Conference on Models and Technologies for Intelligent Transportation Systems
+  hindex: 16
   year: 2021
-  id: itsc2021
-  link: https://2021.ieee-itsc.org/
-  deadline: '2021-04-15 23:59:59'
+  id: mtits2021
+  link: https://www.mt-its2021.tse.bgu.tum.de/
+  deadline: '2020-10-01 23:59:59'
   timezone: UTC-12
-  date: September 19-22, 2021
-  place: Indianapolis, IN, USA
+  date: June 16-17, 2021
+  place: Online
+  sub: IV
+  host: IEEE 
+  
+- title: ITSC (Deadline estimated)
+  long:  International Conference on Intelligent Transportation Systems / Intelligent Transportation Systems Conference
+  hindex: 49
+  year: 2022
+  id: itsc2022
+  link: https://www.ieee-itsc2022.org/
+  deadline: '2022-03-31 23:59:59'
+  timezone: UTC-12
+  date: October 08-12, 2022
+  place: Macau, China
   sub: IV
   host: IEEE
 
