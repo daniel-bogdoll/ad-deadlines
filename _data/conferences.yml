@@ -131,16 +131,16 @@
   sub: CV
   host: IEEE
   
-- title: SafeAI (WS)
+- title: SafeAI (WS) (Deadline estimated)
   long: AAAI Workshop on Artificial Intelligence Safety
   hindex: 20
-  year: 2021
-  id: safeai21
+  year: 2023
+  id: safeai23
   link: https://safeai.webs.upv.es/
-  deadline: '2020-11-13 23:59:59'
+  deadline: '2022-11-12 23:59:59'
   timezone: UTC-12
-  date: Feb 08, 2021
-  place: Online
+  date: --
+  place: --
   sub: ML
   host: AAAI
   
@@ -151,7 +151,7 @@
   id: make22
   link: https://www.aaai-make.info/
   deadline: '2021-11-29 23:59:59'
-  timezone: UTC-12
+  timezone: AOE
   date: March 21-23, 2022
   place: Palo Alto, USA
   sub: ML
@@ -237,16 +237,16 @@
   sub: V2X
   host: IEEE
   
-- title: VTC
+- title: VTC (Deadline estimated)
   long:  Vehicular Technology Conference
-  hindex: 46
-  year: 2021
-  id: vtc21
-  link: https://events.vtsociety.org/vtc2021-spring/
-  deadline: '2020-11-02 23:59:59'
+  hindex: 42
+  year: 2023
+  id: vtc23
+  link: https://events.vtsociety.org/vtc2023-spring/
+  deadline: '2022-12-12 23:59:59'
   timezone: UTC-12
-  date: April 25 - May 19, 2021
-  place: Online
+  date: --
+  place: --
   sub: IV
   host: IEEE
   
@@ -279,13 +279,13 @@
 - title: ICCPS
   long: International Conference on Cyber-Physical Systems
   hindex: 26
-  year: 2021
-  id: iccps21
-  link: http://iccps.acm.org/2021/
-  deadline: '2020-10-26 23:59:59'
+  year: 2023
+  id: iccps23
+  link: http://iccps.acm.org/2023/
+  deadline: '2022-07-01 23:59:59'
   timezone: UTC-12
-  date: May 19-21, 2021
-  place: Online
+  date: April 22-23, 2023
+  place: Tokyo, Japan
   sub: IV
   host: ACM/IEEE
   
@@ -367,16 +367,16 @@
   sub: DM
   host: MDPI
 
-- title: SDM
+- title: SDM (Deadline estimated)
   long: International Conference on Data Mining	
   hindex: 36
-  year: 2022
-  id: sdm22
-  link: https://www.siam.org/conferences/cm/conference/sdm22
-  deadline: '2021-10-12 23:59:59'
+  year: 2023
+  id: sdm23
+  link: https://www.siam.org/conferences/cm/conference/sdm23
+  deadline: '2022-10-12 23:59:59'
   timezone: UTC-12
-  date: April 28-30, 2022
-  place: Alexandria, Virginia, USA
+  date: --
+  place: --
   sub: DM
   host: SIAM
   
@@ -579,16 +579,16 @@
   sub: IV
   host: IEEE
   
-- title: MT-ITS
+- title: MT-ITS (Deadline estimated)
   long:  International IEEE Conference on Models and Technologies for Intelligent Transportation Systems
-  hindex: 16
-  year: 2021
-  id: mtits2021
+  hindex: 11
+  year: 2022
+  id: mtits2022
   link: https://www.mt-its2021.tse.bgu.tum.de/
-  deadline: '2020-10-01 23:59:59'
+  deadline: '2022-10-01 23:59:59'
   timezone: UTC-12
-  date: June 16-17, 2021
-  place: Online
+  date: --
+  place: --
   sub: IV
   host: IEEE 
   
@@ -879,14 +879,15 @@
   sub: ML
 
 - title: ACCV
-  hindex: 38
-  year: 2020
-  id: accv20
+  long: Asian Conference on Computer Vision
+  hindex: 43
+  year: 2022
+  id: accv22
   link: http://accv2020.kyoto/
-  deadline: '2020-07-08 23:59:00'
+  deadline: '2022-10-06 23:59:00'
   timezone: UTC
-  date: November 30 - December 4, 2020
-  place: Online
+  date: December 04-08, 2022
+  place: Macau, SAR
   sub: CV
 
 - title: ICPR
@@ -904,15 +905,16 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 10, 2022.'
 
 
-- title: 3DV
-  hindex: 29
-  year: 2020
-  id: threedv20
-  link: http://3dv2020.dgcv.nii.ac.jp/index.html
-  deadline: '2020-07-31 23:59:59'
-  timezone: America/Los_Angeles
-  date: November 25-28, 2020
-  place: Fukuoka, Japan
+- title: 3DV (Deadline estimated)
+  long: International Conference on 3D Vision
+  hindex: 44
+  year: 2022
+  id: threedv22
+  link: https://3dv2021.surrey.ac.uk
+  deadline: '2022-07-30 23:59:59'
+  timezone: PT
+  date: --
+  place: --
   sub: CV
 
 - title: AAMAS
@@ -940,15 +942,16 @@
   place: Online
   sub: DM
 
-- title: AISTATS
-  hindex: 52
-  year: 2021
-  id: aistats21
-  link: https://www.aistats.org/aistats2021/
-  deadline: '2020-10-15 08:00:00'
-  timezone: America/Los_Angeles
-  date: April 13-15, 2021
-  place: San Diego, California, USA
+- title: AISTATS (Deadline estimated)
+  long: International Conference on Artificial Intelligence and Statistics
+  hindex: 68
+  year: 2023
+  id: aistats23
+  link: https://www.aistats.org/aistats2023/
+  deadline: '2022-10-15 11:59:00'
+  timezone: UTC
+  date: --
+  place: --
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Oct 8, 2020. More info <a href=''http://www.aistats.org/aistats2021/cfp.html''>here</a>.'
 
@@ -965,54 +968,56 @@
   sub: CV
   host: IEEE/CVF
 
-- title: ICME
-  hindex: 30
-  year: 2021
-  id: icme21
-  link: https://2021.ieeeicme.org/
-  deadline: '2020-11-29 23:59:59'
+- title: ICME (Deadline estimated)
+  long: International Conference on Multimedia and Expo
+  hindex: 51
+  year: 2023
+  id: icme23
+  link: https://2023.ieeeicme.org/
+  deadline: '2022-12-11 23:59:59'
   timezone: America/Los_Angeles
-  date: July 5-9, 2021
-  place: Shenzhen, China
+  date: --
+  place: --
   sub: CV
 
-- title: ICAPS
-  hindex: 28
-  year: 2021
-  id: icaps21
-  link: https://icaps21.icaps-conference.org/
-  deadline: '2020-12-18 23:59:59'
-  abstract_deadline: '2020-12-11 23:59:59'
+- title: ICAPS (Deadline estimated)
+  long: International Conference on Automated Planning and Scheduling
+  hindex: 25
+  year: 2023
+  id: icaps23
+  link: https://icaps22.icaps-conference.org/
+  deadline: '2022-12-15 23:59:59'
+  abstract_deadline: '2022-12-10 23:59:59'
   timezone: UTC-12
-  date: June 7-12, 2021
-  place: Guangzhou, China
+  date: --
+  place: --
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Dec 11, 2020. More info <a href=''https://icaps21.icaps-conference.org/''>here</a>.'
 
-- title: ICIP
-  hindex: 52
-  year: 2021
-  id: icip21
-  link: https://2021.ieeeicip.org
-  deadline: '2021-01-13 23:59:59'
+- title: ICIP (Deadline estimated)
+  long: International Conference in Image Processing
+  hindex: 60
+  year: 2023
+  id: icip23
+  link: https://2022.ieeeicip.org
+  deadline: '2023-01-13 23:59:59'
   timezone: America/Los_Angeles
-  date: September, 19-22, 2021
-  place: Anchorage, Alaska, USA
+  date: --
+  place: --
   sub: CV
 
 - title: CHIL
-  hindex: -1
-  year: 2021
-  id: chil21
+  long: Conference on Health, Inference, and Learning
+  hindex: 5
+  year: 2022
+  id: chil22
   link: https://www.chilconference.org/
-  deadline: '2021-01-14 23:59:59'
-  abstract_deadline: '2021-01-10 23:59:59'
-  timezone: UTC-12
-  date: April 8-10, 2021
+  deadline: '2022-01-14 23:59:59'
+  timezone: AoE
+  date: April 7-10, 2022
   place: Online
   sub: ML
-  note: '<b>NOTE</b>: Recommended abstract deadline on Jan 10, 2021. More info <a
-    href=''https://www.chilconference.org''>here</a>.'
+  note: '<b>NOTE</b>: Recommended abstract deadline on Jan 10, 2021. More info <ahref=''https://www.chilconference.org''>here</a>.'
 
 - title: SIGGRAPH
   hindex: 19
