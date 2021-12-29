@@ -644,16 +644,16 @@
   sub: RO
   host: INSTICC
   
-- title: ICARCV
+- title: ICARCV (Deadline estimated)
   long:  International Conference on Control, Automation, Robotics and Vision
   hindex: 13
-  year: 2020
-  id: icarcv2020
+  year: 2023
+  id: icarcv2023
   link: https://www.icarcv.sg/
-  deadline: '2020-06-30 23:59:59'
+  deadline: '2023-01-13 23:59:59'
   timezone: UTC-12
-  date: December 13-15, 2020
-  place: Shenzhen, China
+  date: --
+  place: --
   sub: RO
   host: IEEE
 
@@ -818,59 +818,64 @@
   place: --
   sub: ML
 
-- title: HRI
-  hindex: 40
-  year: 2020
-  id: hri20
-  link: https://humanrobotinteraction.org/2020/
-  deadline: '2019-10-01 23:59:59'
-  timezone: America/Los_Angeles
-  date: March 23-26, 2020
-  place: Cambridge, UK
+- title: HRI (Deadline estimated)
+  long: International Conference on Human-Robot Interaction
+  hindex: 47
+  year: 2023
+  id: hri23
+  link: https://humanrobotinteraction.org/2023/
+  deadline: '2022-11-29 23:59:59'
+  timezone: AoE
+  date: --
+  place: --
   sub: RO
 
-- title: ICMR
-  hindex: 33
-  year: 2020
-  id: icmr20
-  link: http://icmr2020.org/
-  deadline: '2020-01-11 23:59:59'
+- title: ICMR (Deadline estimated)
+  long: International Conference on Multimedia Retrieval
+  hindex: 28
+  year: 2023
+  id: icmr23
+  link: http://icmr2023.org/
+  deadline: '2023-01-13 23:59:59'
   timezone: Europe/London
-  date: June 8-11, 2020
-  place: Dublin, Ireland
+  date: --
+  place: Thessaloniki, Greece
   sub: CV
 
 - title: COLT
-  hindex: 48
-  year: 2020
-  id: colt20
-  link: http://www.learningtheory.org/colt2020/
-  date: June 8-12, 2020
-  deadline: '2020-01-31 16:00:00'
-  timezone: America/Los_Angeles
-  place: Graz, Austria
+  long: Conference on Learning Theory
+  hindex: 57
+  year: 2022
+  id: colt22
+  link: http://www.learningtheory.org/colt2022/
+  date: July 2-5, 2022
+  deadline: '2022-02-09 16:00:00'
+  timezone: PST
+  place: London, UK
   sub: ML
 
 - title: ECCV
-  hindex: 135
-  year: 2020
-  id: eccv20
-  link: https://eccv2020.eu
-  deadline: '2020-03-05 23:59:00'
-  timezone: UTC
-  date: August 23-28, 2020
-  place: Glasgow, Scotland, UK
+  long: European Conference on Computer Vision
+  hindex: 197
+  year: 2022
+  id: eccv22
+  link: https://eccv2022.ecva.net
+  deadline: '2022-03-07 20:59:00'
+  timezone: CET
+  date: October 24-28, 2022
+  place: Tel-Aviv, Israel
   sub: CV
 
 - title: ICCC
+  long: International Conference on Computational Creativity
   hindex: 22
-  year: 2020
-  id: iccc20
-  link: http://computationalcreativity.net/iccc20/
-  deadline: '2020-03-08 23:59:59'
-  timezone: UTC-12
-  date: June 29-July 3, 2020
-  place: Coimbra, Portugal
+  year: 2022
+  id: iccc22
+  link: http://computationalcreativity.net/iccc22/
+  deadline: '2022-02-04 23:59:59'
+  timezone: UTC
+  date: June 27-July 1, 2022
+  place: Bozen-Bolzano, Italy
   sub: ML
 
 - title: ACCV
