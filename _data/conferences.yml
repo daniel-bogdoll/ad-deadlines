@@ -92,16 +92,16 @@
   sub: V2X
   host: IEEE
   
-- title: ICAS
+- title: ICAS (Deadline estimated)
   long: International Conference on Autonomous Systems
   hindex: 10
-  year: 2021
-  id: icas21
-  link: https://2021.ieee-icas.org/
-  deadline: '2021-03-31 23:59:59'
+  year: 2022
+  id: icas22
+  link: --
+  deadline: '2022-03-31 23:59:59'
   timezone: UTC-12
-  date: August 11-13, 2021
-  place: Montréal, Canada
+  date: --
+  place: --
   sub: IV
   host: IEEE
   
@@ -250,16 +250,16 @@
   sub: IV
   host: IEEE
   
-- title: ICPS
+- title: ICPS (Deadline estimated)
   long: International Conference on Industrial Cyber-Physical Systems
   hindex: 11
-  year: 2021
-  id: icps21
-  link: http://ieee-icps2021.org/index.html
-  deadline: '2021-04-06 23:59:59'
+  year: 2023
+  id: icps23
+  link: https://icps2022.com
+  deadline: '2022-12-31 23:59:59'
   timezone: UTC-12
-  date: May 10-12, 2021
-  place: Online
+  date: --
+  place: --
   sub: IV
   host: IEEE
 
@@ -823,7 +823,7 @@
   id: hri23
   link: https://humanrobotinteraction.org/2023/
   deadline: '2022-11-29 23:59:59'
-  timezone: AoE
+  timezone: UTC-12
   date: --
   place: --
   sub: RO
@@ -1145,19 +1145,21 @@
   note: '<b>NOTE</b>: Mandatory paper registration deadline for the last conference. More info <a href=''http://iccv2021.thecvf.com/home''>here</a>.'
 
 - title: ECML-PKDD
+  long: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
   hindex: 30
-  year: 2021
-  id: ecmlpkdd2021
-  link: https://2021.ecmlpkdd.org/
-  deadline: '2021-04-02 23:59:59'
-  abstract_deadline: '2021-03-26 23:59:59'
+  year: 2022
+  id: ecmlpkdd2022
+  link: https://2022.ecmlpkdd.org/
+  deadline: '2022-03-28 23:59:59'
+  abstract_deadline: '2022-03-21 23:59:59'
   timezone: UTC-12
-  date: September 13-17, 2021
-  place: Bilbao, Basque Country (Spain)
+  date: September 19-23, 2022
+  place: Grenoble, France (hybrid)
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 26, 2021. More info <a href=''https://2021.ecmlpkdd.org/?page_id=1599/''>here</a>.'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 21, 2022. More info <a href=''https://2022.ecmlpkdd.org/index.php/key-dates-deadlines/''>here</a>.'
 
 - title: FG
+  long: International Conference on Automatic Face and Gesture Recognition
   hindex: -1
   year: 2021
   id: fg2021
