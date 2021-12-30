@@ -422,13 +422,13 @@
 - title: ITAVT (WS)
   long: International Workshop on Intelligent Transportation and Autonomous Vehicles Technologies
   hindex: --
-  year: 2021
-  id: itavt21
-  link: http://icnetlab.org/ITAVT2021/
-  deadline: '2021-01-29 23:59:59'
+  year: 2022
+  id: itavt22
+  link: http://icnetlab.org/ITAVT2022/
+  deadline: '2022-01-23 23:59:59'
   timezone: UTC-12
-  date: May 17-21, 2021
-  place: Bordeaux, France
+  date: April 25-29, 2022
+  place: Budapest, Hungary
   sub: IV
   host: iCNeT
   
@@ -553,18 +553,16 @@
 
 - title: CASE
   long:  International Conference on Automation Science and Engineering
-  hindex: 24
+  hindex: 28
   year: 2021
   id: case2021
-  link: https://case2021.sciencesconf.org/
-  deadline: '2021-03-18 23:59:59'
+  link: http://case2022.org
+  deadline: '2022-03-01 23:59:59'
   timezone: UTC-12
-  date: August 23-27, 2021
-  place: Lyon, France
+  date: August 20-24, 2022
+  place: Mexico City, Mexico
   sub: RO
   host: IEEE
-  abstract_deadline: '2021-07-02 23:59:59'
-  note: '<b>NOTE</b>: Mandatory author registration deadline on July 02, 2021'
 
 - title: ICITE
   long:  International Conference on Intelligent Transportation Engineering
@@ -1020,124 +1018,131 @@
   note: '<b>NOTE</b>: Recommended abstract deadline on Jan 10, 2021. More info <ahref=''https://www.chilconference.org''>here</a>.'
 
 - title: SIGGRAPH
+  long: Special Interest Group on Computer Graphics and Interactive Techniques
   hindex: 19
-  year: 2021
-  id: siggraph21
-  link: https://s2021.siggraph.org/
-  abstract_deadline: '2021-01-27 22:00:00'
-  deadline: '2021-01-28 22:00:00'
+  year: 2022
+  id: siggraph22
+  link: https://s2022.siggraph.org/
+  abstract_deadline: '2022-01-26 22:00:00'
+  deadline: '2022-01-27 22:00:00'
   timezone: UTC
-  date: August 1-5, 2021
-  place: Online
+  date: August 8-11, 2022
+  place: Vancouver, Canada
   sub: CV
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 27, 2021. More info <a href=''https://s2021.siggraph.org/program/technical-papers/''>here</a>.'
 
 - title: ICML
-  hindex: 135
-  year: 2021
-  id: icml21
-  link: https://icml.cc/Conferences/2021
-  deadline: '2021-02-04 23:59:00'
-  abstract_deadline: '2021-01-28 23:59:00'
+  long: International Conference on Machine Learning
+  hindex: 204
+  year: 2022
+  id: icml22
+  link: https://icml.cc/Conferences/2022
+  deadline: '2022-01-27 23:59:00'
+  abstract_deadline: '2022-01-20 23:59:00'
   timezone: UTC-12
-  date: July 18-24, 2021
-  place: Vienna, Austria
+  date: July 17-23, 2022
+  place: Baltimore, United States
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 28, 2021. More info <a href=''https://icml.cc/Conferences/2021/''>here</a>.'
 
 - title: KDD
-  hindex: 30
-  year: 2021
-  id: kdd21
-  link: https://www.kdd.org/kdd2021/
-  deadline: '2021-02-08 23:59:59'
+  long: Knowledge Discovery and Data Mining
+  hindex: 38
+  year: 2022
+  id: kdd22
+  link: https://www.kdd.org/kdd2022/
+  deadline: '2021-02-10 23:59:59'
   timezone: UTC-12
-  date: August 14-18, 2021
-  place: Singapore
+  date: August 14-18, 2022
+  place: Washington DC, United Stes
   sub: DM
 
 - title: SIGIR
-  hindex: 57
-  year: 2021
-  id: sigir21
-  link: http://sigir.org/sigir2021/
-  deadline: '2021-02-09 23:59:00'
+  long: Conference on Research and Development in Information Retrieval
+  hindex: 66
+  year: 2022
+  id: sigir22
+  link: http://sigir.org/sigir2022/
+  deadline: '2021-01-28 23:59:00'
   timezone: UTC-12
-  date: July 11-15, 2021
-  place: Montreal, Canada
-  abstract_deadline: '2021-02-02 23:59:00'
+  date: July 11-15, 2022
+  place: Madrid, Spain
+  abstract_deadline: '2021-01-21 23:59:00'
   sub: DM
 
-- title: MIDL
-  hindex: -1
-  year: 2021
-  id: midl2021
-  link: https://2021.midl.io/
-  deadline: '2021-02-17 23:59:59'
+- title: MIDL (Deadline estimated)
+  long: Medical Imaging with Deep Learning
+  hindex: --
+  year: 2023
+  id: midl2023
+  link: https://2022.midl.io/
+  deadline: '2022-12-17 23:59:59'
   timezone: UTC-12
-  date: July 7-9, 2021
-  place: Luebeck, Germany
+  date: --
+  place: --
   sub: CV
-  abstract_deadline: '2021-02-10 23:59:59'
-  note: '<b>NOTE</b>: Abstract deadline on Feb 10, 2021. More info <a href=''https://2021.midl.io/dates.html''>here</a>.'
 
 - title: UAI
-  hindex: 33
-  year: 2021
-  id: uai21
-  link: http://auai.org/uai2021/
-  deadline: '2021-02-19 23:59:59'
+  long: Conference on Uncertainty in Artificial Intelligence 
+  hindex: 34
+  year: 2022
+  id: uai22
+  link: http://auai.org/uai2022/
+  deadline: '2022-02-25 23:59:59'
   timezone: UTC
-  date: July 26-30, 2021
-  place: TBD
+  date: August 2-4, 2022
+  place: Eindhoven, Netherlands
   sub: ML
 
 - title: IROS
-  hindex: 58
-  year: 2021
-  id: iros21
-  link: https://www.iros2021.org/important-dates
-  deadline: '2021-03-01 23:59:59'
+  long: International Conference on Intelligent Robots and Systems
+  hindex: 73
+  year: 2022
+  id: iros22
+  link: https://www.iros2022.org
+  deadline: '2022-03-01 23:59:59'
   timezone: America/Los_Angeles
-  date: Sep 27-Oct 1, 2021
-  place: Prague, Czech Republic
+  date: October 23-27, 2022
+  place: Kyoto, Japan
   sub: RO
 
 - title: RSS
-  hindex: 47
-  year: 2021
-  id: rss21
+  long: Robotics: Science and Systems
+  hindex: 50
+  year: 2022
+  id: rss22
   link: https://roboticsconference.org/
-  deadline: '2021-03-01 23:59:59'
+  deadline: '2022-01-28 23:59:59'
   timezone: UTC-12
-  date: Jul 12-16, 2021
-  place: Online
+  date: June 27-01 July, 2022
+  place: New York City, United States
   sub: RO
 
 - title: MICCAI
-  hindex: 46
-  year: 2021
-  id: miccai2021
-  link: http://www.miccai2021.org/
-  deadline: '2021-03-03 23:59:59'
-  timezone: America/Los_Angeles
-  date: September 27-October 1, 2021
-  place: Lima, Peru
+  long: Medical Image Computing and Compouter Assisted Intervention
+  hindex: 69
+  year: 2022
+  id: miccai2022
+  link: https://conferences.miccai.org/2022/en/
+  deadline: '2022-03-01 23:59:59'
+  timezone: UTC-8
+  date: September 18-22, 2022
+  place: Singapore
   sub: CV
-  note: '<b>NOTE</b>: Intent to submit deadline on Feb 19, 2021. More info <a href=''https://www.miccai2021.org/''>here</a>.'
+  note: '<b>NOTE</b>: Intent to submit deadline on Feb 15, 2022. More info <a href=''https://www.miccai2022.org/''>here</a>.'
 
-- title: ICCV
-  hindex: 176
-  year: 2021
-  id: iccv2021
-  link: http://iccv2021.thecvf.com/
-  deadline: '2021-03-17 23:59:00'
+- title: ICCV (Deadline estimated)
+  long: International Conference on Computer Vision
+  hindex: 184
+  year: 2023
+  id: iccv2023
+  link: --
+  deadline: '2022-12-23 23:59:00'
   timezone: America/Los_Angeles
-  date: October 11-17, 2021
-  place: Montreal, Canada
+  date: --
+  place: --
   sub: CV
-  note: '<b>NOTE</b>: Mandatory paper registration deadline on Mar 10, 2021. More
-    info <a href=''http://iccv2021.thecvf.com/home''>here</a>.'
+  note: '<b>NOTE</b>: Mandatory paper registration deadline for the last conference. More info <a href=''http://iccv2021.thecvf.com/home''>here</a>.'
 
 - title: ECML-PKDD
   hindex: 30
