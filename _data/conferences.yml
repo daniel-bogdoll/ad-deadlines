@@ -66,16 +66,16 @@
   sub: V2X
   host: IEEE
   
-- title: ICARA
+- title: ICARA (deadline estimated, old link 2022)
   long: International Conference on Automation, Robotics and Applications
   hindex: --
-  year: 2022
-  id: icara22
+  year: 2023
+  id: icara23
   link: http://www.icara.us/
-  deadline: '2021-09-01 23:59:59'
+  deadline: '2022-09-01 23:59:59'
   timezone: UTC-12
-  date: February 18-20, 2022
-  place: Prague, Czech Republic
+  date: --
+  place: --
   sub: IV
   host: IEEE
   
@@ -197,16 +197,16 @@
   sub: ML
   host: DAGM
   
-- title: SII
+- title: SII (deadline estimated, old link 2022)
   long: Stuttgart International Symposium
   hindex: 9
-  year: 2022
-  id: iss22
+  year: 2023
+  id: iss23
   link: https://www.fkfs-veranstaltungen.de/veranstaltungen/stuttgarter-symposium
-  deadline: '2021-09-27 23:59:59'
+  deadline: '2022-09-27 23:59:59'
   timezone: UTC-12
-  date: March 15-16, 2022
-  place: Stuttgart, Germany
+  date: --
+  place: --
   sub: IV
   host: FKFS
   
@@ -223,16 +223,16 @@
   sub: DM
   host: Shidler College of Business
   
-- title: VNC
+- title: VNC (deadline estimated, old link 2021)
   long:  Vehicular Networking Conference
-  hindex: 21
-  year: 2021
-  id: vnc21
+  hindex: 28
+  year: 2022
+  id: vnc22
   link: https://ieee-vnc.org/2021/
-  deadline: '2021-07-10 23:59:59'
+  deadline: '2022-07-10 23:59:59'
   timezone: UTC-12
-  date: November 10-12, 2021
-  place: Ulm, Germany
+  date: --
+  place: --
   sub: V2X
   host: IEEE
   
@@ -265,13 +265,13 @@
 - title: CPSCom
   long: International Conference on Cyber, Physical and Social Computing
   hindex: --
-  year: 2021
-  id: cpscom21
-  link: http://nsclab.org/cpscom2021/cfp.html
-  deadline: '2021-07-21 23:59:59'
+  year: 2022
+  id: cpscom22
+  link: http://ieee-cybermatics.org/2022/cpscom/
+  deadline: '2022-03-15 23:59:59'
   timezone: UTC-12
-  date: December 06-08, 2021
-  place: Melbourne, Australia
+  date: August 22-25, 2022
+  place: Espoo, Finland
   sub: IV
   host: IEEE
   
@@ -288,16 +288,16 @@
   sub: IV
   host: ACM/IEEE
   
-- title: CPS-Sec (WS)
+- title: CPS-Sec (WS) (deadline estimated, old link 2021)
   long: International Workshop on Cyber-Physical Systems Security Protocols
   hindex: --
-  year: 2021
-  id: CPS-Sec21
+  year: 2022
+  id: CPS-Sec22
   link: https://spritz.math.unipd.it/events/2021/Cps_sec2021/index.html
-  deadline: '2021-07-15 23:59:59'
+  deadline: '2022-07-15 23:59:59'
   timezone: UTC-12
-  date: November 02, 2021
-  place: Online
+  date: --
+  place: --
   sub: V2X
   host: IEEE
   
@@ -340,16 +340,16 @@
   sub: IV
   host: JSAE
 
-- title: WCX
+- title: WCX (deadline estimated, old link 2022)
   long: World Congress Experience
   hindex: --
-  year: 2022
-  id: wcx22
+  year: 2023
+  id: wcx23
   link: https://www.sae.org/attend/wcx/call-for-papers/connectivity-iot-smart-city
-  deadline: '2021-08-31 23:59:59'
+  deadline: '2022-08-31 23:59:59'
   timezone: UTC-12
-  date: April 05-07, 2022
-  place: ??
+  date: --
+  place: --
   sub: IV
   host: SAE
 
@@ -392,29 +392,29 @@
   sub: AS
   host: IEEE/SICE
   
-- title: IAL (WS)
+- title: IAL (WS) (deadline estimated, old link 2021)
   long: International Workshop on Interactive Adaptive Learning
   hindex: --
-  year: 2021
-  id: ial21
+  year: 2022
+  id: ial22
   link: https://www.activeml.net/ial2021/
-  deadline: '2021-07-07 23:59:59'
+  deadline: '2022-07-07 23:59:59'
   timezone: UTC-12
-  date: September 13, 2021
-  place: Online
+  date: --
+  place: --
   sub: ML
   host: Uni Kassel
   
-- title: ERCVAD (WS)
+- title: ERCVAD (WS) (deadline estimated, old link 2021)
   long: Workshop on Embedded and Real-World Computer Vision in Autonomous Driving
   hindex: --
-  year: 2021
-  id: ercvad21
+  year: 2022
+  id: ercvad22
   link: https://www.ki-deltalearning.de/event/ercvad2021
-  deadline: '2021-07-18 23:59:59'
+  deadline: '2022-07-18 23:59:59'
   timezone: UTC-12
-  date: October 11, 2021
-  place: Online
+  date: --
+  place: --
   sub: CV
   host: KI-DL
   
@@ -444,16 +444,16 @@
   sub: IV
   host: IEEE
   
-- title: ICAR
+- title: ICAR (deadline estimated, old link 2021)
   long: International Conference on Advanced Robotics
   hindex: 15
-  year: 2021
-  id: icar21
+  year: 2022
+  id: icar22
   link: http://icar-2021.org/
-  deadline: '2021-07-15 23:59:59'
+  deadline: '2022-07-15 23:59:59'
   timezone: UTC-12
-  date: December 06-10, 2021
-  place: Ljubljana, Slovenia
+  date: --
+  place: --
   sub: RO
   host: IEEE
 
@@ -524,16 +524,16 @@
   abstract_deadline: '2022-03-11 23:59:59'
   note: '<b>NOTE</b>: Mandatory paper registration deadline on March 11, 2022'
 
-- title: SIGMOD/PODS
+- title: SIGMOD/PODS (deadline estimated, old link 2022)
   long:  International Conference on Management of Data
   hindex: 66
-  year: 2022
-  id: sigmod22
+  year: 2023
+  id: sigmod23
   link: https://2022.sigmod.org/
-  deadline: '2021-07-02 23:59:59'
+  deadline: '2022-07-02 23:59:59'
   timezone: UTC-12
-  date: June 12-17, 2022
-  place: Philadelphia, USA
+  date: --
+  place: --
   sub: ML
   host: ACM
 
@@ -563,16 +563,16 @@
   sub: RO
   host: IEEE
 
-- title: ICITE
+- title: ICITE (deadline estimated, old link 2021)
   long:  International Conference on Intelligent Transportation Engineering
   hindex: 8
-  year: 2021
-  id: icite2021
+  year: 2022
+  id: icite2022
   link: http://www.icite.org/
-  deadline: '2021-07-10 23:59:59'
+  deadline: '2022-07-10 23:59:59'
   timezone: UTC-12
-  date: September 17-19, 2021
-  place: Beijing, China
+  date: --
+  place: --
   sub: IV
   host: IEEE
   
@@ -618,13 +618,13 @@
 - title: ICMLA
   long:  International Conference On Machine Learning And Applications
   hindex: 30
-  year: 2021
-  id: icmla2021
-  link: https://www.icmla-conference.org/icmla21/
-  deadline: '2021-07-03 23:59:59'
+  year: 2022
+  id: icmla2022
+  link: https://www.icmla-conference.org/icmla22/index.php
+  deadline: '2022-07-08 23:59:59'
   timezone: UTC-12
-  date: December 13-16, 2021
-  place: Pasadena, California, USA
+  date: December 12-15, 2022
+  place: Nassau, The Bahamas
   sub: ML
   host: IEEE
 
@@ -654,16 +654,16 @@
   sub: RO
   host: IEEE
 
-- title: RCAE
+- title: RCAE (deadline estimated, old link 2021)
   long:  Conference on Robotics, Control and Automation Engineering
   hindex: 3
-  year: 2021
-  id: rcae21
+  year: 2022
+  id: rcae22
   link: http://www.rcae.net/
-  deadline: '2021-07-20 23:59:59'
+  deadline: '2022-08-25 23:59:59'
   timezone: UTC-12
-  date: November 04-06, 2021
-  place: Wuhan, China
+  date: --
+  place: --
   sub: RO
   host: IEEE
 
@@ -683,17 +683,17 @@
 - title: ICoIV
   long: International Conference on Intelligent Vehicles
   hindex: --
-  year: 2021
-  id: icoiv21
-  link: http://www.icoiv.org/
-  deadline: '2021-07-10 23:59:59'
+  year: 2022
+  id: icoiv22
+  link: https://www.icoiv.org
+  deadline: '2022-03-04 23:59:59'
   timezone: UTC-12
-  date: November 07-09, 2021
+  date: June 17-19, 2022
   place: Chengdu, China
   sub: IV
   host: HKSRA/MDPI
-  abstract_deadline: '2021-06-30 23:59:59'
-  note: '<b>NOTE</b>: Mandatory abstract deadline on June 30, 2021'
+  abstract_deadline: '2022-02-22 23:59:59'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on February 22, 2022'
 
 
 - title: ICSA
@@ -737,16 +737,16 @@
   sub: IV
   host: INSTICC
 
-- title: WSDM
+- title: WSDM (deadline estimated, old link 2022)
   long: International Conference on Web Search and Data Mining
   hindex: 61
-  year: 2022
-  id: wsdm22
+  year: 2023
+  id: wsdm23
   link: https://www.wsdm-conference.org/2022/
-  deadline: '2021-08-09 23:59:59'
+  deadline: '2022-08-09 23:59:59'
   timezone: UTC-12
-  date: February 21-25, 2022
-  place: Phoenix, Arizona, USA
+  date: --
+  place: --
   sub: DM
   host: ACM
 
