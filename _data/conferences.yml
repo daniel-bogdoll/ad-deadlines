@@ -13,7 +13,7 @@
   host: Fraunhofer IKS
   note: '<b>NOTE</b>: Mandatory abstract deadline on February 07, 2022'
 
-- title: ML4AD WS (deadline estimated)
+- title: ML4AD WS (Deadline estimated)
   long: NeurIPS Workshop on Machine Learning for Autonomous Driving
   hindex: 245
   year: 2022
@@ -66,7 +66,7 @@
   sub: V2X
   host: IEEE
   
-- title: ICARA (deadline estimated)
+- title: ICARA (Deadline estimated)
   long: International Conference on Automation, Robotics and Applications
   hindex: --
   year: 2023
@@ -80,7 +80,7 @@
   host: IEEE
   note: '<b>NOTE</b>: old website linked from 2022'
   
-- title: ISC (deadline estimated)
+- title: ISC (Deadline estimated)
   long: International Smart Cities Conference
   hindex: 22
   year: 2022
@@ -93,7 +93,7 @@
   sub: V2X
   host: IEEE
   
-- title: ICAS (Deadline estimated, old link 2021)
+- title: ICAS (Deadline estimated)
   long: International Conference on Autonomous Systems
   hindex: 10
   year: 2022
@@ -105,8 +105,9 @@
   place: --
   sub: IV
   host: IEEE
+  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked from 20221' 
   
-- title: WAISE (WS) (deadline estimated, old link 2021)
+- title: WAISE (WS) (Deadline estimated)
   long: International Workshop on Artificial Intelligence Safety Engineering
   hindex: --
   year: 2022
@@ -118,6 +119,7 @@
   place: --
   sub: ML
   host: SafeComp
+  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked from 2021' 
   
 - title: ICIP
   long: International Conference on Image Processing
@@ -133,7 +135,7 @@
   host: IEEE
   note: '<b>NOTE</b>: More info about deadlines can be found here <a href=''https://2022.ieeeicip.org/important-dates/''>here</a>.'
   
-- title: SafeAI (WS) (Deadline estimated, old link 2022)
+- title: SafeAI (WS) (Deadline estimated)
   long: AAAI Workshop on Artificial Intelligence Safety
   hindex: 20
   year: 2023
@@ -145,8 +147,9 @@
   place: --
   sub: ML
   host: AAAI
+  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked from 2022' 
   
-- title: AAAI-MAKE (WS) (deadline estimated)
+- title: AAAI-MAKE (WS) (Deadline estimated)
   long: AAAI Workshop on Machine Learning and Knowledge Engineering for Hybrid Intelligence
   hindex: 20
   year: 2023
@@ -198,7 +201,7 @@
   sub: ML
   host: DAGM
   
-- title: SII (deadline estimated)
+- title: SII (Deadline estimated)
   long: Stuttgart International Symposium
   hindex: 9
   year: 2023
@@ -212,7 +215,7 @@
   host: FKFS
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked from 2022'
   
-- title: HICSS (deadline estimated)
+- title: HICSS (Deadline estimated)
   long:  Hawaii International Conference on System Sciences
   hindex: 45
   year: 2023
@@ -225,7 +228,7 @@
   sub: DM
   host: Shidler College of Business
   
-- title: VNC (deadline estimated)
+- title: VNC (Deadline estimated)
   long:  Vehicular Networking Conference
   hindex: 28
   year: 2022
@@ -293,7 +296,7 @@
   sub: IV
   host: ACM/IEEE
   
-- title: CPS-Sec (WS) (deadline estimated)
+- title: CPS-Sec (WS) (Deadline estimated)
   long: International Workshop on Cyber-Physical Systems Security Protocols
   hindex: --
   year: 2022
@@ -346,7 +349,7 @@
   sub: IV
   host: JSAE
 
-- title: WCX (deadline estimated)
+- title: WCX (Deadline estimated)
   long: World Congress Experience
   hindex: --
   year: 2023
@@ -386,7 +389,7 @@
   sub: DM
   host: SIAM
   
-- title: SII (deadline estimated)
+- title: SII (Deadline estimated)
   long: International Symposium on System Integration	
   hindex: 13
   year: 2023
@@ -400,7 +403,7 @@
   host: IEEE/SICE
   note: '<b>NOTE</b>: new website does not exist yet therefore website linked from 2022' 
   
-- title: IAL (WS) (deadline estimated)
+- title: IAL (WS) (Deadline estimated)
   long: International Workshop on Interactive Adaptive Learning
   hindex: --
   year: 2022
@@ -414,7 +417,7 @@
   host: Uni Kassel
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked from 2021'
   
-- title: ERCVAD (WS) (deadline estimated)
+- title: ERCVAD (WS) (Deadline estimated)
   long: Workshop on Embedded and Real-World Computer Vision in Autonomous Driving
   hindex: --
   year: 2022
@@ -454,7 +457,7 @@
   sub: IV
   host: IEEE
   
-- title: ICAR (deadline estimated)
+- title: ICAR (Deadline estimated)
   long: International Conference on Advanced Robotics
   hindex: 15
   year: 2022
@@ -468,7 +471,7 @@
   host: IEEE
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked from 2021'
 
-- title: ECMR (deadline estimated)
+- title: ECMR (Deadline estimated)
   long: European Conference on Mobile Robots
   hindex: 19
   year: 2022
@@ -482,7 +485,7 @@
   host: IEEE
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked from 2021'
 
-- title: ARSO (deadline estimated)
+- title: ARSO (Deadline estimated)
   long: International Conference on Advanced Robotics and its Social Impacts
   hindex: --
   year: 2022
@@ -509,7 +512,7 @@
   sub: DM
   host: IEEE
 
-- title: ICDM (WS) (deadline estimated)
+- title: ICDM (WS) (Deadline estimated)
   long: International Conference on Data Mining
   hindex: 54
   year: 2022
@@ -539,7 +542,7 @@
   abstract_deadline: '2022-03-11 23:59:59'
   note: '<b>NOTE</b>: Mandatory paper registration deadline on March 11, 2022'
 
-- title: SIGMOD/PODS (deadline estimated)
+- title: SIGMOD/PODS (Deadline estimated)
   long:  International Conference on Management of Data
   hindex: 66
   year: 2023
@@ -553,7 +556,7 @@
   host: ACM
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked from 2022'
 
-- title: CSCS (deadline estimated)
+- title: CSCS (Deadline estimated)
   long:  Computer Science in Cars Symposium
   hindex: --
   year: 2022
@@ -580,7 +583,7 @@
   sub: RO
   host: IEEE
 
-- title: ICITE (deadline estimated)
+- title: ICITE (Deadline estimated)
   long:  International Conference on Intelligent Transportation Engineering
   hindex: 8
   year: 2022
@@ -674,7 +677,7 @@
   host: IEEE
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked from 2020'
 
-- title: RCAE (deadline estimated)
+- title: RCAE (Deadline estimated)
   long:  Conference on Robotics, Control and Automation Engineering
   hindex: 3
   year: 2022
@@ -716,7 +719,7 @@
   abstract_deadline: '2022-02-22 23:59:59'
   note: '<b>NOTE</b>: Mandatory abstract deadline on February 22, 2022'
 
-- title: ICSA (deadline estimated)
+- title: ICSA (Deadline estimated)
   long: International Conference on Software Architecture
   hindex: 17
   year: 2023
@@ -731,7 +734,7 @@
   abstract_deadline: '2022-11-01 23:59:59'
   note: '<b>NOTE</b>: Mandatory abstract deadline. New website does not exist yet therefore old website linked from 2022'
 
-- title: WCNC (deadline estimated)
+- title: WCNC (Deadline estimated)
   long: Wireless Communications and Networking Conference
   hindex: 22
   year: 2023
@@ -745,7 +748,7 @@
   host: IEEE
   note: '<b>NOTE</b>: old website linked from 2022'
 
-- title: VEHITS (deadline estimated)
+- title: VEHITS (Deadline estimated)
   long: International Conference on Vehicle Technology and Intelligent Transport Systems
   hindex: 11
   year: 2023
@@ -758,7 +761,7 @@
   sub: IV
   host: INSTICC
 
-- title: WSDM (deadline estimated)
+- title: WSDM (Deadline estimated)
   long: International Conference on Web Search and Data Mining
   hindex: 61
   year: 2023
@@ -786,7 +789,7 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline. Old website linked from 2022'
 
-- title: ICRA (deadline estimated)
+- title: ICRA (Deadline estimated)
   long: International Conference on Robotics and Automation
   hindex: 105
   year: 2023
@@ -800,7 +803,7 @@
   host: IEEE
   note: '<b>NOTE</b>: old website linked from 2022'
 
-- title: ICLR (deadline estimated)
+- title: ICLR (Deadline estimated)
   long: International Conference on Learning Representations
   hindex: 253
   year: 2023
@@ -814,7 +817,7 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline. New website does not exist yet therefore old website linked from 2022' 
 
-- title: WWW (deadline estimated)
+- title: WWW (Deadline estimated)
   long: International World Wide Web Conference
   hindex: 70
   year: 2023
@@ -941,7 +944,7 @@
   sub: CV
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked from 2021'
 
-- title: AAMAS (deadline estimated)
+- title: AAMAS (Deadline estimated)
   long: International Conference on Autonomous Agents and Multiagent Systems
   hindex: 44
   year: 2023
@@ -968,7 +971,7 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline. New website does not exist yet therefore old website linked from 2022'
 
-- title: CVPR (deadline estimated)
+- title: CVPR (Deadline estimated)
   long: Conference on Computer Vision and Pattern Recognition
   hindex: 356
   year: 2023
@@ -1203,7 +1206,7 @@
   sub: CV
   note: '<b>NOTE</b>: Mandatory abstract deadline on March 31, 2022'
 
-- title: RecSys (deadlines estimated)
+- title: RecSys (Deadline estimated)
   long: Conference on Recommender Systems
   hindex: 45
   year: 2022
@@ -1217,7 +1220,7 @@
   sub: DM
   note: '<b>NOTE</b>: Mandatory abstract deadline on April 27, 2022'
 
-- title: ICMI (deadline estimated)
+- title: ICMI (Deadline estimated)
   long: International Conference on Multimodal Interaction
   hindex: -1
   year: 2022
@@ -1229,7 +1232,7 @@
   place: Bangalore, India
   sub: CV
 
-- title: CIKM (deadline estimated)
+- title: CIKM (Deadline estimated)
   long: Conference on Information and Knowledge Management
   hindex: 59
   year: 2022
@@ -1242,7 +1245,7 @@
   place: Atlanta, Georgia, United States
   sub: DM
 
-- title: NeurIPS (deadline estimated)
+- title: NeurIPS (Deadline estimated)
   long: Conference on Neural Information Processing Systems
   hindex: 245
   year: 2022
@@ -1256,7 +1259,7 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline.'
 
-- title: WACV (deadline estimated)
+- title: WACV (Deadline estimated)
   long: Winter Conference on Application of Computer Vision
   hindex: 62
   year: 2023
@@ -1269,7 +1272,7 @@
   sub: CV
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked from 2022'
 
-- title: ICDM (deadline estimated)
+- title: ICDM (Deadline estimated)
   long: International Conference on Data Mining
   hindex: 54
   year: 2022
@@ -1294,7 +1297,7 @@
   place: Auckland, New Zealand
   sub: RO
 
-- title: BMVC (deadline estimated)
+- title: BMVC (Deadline estimated)
   long: British Machine Vision Conference
   hindex: 66
   year: 2022
@@ -1308,7 +1311,7 @@
   sub: CV
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked from 2021'
 
-- title: ACML (deadline estimated)
+- title: ACML (Deadline estimated)
   long: Asian Conference on Machine Learning
   hindex: 17
   year: 2022
