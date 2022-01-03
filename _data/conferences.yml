@@ -877,7 +877,7 @@
   link: http://www.learningtheory.org/colt2022/
   date: July 2-5, 2022
   deadline: '2022-02-09 16:00:00'
-  timezone: PST
+  timezone: UTC-8
   place: London, UK
   sub: ML
 
@@ -888,7 +888,7 @@
   id: eccv22
   link: https://eccv2022.ecva.net
   deadline: '2022-03-07 20:59:00'
-  timezone: CET
+  timezone: UTC+1
   date: October 24-28, 2022
   place: Tel-Aviv, Israel
   sub: CV
@@ -1032,7 +1032,7 @@
   id: chil22
   link: https://www.chilconference.org/
   deadline: '2022-01-14 23:59:59'
-  timezone: AoE
+  timezone: UTC-12
   date: April 7-10, 2022
   place: Online
   sub: ML
