@@ -1180,17 +1180,18 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 21, 2022. More info <a href=''https://2022.ecmlpkdd.org/index.php/key-dates-deadlines/''>here</a>.'
 
-- title: FG (conference 2022 not found)
+- title: FG (Deadline estimated)
   long: International Conference on Automatic Face and Gesture Recognition
   hindex: -1
   year: 2022
   id: fg2022
-  link: --
-  deadline: --
-  timezone: --
-  date: --
-  place: --
+  link: http://iab-rubric.org/fg2021/
+  deadline: '2022-05-01 23:59:59'
+  timezone: UTC-7
+  date: November --, 2022
+  place: Guangzhou, China
   sub: CV
+  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked from 2021'
 
 - title: MM 
   long: International Conference on Multimedia
