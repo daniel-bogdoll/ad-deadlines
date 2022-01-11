@@ -128,8 +128,8 @@ with open("../_data/conferences.yml", 'r') as stream:
         #for q in conf + tba:
             #print(q["deadline"], " - ", q["title"])
         #print("\n\n")
-        conf.sort(key=lambda x: pytz.utc.normalize(datetime.datetime.strptime(x['deadline'], dateformat).replace(tzinfo=pytz.timezone(x['timezone'].replace('UTC+', 'Etc/GMT-').replace('UTC-', 'Etc/GMT+')))).strftime(dateformat) > right_now)
         conf.sort(key=lambda x: pytz.utc.normalize(datetime.datetime.strptime(x['deadline'], dateformat).replace(tzinfo=pytz.timezone(x['timezone'].replace('UTC+', 'Etc/GMT-').replace('UTC-', 'Etc/GMT+')))).strftime(dateformat) < criticalDate)
+        conf.sort(key=lambda x: pytz.utc.normalize(datetime.datetime.strptime(x['deadline'], dateformat).replace(tzinfo=pytz.timezone(x['timezone'].replace('UTC+', 'Etc/GMT-').replace('UTC-', 'Etc/GMT+')))).strftime(dateformat) > right_now)
         print("Date and Passed Deadline Sorting with tba:")
         for q in conf + tba:
             print(q["deadline"], " - ", q["title"])
