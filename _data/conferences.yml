@@ -1194,20 +1194,6 @@
   sub: CV
   note: '<b>NOTE</b>: Mandatory abstract deadline on March 31, 2022'
 
-- title: RecSys (Deadline estimated)
-  long: Conference on Recommender Systems
-  hindex: 45
-  year: 2022
-  id: recsys22
-  link: https://recsys.acm.org/recsys2/
-  deadline: '2022-05-04 23:59:59'
-  abstract_deadline: '2022-04-27 23:59:59'
-  timezone: UTC-12
-  date: September 18-23, 2022
-  place: Seattle, United States
-  sub: DM
-  note: '<b>NOTE</b>: Mandatory abstract deadline on April 27, 2022'
-
 - title: ICMI (Deadline estimated)
   long: International Conference on Multimodal Interaction
   hindex: -1
