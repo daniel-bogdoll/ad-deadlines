@@ -611,13 +611,13 @@
   host: IEEE 
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked from 2021'
   
-- title: ITSC (Deadline estimated)
+- title: ITSC
   long:  International Conference on Intelligent Transportation Systems / Intelligent Transportation Systems Conference
   hindex: 49
   year: 2022
   id: itsc2022
   link: https://www.ieee-itsc2022.org/
-  deadline: '2022-03-31 23:59:59'
+  deadline: '2022-03-01 23:59:59'
   timezone: UTC-12
   date: October 08-12, 2022
   place: Macau, China
