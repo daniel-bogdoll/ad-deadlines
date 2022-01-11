@@ -10,6 +10,7 @@ import sys
 from shutil import copyfile
 from builtins import input
 import pytz
+import dateutil.relativedelta
 
 import pdb
 
@@ -61,6 +62,15 @@ right_now = datetime.datetime.utcnow().replace(
     microsecond=0).strftime(dateformat)
 
 
+from dateutil.relativedelta import relativedelta
+import datetime
+
+three_mon_rel = relativedelta(months = 9)
+TODAY = datetime.datetime.utcnow()
+criticalDate = TODAY + dateutil.relativedelta.relativedelta(months=-9)
+criticalDate = criticalDate.replace(
+                                microsecond=0).strftime(dateformat)
+print(criticalDate)
 # Helper function for yes no questions
 def query_yes_no(question, default="no"):
     """Ask a yes/no question via input() and return their answer.
@@ -99,20 +109,27 @@ def query_yes_no(question, default="no"):
 with open("../_data/conferences.yml", 'r') as stream:
     try:
         data = yaml.load(stream, Loader=Loader)
-        print("Initial Sorting:")
-        for q in data:
-            print(q["deadline"], " - ", q["title"])
-        print("\n\n")
+        #print("Initial Sorting:")
+        #for q in data:
+            #print(q["deadline"], " - ", q["title"])
+        #print("\n\n")
+        #seperates TBA and non-TBA entries
         conf = [x for x in data if x['deadline'].lower() not in tba_words]
         tba = [x for x in data if x['deadline'].lower() in tba_words]
 
+
+
+
+
+        #sort for Old Entries:
         # just sort:
         conf.sort(key=lambda x: pytz.utc.normalize(datetime.datetime.strptime(x['deadline'], dateformat).replace(tzinfo=pytz.timezone(x['timezone'].replace('UTC+', 'Etc/GMT-').replace('UTC-', 'Etc/GMT+')))))
-        print("Date Sorting:")
-        for q in conf + tba:
-            print(q["deadline"], " - ", q["title"])
-        print("\n\n")
-        conf.sort(key=lambda x: pytz.utc.normalize(datetime.datetime.strptime(x['deadline'], dateformat).replace(tzinfo=pytz.timezone(x['timezone'].replace('UTC+', 'Etc/GMT-').replace('UTC-', 'Etc/GMT+')))).strftime(dateformat) < right_now)
+        #print("Date Sorting:")
+        #for q in conf + tba:
+            #print(q["deadline"], " - ", q["title"])
+        #print("\n\n")
+        conf.sort(key=lambda x: pytz.utc.normalize(datetime.datetime.strptime(x['deadline'], dateformat).replace(tzinfo=pytz.timezone(x['timezone'].replace('UTC+', 'Etc/GMT-').replace('UTC-', 'Etc/GMT+')))).strftime(dateformat) > right_now)
+        conf.sort(key=lambda x: pytz.utc.normalize(datetime.datetime.strptime(x['deadline'], dateformat).replace(tzinfo=pytz.timezone(x['timezone'].replace('UTC+', 'Etc/GMT-').replace('UTC-', 'Etc/GMT+')))).strftime(dateformat) < criticalDate)
         print("Date and Passed Deadline Sorting with tba:")
         for q in conf + tba:
             print(q["deadline"], " - ", q["title"])
