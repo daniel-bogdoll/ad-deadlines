@@ -53,6 +53,19 @@
   sub: IV
   host: H.I.T.
   
+- title: IAS
+  long: Intelligent Autonomous Systems
+  hindex: 10
+  year: 2022
+  id: ias22
+  link: https://www.ias-17.org/
+  deadline: '2022-01-31 23:59:59'
+  timezone: UTC-12
+  date: June 13-16, 2022
+  place: Zagreb, Croatia
+  sub: IV
+  host: University of Zagreb
+  
 - title: ICCP
   long: International Conference on Intelligent Computer Communication and Processing
   hindex: 
