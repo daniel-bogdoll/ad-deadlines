@@ -596,19 +596,18 @@
   sub: RO
   host: IEEE
 
-- title: ICITE (Deadline estimated)
+- title: ICITE
   long:  International Conference on Intelligent Transportation Engineering
   hindex: 8
   year: 2022
   id: icite2022
   link: http://www.icite.org/
-  deadline: '2022-07-10 23:59:59'
+  deadline: '2022-06-10 23:59:59'
   timezone: UTC-12
-  date: --
-  place: --
+  date: October 28-30, 2022
+  place: Beijing, China
   sub: IV
-  host: IEEE
-  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked from 2021'
+  host: Beijing Universities
   
 - title: MT-ITS (Deadline estimated)
   long:  International IEEE Conference on Models and Technologies for Intelligent Transportation Systems
