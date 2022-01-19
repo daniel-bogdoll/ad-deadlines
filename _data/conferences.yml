@@ -1192,20 +1192,6 @@
   sub: CV
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked from 2021'
 
-- title: MM 
-  long: International Conference on Multimedia
-  hindex: 65
-  year: 2022
-  id: mm22
-  link: https://2022.acmmm.org/
-  deadline: '2022-04-07 23:59:59'
-  abstract_deadline: '2022-03-31 23:59:59'
-  timezone: UTC-12
-  date: October 10-14, 2022
-  place: Lisbon, Portugal
-  sub: CV
-  note: '<b>NOTE</b>: Mandatory abstract deadline on March 31, 2022'
-
 - title: ICMI (Deadline estimated)
   long: International Conference on Multimodal Interaction
   hindex: -1
