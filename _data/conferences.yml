@@ -13,6 +13,19 @@
   host: Fraunhofer IKS
   note: '<b>NOTE</b>: Mandatory abstract deadline on February 07, 2022'
   
+  - title: MED
+  long: Mediterranean Conference on Control and Automation
+  hindex: 21
+  year: 2022
+  id: med22
+  link: https://www.med-control.org/med2022/call-for-papers/
+  deadline: '2022-02-20 23:59:59'
+  timezone: UTC-12
+  date: June 28 – July 1, 2022
+  place: Athens, Greece
+  sub: IV
+  host: IEEE
+  
   - title: ICRAS (Deadline estimated)
   long: International Conference on Robotics and Automation Sciences
   hindex: 11
