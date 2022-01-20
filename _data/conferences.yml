@@ -13,6 +13,19 @@
   host: Fraunhofer IKS
   note: '<b>NOTE</b>: Mandatory abstract deadline on February 07, 2022'
   
+  - title: ICRAS (Deadline estimated)
+  long: International Conference on Robotics and Automation Sciences
+  hindex: 11
+  year: 2023
+  id: icras23
+  link: http://www.icras.org/index.html
+  deadline: '2023-01-20 23:59:59'
+  timezone: UTC-12
+  date: --
+  place: --
+  sub: RO
+  host: IEEE
+  
   - title: ITS
   long: ITS World Congress
   hindex: --
