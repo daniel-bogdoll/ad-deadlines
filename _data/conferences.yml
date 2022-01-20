@@ -12,6 +12,20 @@
   sub: ML
   host: Fraunhofer IKS
   note: '<b>NOTE</b>: Mandatory abstract deadline on February 07, 2022'
+  
+  - title: ITS
+  long: ITS World Congress
+  hindex: --
+  year: 2022
+  id: its22
+  link: https://www.itsamericaevents.com/world-congress/en-us/programs.html
+  deadline: '2022-03-01 23:59:59'
+  timezone: UTC-12
+  date: September 18-22, 2022
+  place: Los Angeles, USA
+  sub: IV
+  host: ITS
+  note: '<b>NOTE</b>: Mandatory abstract deadline on February 07, 2022'
 
 - title: ML4AD WS (Deadline estimated)
   long: NeurIPS Workshop on Machine Learning for Autonomous Driving
