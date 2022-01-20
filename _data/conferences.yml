@@ -390,6 +390,20 @@
   host: SAE
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked from 2022'
 
+- title: WGAIS (Deadline estimated)
+  long: World General Artificial Intelligence Summit
+  hindex: --
+  year: 2023
+  id: wgais23
+  link: https://www.bagevent.com/event/wgai2022/p/483753
+  deadline: '2022-12-31 23:59:59'
+  timezone: UTC-12
+  date: --
+  place: --
+  sub: ML
+  host: SAE
+  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked from 2022'
+
 - title: Special issue of Sustainability
   long: Knowledge Graphs and Machine Learning Techniques for Sustainable Transportation Systems
   hindex: --
