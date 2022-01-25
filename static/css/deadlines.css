@@ -102,7 +102,7 @@ footer {
   opacity: 0.5;
 }
 
-.toBeUpdated {
+.highlightBorder {
   background-image:
           repeating-linear-gradient(45deg,
           white 0%,
