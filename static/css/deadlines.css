@@ -103,8 +103,8 @@ footer {
 }
 
 .highlightBorder {
-  border: 5px dashed red;
-  padding: 5px 20px;
+  border: 4px dashed rgb(255,0,0,0.5);
+  padding: 5px 20px 0px;
 }
 .toBeUpdated {
   background-color: white;
