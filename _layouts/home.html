@@ -233,9 +233,10 @@
           // check if date has passed, add 'past' class to it
           var today = moment();
           diff = today.diff(confDate, 'days')
-          $('#{{conf.id}}').attr("diff", diff)
+          $('#{{conf.id}}').attrd("diff", diff)
           if (diff > 275 && diff < 366) {
             $('#{{conf.id}}').addClass('past');
+            $('#{{conf.id}}').addClass('toBeUpdated');
             $('#{{conf.id}}').appendTo($("#toBeUpdated_confs"))
           }
           else if (diff > 0) {

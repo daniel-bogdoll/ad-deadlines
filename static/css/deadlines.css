@@ -102,6 +102,10 @@ footer {
   opacity: 0.5;
 }
 
+.toBeUpdated {
+  color: red;
+}
+
 .conf-row {
   margin-bottom: 5px;
 }
