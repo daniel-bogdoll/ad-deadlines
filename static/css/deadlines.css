@@ -104,7 +104,7 @@ footer {
 
 .highlightBorder {
   border: 4px dashed rgb(255,0,0,0.5);
-  padding: 0px 0px;
+  padding: 0px 20px;
 }
 
 .toBeUpdated {
@@ -113,7 +113,7 @@ footer {
 
 .pullRequest {
   position: relative;
-  right: 20%;
+  right: 2%;
   background-color: white;
   border: 1px solid grey;
   border-radius: 5px;
