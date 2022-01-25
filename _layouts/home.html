@@ -233,7 +233,6 @@
           diff = today.diff(confDate, 'days')
           $('#{{conf.id}}').attr("diff", diff)
           if (diff > 275 && diff < 366) {
-            $('#{{conf.id}}').addClass('past');
             $('#{{conf.id}}').appendTo($("#toBeUpdated_confs"))
           }
           else if (diff > 0) {
