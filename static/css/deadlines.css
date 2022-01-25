@@ -104,7 +104,8 @@ footer {
 
 .toBeUpdated {
   color: red;
-  border: 3px solid red;
+  border: 1px solid red;
+  margin: 10px;
 }
 
 .conf-row {
