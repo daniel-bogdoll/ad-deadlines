@@ -112,8 +112,10 @@ footer {
 }
 
 .pullRequest {
-  align: right;
+  right: 20px;
   background-color: white;
+  border: 1px solid grey;
+  border-radius: 5px;
 }
 
 .conf-row {
