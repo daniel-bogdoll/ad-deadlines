@@ -69,6 +69,8 @@
             </div>
         </div>
         <div id="confs">
+            <div id="toBeUpdated_confs">
+            </div>
             <div id="past_confs">
             </div>
         <div id="coming_confs">
@@ -228,7 +230,11 @@
           var today = moment();
           diff = today.diff(confDate)
           $('#{{conf.id}}').attr("diff", diff)
-          if (diff > 0) {
+          if (diff > 275 && diff < 366) {
+            $('#{{conf.id}}').addClass('past');
+            $('#{{conf.id}}').appendTo($("#toBeUpdated_confs"))
+          }
+          else if (diff > 0) {
             $('#{{conf.id}}').addClass('past');
             $('#{{conf.id}}').appendTo($("#past_confs"))
           }
@@ -243,6 +249,10 @@
         $("#past_confs .ConfItem").sort(function (a, b) {
           return $(b).attr('diff') - $(a).attr('diff');
         }).appendTo($("#past_confs"));
+
+        $("#toBeUpdated_confs .ConfItem").sort(function (a, b) {
+            return $(b).attr('diff') - $(a).attr('diff');
+        }).appendTo($("#toBeUpdated_confs"));
 
         // Get subjects from URL
         var url = new URL(window.location);
