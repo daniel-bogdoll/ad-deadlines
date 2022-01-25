@@ -69,8 +69,9 @@
             </div>
         </div>
         <div id="confs">
-            <div>Please check for updated deadlines of the following conferences:</div>
-            <div id="toBeUpdated_confs">
+            <div class="toBeUpdated"> Please check for updated deadlines of the following conferences:
+                <div id="toBeUpdated_confs">
+                </div>
             </div>
         <div id="coming_confs">
           {% for conf in site.data.conferences %}
@@ -127,12 +128,7 @@
           </div>
           {% endfor %}
         </div>
-            <div class="toBeUpdated">
-            <span class="toBeUpdated">
-                  Please check for updated Deadlines for the following Conferences:
-            </span>
             <div id="past_confs">
-            </div>
             </div>
         </div>
         <footer>
@@ -238,7 +234,6 @@
           $('#{{conf.id}}').attr("diff", diff)
           if (diff > 275 && diff < 366) {
             $('#{{conf.id}}').addClass('past');
-            $('#{{conf.id}}').addClass('toBeUpdated');
             $('#{{conf.id}}').appendTo($("#toBeUpdated_confs"))
           }
           else if (diff > 0) {
