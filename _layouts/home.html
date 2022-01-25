@@ -69,8 +69,10 @@
             </div>
         </div>
         <div id="confs">
-            <div class="toBeUpdated" style="background-color: white"> Please check for updated deadlines of the following conferences: <br>
-                <div id="toBeUpdated_confs">
+            <div class="highlightBorder">
+                <div> Please check for updated deadlines of the following conferences: <br>
+                    <div id="toBeUpdated_confs">
+                    </div>
                 </div>
             </div>
         <div id="coming_confs">
@@ -233,7 +235,8 @@
           diff = today.diff(confDate, 'days')
           $('#{{conf.id}}').attr("diff", diff)
           if (diff > 275 && diff < 366) {
-            $('#{{conf.id}}').appendTo($("#toBeUpdated_confs"))
+              $('#{{conf.id}}').addClass('past');
+              $('#{{conf.id}}').appendTo($("#toBeUpdated_confs"))
           }
           else if (diff > 0) {
             $('#{{conf.id}}').addClass('past');
