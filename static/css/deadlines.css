@@ -106,7 +106,13 @@ footer {
   border: 4px dashed rgb(255,0,0,0.5);
   padding: 0px 20px 0px;
 }
+
 .toBeUpdated {
+  background-color: white;
+}
+
+.pullRequest {
+  align: right;
   background-color: white;
 }
 
