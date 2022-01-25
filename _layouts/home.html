@@ -71,8 +71,6 @@
         <div id="confs">
             <div id="toBeUpdated_confs">
             </div>
-            <div id="past_confs">
-            </div>
         <div id="coming_confs">
           {% for conf in site.data.conferences %}
           <div id="{{conf.id}}" class="hConfItem {% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
@@ -128,6 +126,8 @@
           </div>
           {% endfor %}
         </div>
+            <div id="past_confs">
+            </div>
         </div>
         <footer>
           <div class="row">
