@@ -103,11 +103,7 @@ footer {
 }
 
 .highlightBorder {
-  background-image:
-          repeating-linear-gradient(45deg,
-          white 0%,
-          white 0.5%, RGBA(255, 0, 0, 0.2) 0.5%,
-          RGBA(255, 0, 0, 0.2) 1%, white 1%);
+  border: 10px dashed red;
   margin: 20px;
 }
 .toBeUpdated {
