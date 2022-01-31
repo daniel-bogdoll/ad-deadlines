@@ -113,6 +113,10 @@ footer {
   background-color: white;
 }
 
+#toBeUpdated_confs {
+  visibility: hidden;
+}
+
 .pullRequest {
   background-color: white;
   border: 1px solid grey;

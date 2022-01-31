@@ -69,7 +69,10 @@
             </div>
         </div>
         <div id="confs">
-            <div class="highlightBorder"> Please check for updated deadlines of the following conferences:
+            <div class="highlightBorder">
+                <a class="conf-title">
+                    PLEASE CHECK FOUR UPDATED DEADLINES OF THE FOLLOWING CONFERENCES:
+                </a>
                 <button class="pullRequest" type=“button”><a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}/blob/gh-pages/_data/conferences.yml">Pull Request</a></button>
                 <br> <br>
                 <div id="toBeUpdated_confs">
@@ -231,12 +234,15 @@
           document.querySelector('#{{conf.id}} .calendar').appendChild(myCalendar);
 
           // check if date has passed, add 'past' class to it
+          // NEW: if conferences lay in between 9 and 12 months of the past, they are added to the group 'toBeUpdated'
+          // and are highlighted at the top of the website to encourage updating their new submission deadlines
           var today = moment();
           diff = today.diff(confDate, 'days')
           $('#{{conf.id}}').attr("diff", diff)
           if (diff > 275 && diff < 366) {
               $('#{{conf.id}}').addClass('past');
-              $('#{{conf.id}}').appendTo($("#toBeUpdated_confs"))
+              $('#{{conf.id}}').appendTo($("#toBeUpdated_confs"));
+              $("#toBeUpdated_confs").style.visibility='visible'
           }
           else if (diff > 0) {
             $('#{{conf.id}}').addClass('past');
