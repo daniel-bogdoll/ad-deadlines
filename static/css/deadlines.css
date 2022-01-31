@@ -110,6 +110,14 @@ footer {
   visibility: hidden;
 }
 
+.jumpButton {
+  right: 10px;
+  position: absolute;
+  background-color: rgb(0, 151, 230);
+  border-radius: 2px;
+  color: white;
+}
+
 .toBeUpdated {
   background-color: white;
 }
