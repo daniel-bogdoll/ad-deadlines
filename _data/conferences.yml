@@ -1,5 +1,19 @@
 ---
 
+- title: TEST (Deadline estimated)
+  long: Fake Test Conference
+  hindex: --
+  year: 2021
+  id: test21
+  link: https://ieee-arso2021.org/
+  deadline: '2021-02-24 23:59:59'
+  timezone: UTC-12
+  date: --
+  place: --
+  sub: RO
+  host: IEEE
+  note: '<b>NOTE</b>: fake conference'
+
 - title: ARSO (Deadline estimated)
   long: International Conference on Advanced Robotics and its Social Impacts
   hindex: --
