@@ -123,6 +123,11 @@ footer {
   font-size: 10px;
 }
 
+.outdated {
+  visibility: hidden;
+  opacity: 0.5;
+}
+
 .conf-row {
   margin-bottom: 5px;
 }

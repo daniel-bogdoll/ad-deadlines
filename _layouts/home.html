@@ -139,10 +139,14 @@
             <div id="past_confs">
             </div>
             <br> <br>
-            <a class="conf-title">
-                CONFERENCES THAT HAVE NOT BEEN UPDATED IN OVER A YEAR:
-            </a>
-            <div id="outdated_confs">
+            <div class="outdated">
+                <a class="conf-title" name="outdated">
+                    CONFERENCES THAT HAVE NOT BEEN UPDATED IN OVER A YEAR:
+                </a>
+                <br>
+                <br>
+                <div id="outdated_confs">
+            </div>
             </div>
         </div>
         <footer>
@@ -257,6 +261,7 @@
           else if (diff>=366) {
               $('#{{conf.id}}').addClass('past');
               $('#{{conf.id}}').appendTo($("#outdated_confs"));
+              $('.outdated').css('visibility', 'visible')
           }
           else if (diff > 0) {
             $('#{{conf.id}}').addClass('past');
