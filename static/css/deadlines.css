@@ -107,14 +107,11 @@ footer {
   padding: 5px 20px 0px;
   position: relative;
   margin: 0px -20px 10px;
+  visibility: hidden;
 }
 
 .toBeUpdated {
   background-color: white;
-}
-
-#toBeUpdated_confs {
-  visibility: hidden;
 }
 
 .pullRequest {
