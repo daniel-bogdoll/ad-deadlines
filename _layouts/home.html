@@ -73,7 +73,8 @@
                 <a class="conf-title">
                     PLEASE CHECK FOR UPDATED DEADLINES OF THE FOLLOWING CONFERENCES:
                 </a>
-                <button class="pullRequest" type=“button”><a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}/blob/gh-pages/_data/conferences.yml">PULL REQUEST</a></button>
+                <button class="pullRequest" type=“button”><a target="_blank" href="//github.com/{{ site.github_username
+                }}/{{ site.github_repo }}/blob/gh-pages/_data/conferences.yml">PULL REQUEST</a></button>
                 <br> <br>
                 <div id="toBeUpdated_confs">
                 </div>
@@ -83,7 +84,9 @@
           <div id="{{conf.id}}" class="hConfItem {% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
             <div class="row conf-row">
                 <div class="col-xs-5 col-sm-6">
-                    <a title="{{conf.long}}" class="conf-title" href="{{ site.url }}/conference?id={{ conf.id }}">{{conf.title}} {{conf.year}}</a>
+                    <a title="{{conf.long}}" class="conf-title" href="{{ site.url }}/conference?id={{ conf.id }}">
+                        {{conf.title}} {{conf.year}}
+                    </a>
                 </div>
                 <div class="col-xs-7 col-sm-6">
                   <span class="timer"></span>
@@ -134,6 +137,12 @@
           {% endfor %}
         </div>
             <div id="past_confs">
+            </div>
+            <br> <br>
+            <a class="conf-title">
+                CONFERENCES THAT HAVE NOT BEEN UPDATED IN OVER A YEAR:
+            </a>
+            <div id="outdated_confs">
             </div>
         </div>
         <footer>
@@ -245,6 +254,10 @@
               $('.highlightBorder').css('visibility', 'visible')
 
           }
+          else if (diff>=366) {
+              $('#{{conf.id}}').addClass('past');
+              $('#{{conf.id}}').appendTo($("#outdated_confs"));
+          }
           else if (diff > 0) {
             $('#{{conf.id}}').addClass('past');
             $('#{{conf.id}}').appendTo($("#past_confs"))
@@ -264,6 +277,10 @@
         $("#toBeUpdated_confs .ConfItem").sort(function (a, b) {
             return $(b).attr('diff') - $(a).attr('diff');
         }).appendTo($("#toBeUpdated_confs"));
+
+        $("#outdated_confs .ConfItem").sort(function (a, b) {
+            return $(b).attr('diff') - $(a).attr('diff');
+        }).appendTo($("#outdated_confs"));
 
         // Get subjects from URL
         var url = new URL(window.location);
