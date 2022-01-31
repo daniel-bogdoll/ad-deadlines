@@ -119,8 +119,8 @@ footer {
   border: 1px solid grey;
   border-radius: 5px;
   position: absolute;
-  top: 10px;
   right: 10px;
+  font-size: 10px;
 }
 
 .conf-row {
