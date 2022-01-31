@@ -1,19 +1,5 @@
 ---
 
-- title: TEST (Deadline estimated)
-  long: Fake Conference for Testing Purposes
-  hindex: --
-  year: 2021
-  id: test22
-  link: https://fzi.de/
-  deadline: '2021-02-24 23:59:59'
-  timezone: UTC-12
-  date: --
-  place: --
-  sub: TE
-  host: TEST
-  note: 'fake conference'
-
 - title: ARSO (Deadline estimated)
   long: International Conference on Advanced Robotics and its Social Impacts
   hindex: --
