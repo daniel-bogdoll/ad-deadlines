@@ -71,7 +71,7 @@
         <div id="confs">
             <div class="highlightBorder">
                 <a class="conf-title">
-                    PLEASE CHECK FOUR UPDATED DEADLINES OF THE FOLLOWING CONFERENCES:
+                    PLEASE CHECK FOR UPDATED DEADLINES OF THE FOLLOWING CONFERENCES:
                 </a>
                 <button class="pullRequest" type=“button”><a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}/blob/gh-pages/_data/conferences.yml">Pull Request</a></button>
                 <br> <br>
@@ -242,7 +242,8 @@
           if (diff > 275 && diff < 366) {
               $('#{{conf.id}}').addClass('past');
               $('#{{conf.id}}').appendTo($("#toBeUpdated_confs"));
-              $("#toBeUpdated_confs").style.visibility='visible'
+              $(".highlightBorder").css('visibility', 'visible')
+
           }
           else if (diff > 0) {
             $('#{{conf.id}}').addClass('past');
