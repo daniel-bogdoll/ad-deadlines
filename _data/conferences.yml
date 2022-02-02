@@ -71,6 +71,20 @@
   sub: ML
   host: IEEE
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 10, 2022.'
+  
+  - title: WCCI
+  long: World Congress on Computational Intelligence
+  hindex: 57
+  year: 2022
+  id: wcci22
+  link: https://wcci2022.org/call-for-papers/
+  deadline: '2022-02-14 23:59:00'
+  timezone: UTC+1
+  date: July 18-23, 2022
+  place: "Padua, Italy"
+  sub: ML
+  host: IEEE
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 31, 2022.'
 
 - title: AVEC
   long: International Symposium on Advanced Vehicle Control
