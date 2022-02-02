@@ -6,7 +6,7 @@
   year: 2021
   id: test21
   link: https://ieee-arso2021.org/
-  deadline: '2022-02-24 23:59:59'
+  deadline: '2021-02-24 23:59:59'
   timezone: UTC-12
   date: --
   place: --
@@ -72,7 +72,7 @@
   host: IEEE
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 10, 2022.'
   
-  - title: WCCI
+- title: WCCI
   long: World Congress on Computational Intelligence
   hindex: 57
   year: 2022
