@@ -29,6 +29,21 @@
   host: IEEE
   note: '<b>NOTE</b>: fake conference'
 
+- title: AVS (Deadline estimated)
+  long: International Symposium on Autonomous Vehicle Software
+  hindex: --
+  year: 2022
+  id: avs22
+  link: http://ieeeavs.com
+  deadline: '2022-10-20 23:59:59'
+  timezone: UTC-12
+  date: --
+  place: --
+  sub: AS
+  host: IEEE
+  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
+    from 2021'
+
 - title: ARSO (Deadline estimated)
   long: International Conference on Advanced Robotics and its Social Impacts
   hindex: --
