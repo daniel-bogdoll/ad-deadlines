@@ -441,13 +441,13 @@
   place: Tel-Aviv, Israel
   sub: CV
 
-- title: ICCAR (Deadline approximated)
+- title: ICCAR
   long: International Conference on Control, Automation and Robotics
   hindex: 14
   year: 2022
   id: iccar22
   link: http://www.iccar.org/index.html
-  deadline: '2022-03-10 23:59:59'
+  deadline: '2022-02-20 23:59:59'
   timezone: UTC-12
   date: April 8-10, 2022
   place: Xiamen, China
