@@ -335,19 +335,6 @@
   place: Kyoto, Japan
   sub: RO
 
-- title: MICCAI
-  long: Medical Image Computing and Compouter Assisted Intervention
-  hindex: 69
-  year: 2022
-  id: miccai2022
-  link: https://conferences.miccai.org/2022/en/
-  deadline: '2022-03-01 23:59:59'
-  timezone: UTC-8
-  date: September 18-22, 2022
-  place: Singapore
-  sub: CV
-  note: '<b>NOTE</b>: Intent to submit deadline on Feb 15, 2022. More info <a href=''https://www.miccai2022.org/''>here</a>.'
-
 - title: ITS
   long: ITS World Congress
   hindex: --
@@ -360,7 +347,6 @@
   place: Los Angeles, USA
   sub: IV
   host: ITS
-  note: '<b>NOTE</b>: Mandatory abstract deadline on February 07, 2022'
 
 - title: FUSION
   long: International Conference on Information Fusion
@@ -689,11 +675,11 @@
   sub: DM
   host: IEEE
 
-- title: ISC (Deadline estimated)
+- title: ISC2 (Deadline estimated)
   long: International Smart Cities Conference
   hindex: 22
   year: 2022
-  id: isc22
+  id: isc222
   link: https://attend.ieee.org/isc2-2022/
   deadline: '2022-06-13 23:59:59'
   timezone: UTC-12
