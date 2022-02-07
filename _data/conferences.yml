@@ -41,6 +41,32 @@
   place: Singapore
   sub: ML
   host: IEEE
+  
+- title: MESA
+  long: International Conference on Mechatronic and Embedded Systems and Applications
+  hindex: 12
+  year: 2022
+  id: mesa22
+  link: http://mesa2022.org/
+  deadline: '2022-03-31 23:59:59'
+  timezone: UTC-12
+  date: August 29-31, 2022
+  place: Taipei, Taiwan
+  sub: IV
+  host: IEEE/ASME
+  
+- title: UV (Deadline estimated)
+  long: International Conference on Universal Village
+  hindex: --
+  year: 2022
+  id: uv22
+  link: https://universalvillage.org/ieee-uv-conference/
+  deadline: '2022-04-01 23:59:59'
+  timezone: UTC-12
+  date: October 22-25, 2022
+  place: Virtual
+  sub: IV
+  host: IEEE
 
 - title: AVS (Deadline estimated)
   long: International Symposium on Autonomous Vehicle Software
