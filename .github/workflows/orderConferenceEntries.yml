@@ -2,9 +2,7 @@ name: Sort Entries of Conferences
 
 on:
   push:
-    paths: 
-      -"_data/conferences.yml"
-      -".github/workflows"
+    branches: [ gh-pages ]
 
 jobs:
   build:
