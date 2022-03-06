@@ -2,7 +2,8 @@ name: Sort Entries of Conferences
 
 on:
   push:
-    paths: -"_data/conferences.yml"
+    paths: 
+      -"_data/conferences.yml"
 
 jobs:
   build:
