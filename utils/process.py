@@ -2,7 +2,8 @@
 # coding: utf-8
 
 # Sort and Clean conference data.
-# It writes to `sorted_data.yml` and `cleaned_data.yml`, copy those to the conference.yml after screening.
+# It writes to `conferences.yml` and `cleaned_data.yml` (copy this to the conference.yml after screening).
+# Script is executed via GitHub Actions after every push to the main branch therefore updating the current order of conferences. 
 
 import yaml
 import datetime
