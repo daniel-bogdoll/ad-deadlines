@@ -135,7 +135,7 @@ with open("_data/conferences.yml", 'r') as stream:
             print(q["deadline"], " - ", q["title"])
         print("\n\n")
 
-        with open('conferences.yml', 'w') as outfile:
+        with open('_data/conferences.yml', 'w') as outfile:
             for line in ordered_dump(
                     conf + tba,
                     Dumper=yaml.SafeDumper,
@@ -143,5 +143,6 @@ with open("_data/conferences.yml", 'r') as stream:
                     explicit_start=True).splitlines():
                 outfile.write(line.replace('- title:', '\n- title:'))
                 outfile.write('\n')
+            print("-- Saved --")
     except yaml.YAMLError as exc:
         print(exc)
