@@ -24,7 +24,7 @@ jobs:
         run: |
             python -m pip install --upgrade pip
             pip install flake8 pytest
-            if [ -f utils/requirements.txt ]; then pip install -r requirements.txt; fi
+            pip install -r utils/requirements.txt
       - name: execute py script # run file
         run: |
           python utils/process.py
