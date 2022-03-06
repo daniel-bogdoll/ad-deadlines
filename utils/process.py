@@ -143,6 +143,5 @@ with open("_data/conferences.yml", 'r') as stream:
                     explicit_start=True).splitlines():
                 outfile.write(line.replace('- title:', '\n- title:'))
                 outfile.write('\n')
-            print("-- Saved --")
     except yaml.YAMLError as exc:
         print(exc)
