@@ -1,33 +1,58 @@
 ---
 
-- title: TES2 (Deadline estimated)
-  long: Fake Test Conference 2
+- title: SSCI
+  long: Symposium Series On Computational Intelligence
+  hindex: 31
+  year: 2022
+  id: ssci22
+  link: https://www.ieeessci2022.org/index.html
+  deadline: '2022-07-01 23:59:59'
+  timezone: UTC-12
+  date: December 04-07, 2022
+  place: Singapore
+  sub: ML
+  host: IEEE
+  
+- title: MESA
+  long: International Conference on Mechatronic and Embedded Systems and Applications
+  hindex: 12
+  year: 2022
+  id: mesa22
+  link: http://mesa2022.org/
+  deadline: '2022-03-31 23:59:59'
+  timezone: UTC-12
+  date: August 29-31, 2022
+  place: Taipei, Taiwan
+  sub: IV
+  host: IEEE/ASME
+  
+- title: UV (Deadline estimated)
+  long: International Conference on Universal Village
   hindex: --
-  year: 2021
-  id: test222
-  link: https://ieee-arso2021.org/
-  deadline: '2021-02-24 23:59:59'
+  year: 2022
+  id: uv22
+  link: https://universalvillage.org/ieee-uv-conference/
+  deadline: '2022-04-01 23:59:59'
+  timezone: UTC-12
+  date: October 22-25, 2022
+  place: Virtual
+  sub: IV
+  host: IEEE
+
+- title: AVS (Deadline estimated)
+  long: International Symposium on Autonomous Vehicle Software
+  hindex: --
+  year: 2022
+  id: avs22
+  link: http://ieeeavs.com
+  deadline: '2022-10-20 23:59:59'
   timezone: UTC-12
   date: --
   place: --
-  sub: RO
+  sub: AS
   host: IEEE
-  note: '<b>NOTE</b>: fake conference'
-
-
-- title: TEST (Deadline estimated)
-  long: Fake Test Conference
-  hindex: --
-  year: 2021
-  id: test21
-  link: https://ieee-arso2021.org/
-  deadline: '2019-02-24 23:59:59'
-  timezone: UTC-12
-  date: --
-  place: --
-  sub: RO
-  host: IEEE
-  note: '<b>NOTE</b>: fake conference'
+  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
+    from 2021'
 
 - title: ARSO (Deadline estimated)
   long: International Conference on Advanced Robotics and its Social Impacts
@@ -211,7 +236,7 @@
   year: 2022
   id: iv2022
   link: https://iv2022.com/
-  deadline: '2022-02-01 23:59:59'
+  deadline: '2022-02-13 23:59:59'
   timezone: UTC-12
   date: July 05-09, 2022
   place: Aachen, Germany
@@ -320,19 +345,6 @@
   place: Kyoto, Japan
   sub: RO
 
-- title: MICCAI
-  long: Medical Image Computing and Compouter Assisted Intervention
-  hindex: 69
-  year: 2022
-  id: miccai2022
-  link: https://conferences.miccai.org/2022/en/
-  deadline: '2022-03-01 23:59:59'
-  timezone: UTC-8
-  date: September 18-22, 2022
-  place: Singapore
-  sub: CV
-  note: '<b>NOTE</b>: Intent to submit deadline on Feb 15, 2022. More info <a href=''https://www.miccai2022.org/''>here</a>.'
-
 - title: ITS
   long: ITS World Congress
   hindex: --
@@ -345,7 +357,6 @@
   place: Los Angeles, USA
   sub: IV
   host: ITS
-  note: '<b>NOTE</b>: Mandatory abstract deadline on February 07, 2022'
 
 - title: FUSION
   long: International Conference on Information Fusion
@@ -440,13 +451,13 @@
   place: Tel-Aviv, Israel
   sub: CV
 
-- title: ICCAR (Deadline approximated)
+- title: ICCAR
   long: International Conference on Control, Automation and Robotics
   hindex: 14
   year: 2022
   id: iccar22
   link: http://www.iccar.org/index.html
-  deadline: '2022-03-10 23:59:59'
+  deadline: '2022-02-20 23:59:59'
   timezone: UTC-12
   date: April 8-10, 2022
   place: Xiamen, China
@@ -674,11 +685,11 @@
   sub: DM
   host: IEEE
 
-- title: ISC (Deadline estimated)
+- title: ISC2 (Deadline estimated)
   long: International Smart Cities Conference
   hindex: 22
   year: 2022
-  id: isc22
+  id: isc222
   link: https://attend.ieee.org/isc2-2022/
   deadline: '2022-06-13 23:59:59'
   timezone: UTC-12
