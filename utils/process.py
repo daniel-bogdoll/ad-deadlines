@@ -106,7 +106,7 @@ def query_yes_no(question, default="no"):
 
 # Sort:
 
-with open("../_data/conferences.yml", 'r') as stream:
+with open("_data/conferences.yml", 'r') as stream:
     try:
         data = yaml.load(stream, Loader=Loader)
         #print("Initial Sorting:")
@@ -135,7 +135,7 @@ with open("../_data/conferences.yml", 'r') as stream:
             print(q["deadline"], " - ", q["title"])
         print("\n\n")
 
-        with open('sorted_data.yml', 'w') as outfile:
+        with open('_data/sorted_conferences.yml', 'w') as outfile:
             for line in ordered_dump(
                     conf + tba,
                     Dumper=yaml.SafeDumper,
