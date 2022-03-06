@@ -135,7 +135,7 @@ with open("_data/conferences.yml", 'r') as stream:
             print(q["deadline"], " - ", q["title"])
         print("\n\n")
 
-        with open('./_data/conferences.yml', 'w') as outfile:
+        with open('conferences.yml', 'w') as outfile:
             for line in ordered_dump(
                     conf + tba,
                     Dumper=yaml.SafeDumper,
