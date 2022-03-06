@@ -1,13 +1,5 @@
 ---
 
-- title: TEST-PRPS
-  long: Fake Conference for Testing Purposes
-  hindex: 44
-  year: 2044
-  id: test44
-  deadline: '2044-01-01 23:59:59'
-  timezone: UTC-12
-
 - title: IJCAI-ECAI
   long: International Joint Conference on Artificial Intelligence and European Conference
     on Artificial Intelligence
