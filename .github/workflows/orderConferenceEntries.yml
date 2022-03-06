@@ -22,5 +22,6 @@ jobs:
         path: ${{ env.DEVOPS_DIR }}
 
     - name: Hello World
+      working-directory: ./my-app
       run: python ${{ env.DEVOPS_DIR }}/utils/process.py
       shell: sh
