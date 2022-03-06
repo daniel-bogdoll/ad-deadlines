@@ -28,3 +28,21 @@ jobs:
       - name: execute py script # run file
         run: |
           python utils/process.py
+          
+          
+            
+      - name: Commit files
+        id: commit
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions"
+          git add --all
+          git commit -m "Add changes" -a
+          echo "::set-output name=push::true"
+          fi
+        shell: bash
+      - name: Push changes
+        if: steps.commit.outputs.push == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+           github_token: ${{ secrets.GITHUB_TOKEN }}
