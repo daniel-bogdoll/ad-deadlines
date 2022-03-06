@@ -1,74 +1,5 @@
 ---
 
-- title: SSCI
-  long: Symposium Series On Computational Intelligence
-  hindex: 31
-  year: 2022
-  id: ssci22
-  link: https://www.ieeessci2022.org/index.html
-  deadline: '2022-07-01 23:59:59'
-  timezone: UTC-12
-  date: December 04-07, 2022
-  place: Singapore
-  sub: ML
-  host: IEEE
-  
-- title: MESA
-  long: International Conference on Mechatronic and Embedded Systems and Applications
-  hindex: 12
-  year: 2022
-  id: mesa22
-  link: http://mesa2022.org/
-  deadline: '2022-03-31 23:59:59'
-  timezone: UTC-12
-  date: August 29-31, 2022
-  place: Taipei, Taiwan
-  sub: IV
-  host: IEEE/ASME
-  
-- title: UV (Deadline estimated)
-  long: International Conference on Universal Village
-  hindex: --
-  year: 2022
-  id: uv22
-  link: https://universalvillage.org/ieee-uv-conference/
-  deadline: '2022-04-01 23:59:59'
-  timezone: UTC-12
-  date: October 22-25, 2022
-  place: Virtual
-  sub: IV
-  host: IEEE
-
-- title: AVS (Deadline estimated)
-  long: International Symposium on Autonomous Vehicle Software
-  hindex: --
-  year: 2022
-  id: avs22
-  link: http://ieeeavs.com
-  deadline: '2022-10-20 23:59:59'
-  timezone: UTC-12
-  date: --
-  place: --
-  sub: AS
-  host: IEEE
-  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
-    from 2021'
-
-- title: ARSO (Deadline estimated)
-  long: International Conference on Advanced Robotics and its Social Impacts
-  hindex: --
-  year: 2022
-  id: arso22
-  link: https://ieee-arso2021.org/
-  deadline: '2021-05-24 23:59:59'
-  timezone: UTC-12
-  date: --
-  place: --
-  sub: RO
-  host: IEEE
-  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
-    from 2021'
-
 - title: IJCAI-ECAI
   long: International Joint Conference on Artificial Intelligence and European Conference
     on Artificial Intelligence
@@ -96,20 +27,6 @@
   sub: ML
   host: IEEE
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 10, 2022.'
-  
-- title: WCCI
-  long: World Congress on Computational Intelligence
-  hindex: 57
-  year: 2022
-  id: wcci22
-  link: https://wcci2022.org/call-for-papers/
-  deadline: '2022-02-14 23:59:00'
-  timezone: UTC+1
-  date: July 18-23, 2022
-  place: "Padua, Italy"
-  sub: ML
-  host: IEEE
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 31, 2022.'
 
 - title: AVEC
   long: International Symposium on Advanced Vehicle Control
@@ -124,20 +41,6 @@
   sub: IV
   host: JSAE
 
-- title: ITAVT (WS)
-  long: International Workshop on Intelligent Transportation and Autonomous Vehicles
-    Technologies
-  hindex: --
-  year: 2022
-  id: itavt22
-  link: http://icnetlab.org/ITAVT2022/
-  deadline: '2022-01-23 23:59:59'
-  timezone: UTC-12
-  date: April 25-29, 2022
-  place: Budapest, Hungary
-  sub: IV
-  host: iCNeT
-
 - title: SIGIR
   long: Conference on Research and Development in Information Retrieval
   hindex: 66
@@ -151,17 +54,19 @@
   abstract_deadline: '2021-01-21 23:59:00'
   sub: DM
 
-- title: KDD
-  long: Knowledge Discovery and Data Mining
-  hindex: 38
+- title: ITAVT (WS)
+  long: International Workshop on Intelligent Transportation and Autonomous Vehicles
+    Technologies
+  hindex: --
   year: 2022
-  id: kdd22
-  link: https://www.kdd.org/kdd2022/
-  deadline: '2022-02-10 23:59:59'
+  id: itavt22
+  link: http://icnetlab.org/ITAVT2022/
+  deadline: '2022-01-23 23:59:59'
   timezone: UTC-12
-  date: August 14-18, 2022
-  place: Washington DC, United Stes
-  sub: DM
+  date: April 25-29, 2022
+  place: Budapest, Hungary
+  sub: IV
+  host: iCNeT
 
 - title: SIGGRAPH
   long: Special Interest Group on Computer Graphics and Interactive Techniques
@@ -230,19 +135,6 @@
   sub: DM
   host: MDPI
 
-- title: IV
-  long: Intelligent Vehicles Symposium
-  hindex: 52
-  year: 2022
-  id: iv2022
-  link: https://iv2022.com/
-  deadline: '2022-02-13 23:59:59'
-  timezone: UTC-12
-  date: July 05-09, 2022
-  place: Aachen, Germany
-  sub: IV
-  host: IEEE
-
 - title: ICCC
   long: International Conference on Computational Creativity
   hindex: 22
@@ -266,6 +158,45 @@
   timezone: UTC-8
   place: London, UK
   sub: ML
+
+- title: KDD
+  long: Knowledge Discovery and Data Mining
+  hindex: 38
+  year: 2022
+  id: kdd22
+  link: https://www.kdd.org/kdd2022/
+  deadline: '2022-02-10 23:59:59'
+  timezone: UTC-12
+  date: August 14-18, 2022
+  place: Washington DC, United Stes
+  sub: DM
+
+- title: IV
+  long: Intelligent Vehicles Symposium
+  hindex: 52
+  year: 2022
+  id: iv2022
+  link: https://iv2022.com/
+  deadline: '2022-02-13 23:59:59'
+  timezone: UTC-12
+  date: July 05-09, 2022
+  place: Aachen, Germany
+  sub: IV
+  host: IEEE
+
+- title: WCCI
+  long: World Congress on Computational Intelligence
+  hindex: 57
+  year: 2022
+  id: wcci22
+  link: https://wcci2022.org/call-for-papers/
+  deadline: '2022-02-14 23:59:00'
+  timezone: UTC+1
+  date: July 18-23, 2022
+  place: Padua, Italy
+  sub: ML
+  host: IEEE
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 31, 2022.'
 
 - title: SAFECOMP
   long: International Conference on Computer Safety, Reliability and Security
@@ -319,6 +250,19 @@
   date: "June 28 \u2013 July 1, 2022"
   place: Athens, Greece
   sub: IV
+  host: IEEE
+
+- title: ICCAR
+  long: International Conference on Control, Automation and Robotics
+  hindex: 14
+  year: 2022
+  id: iccar22
+  link: http://www.iccar.org/index.html
+  deadline: '2022-02-20 23:59:59'
+  timezone: UTC-12
+  date: April 8-10, 2022
+  place: Xiamen, China
+  sub: RO
   host: IEEE
 
 - title: UAI
@@ -439,6 +383,21 @@
   abstract_deadline: '2022-02-22 23:59:59'
   note: '<b>NOTE</b>: Mandatory abstract deadline on February 22, 2022'
 
+- title: ARSO (Deadline estimated)
+  long: International Conference on Advanced Robotics and its Social Impacts
+  hindex: --
+  year: 2022
+  id: arso22
+  link: https://ieee-arso2021.org/
+  deadline: '2021-05-24 23:59:59'
+  timezone: UTC-12
+  date: --
+  place: --
+  sub: RO
+  host: IEEE
+  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
+    from 2021'
+
 - title: ECCV
   long: European Conference on Computer Vision
   hindex: 197
@@ -450,19 +409,6 @@
   date: October 24-28, 2022
   place: Tel-Aviv, Israel
   sub: CV
-
-- title: ICCAR
-  long: International Conference on Control, Automation and Robotics
-  hindex: 14
-  year: 2022
-  id: iccar22
-  link: http://www.iccar.org/index.html
-  deadline: '2022-02-20 23:59:59'
-  timezone: UTC-12
-  date: April 8-10, 2022
-  place: Xiamen, China
-  sub: RO
-  host: IEEE
 
 - title: CPSCom
   long: International Conference on Cyber, Physical and Social Computing
@@ -508,6 +454,19 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 21, 2022. More info <a href=''https://2022.ecmlpkdd.org/index.php/key-dates-deadlines/''>here</a>.'
 
+- title: MESA
+  long: International Conference on Mechatronic and Embedded Systems and Applications
+  hindex: 12
+  year: 2022
+  id: mesa22
+  link: http://mesa2022.org/
+  deadline: '2022-03-31 23:59:59'
+  timezone: UTC-12
+  date: August 29-31, 2022
+  place: Taipei, Taiwan
+  sub: IV
+  host: IEEE/ASME
+
 - title: ICAS (Deadline estimated)
   long: International Conference on Autonomous Systems
   hindex: 10
@@ -522,6 +481,19 @@
   host: IEEE
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 20221'
+
+- title: UV (Deadline estimated)
+  long: International Conference on Universal Village
+  hindex: --
+  year: 2022
+  id: uv22
+  link: https://universalvillage.org/ieee-uv-conference/
+  deadline: '2022-04-01 23:59:59'
+  timezone: UTC-12
+  date: October 22-25, 2022
+  place: Virtual
+  sub: IV
+  host: IEEE
 
 - title: SMC
   long: International Conference on Systems, Man, and Cybernetics
@@ -751,6 +723,19 @@
   sub: ML
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2021'
+
+- title: SSCI
+  long: Symposium Series On Computational Intelligence
+  hindex: 31
+  year: 2022
+  id: ssci22
+  link: https://www.ieeessci2022.org/index.html
+  deadline: '2022-07-01 23:59:59'
+  timezone: UTC-12
+  date: December 04-07, 2022
+  place: Singapore
+  sub: ML
+  host: IEEE
 
 - title: ICCPS
   long: International Conference on Cyber-Physical Systems
@@ -1194,6 +1179,21 @@
   place: Muscat, Oman
   sub: IV
   host: IEEE
+
+- title: AVS (Deadline estimated)
+  long: International Symposium on Autonomous Vehicle Software
+  hindex: --
+  year: 2022
+  id: avs22
+  link: http://ieeeavs.com
+  deadline: '2022-10-20 23:59:59'
+  timezone: UTC-12
+  date: --
+  place: --
+  sub: AS
+  host: IEEE
+  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
+    from 2021'
 
 - title: WWW (Deadline estimated)
   long: International World Wide Web Conference
