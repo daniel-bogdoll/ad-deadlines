@@ -183,6 +183,19 @@
   place: Aachen, Germany
   sub: IV
   host: IEEE
+  
+- title: AITest
+  long: International Conference on Artificial Intelligence Testing
+  hindex: --
+  year: 2022
+  id: aitest2022
+  link: http://ieeetests.com/
+  deadline: '2022-05-08 23:59:59'
+  timezone: UTC-12
+  date: August 15-18, 2022
+  place: San Francisco, USA
+  sub: ML
+  host: IEEE
 
 - title: WCCI
   long: World Congress on Computational Intelligence
