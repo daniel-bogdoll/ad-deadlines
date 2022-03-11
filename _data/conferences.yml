@@ -183,19 +183,6 @@
   place: Aachen, Germany
   sub: IV
   host: IEEE
-  
-- title: AITest
-  long: International Conference on Artificial Intelligence Testing
-  hindex: --
-  year: 2022
-  id: aitest2022
-  link: http://ieeetests.com/
-  deadline: '2022-05-08 23:59:59'
-  timezone: UTC-12
-  date: August 15-18, 2022
-  place: San Francisco, USA
-  sub: ML
-  host: IEEE
 
 - title: WCCI
   long: World Congress on Computational Intelligence
@@ -396,6 +383,18 @@
   abstract_deadline: '2022-02-22 23:59:59'
   note: '<b>NOTE</b>: Mandatory abstract deadline on February 22, 2022'
 
+- title: ECCV
+  long: European Conference on Computer Vision
+  hindex: 197
+  year: 2022
+  id: eccv22
+  link: https://eccv2022.ecva.net
+  deadline: '2022-03-07 20:59:00'
+  timezone: UTC+1
+  date: October 24-28, 2022
+  place: Tel-Aviv, Israel
+  sub: CV
+
 - title: ARSO (Deadline estimated)
   long: International Conference on Advanced Robotics and its Social Impacts
   hindex: --
@@ -410,18 +409,6 @@
   host: IEEE
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2021'
-
-- title: ECCV
-  long: European Conference on Computer Vision
-  hindex: 197
-  year: 2022
-  id: eccv22
-  link: https://eccv2022.ecva.net
-  deadline: '2022-03-07 20:59:00'
-  timezone: UTC+1
-  date: October 24-28, 2022
-  place: Tel-Aviv, Israel
-  sub: CV
 
 - title: CPSCom
   long: International Conference on Cyber, Physical and Social Computing
@@ -546,6 +533,19 @@
   date: September 22-24, 2022
   place: Cluj-Napoca, Romania
   sub: V2X
+  host: IEEE
+
+- title: AITest
+  long: International Conference on Artificial Intelligence Testing
+  hindex: --
+  year: 2022
+  id: aitest2022
+  link: http://ieeetests.com/
+  deadline: '2022-05-08 23:59:59'
+  timezone: UTC-12
+  date: August 15-18, 2022
+  place: San Francisco, USA
+  sub: ML
   host: IEEE
 
 - title: ECMR (Deadline estimated)
