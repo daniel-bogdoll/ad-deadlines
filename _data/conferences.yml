@@ -68,6 +68,19 @@
   sub: IV
   host: iCNeT
 
+- title: WAD (WS)
+  long: CVPR Workshop on Autonomous Driving
+  hindex: 89
+  year: 2022
+  id: wad22
+  link: http://cvpr2022.wad.vision/
+  deadline: '2022-03-18 23:59:59'
+  timezone: UTC-12
+  date: June 20, 2022
+  place: Louisiana, USA
+  sub: IV
+  host: IEEE/CVF
+
 - title: SIGGRAPH
   long: Special Interest Group on Computer Graphics and Interactive Techniques
   hindex: 19
