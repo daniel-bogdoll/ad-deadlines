@@ -1,5 +1,18 @@
 ---
 
+- title: ICECCME
+  long: International Conference on Electrical, Computer, Communications and Mechatronics Engineering
+  hindex: --
+  year: 2022
+  id: iceccme22
+  link: http://www.iceccme.com/home
+  deadline: '2022-06-10 23:59:00'
+  timezone: UTC+1
+  date: November 16-18, 2022
+  place: "Maldives"
+  sub: ML
+  host: IEEE
+
 - title: IJCAI-ECAI
   long: International Joint Conference on Artificial Intelligence and European Conference
     on Artificial Intelligence
