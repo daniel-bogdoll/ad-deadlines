@@ -341,20 +341,6 @@
   sub: RO
   host: IEEE
 
-- title: ITSC
-  long: International Conference on Intelligent Transportation Systems / Intelligent
-    Transportation Systems Conference
-  hindex: 49
-  year: 2022
-  id: itsc2022
-  link: https://www.ieee-itsc2022.org/
-  deadline: '2022-03-31 23:59:59'
-  timezone: UTC-12
-  date: October 08-12, 2022
-  place: Macau, China
-  sub: IV
-  host: IEEE
-
 - title: ICINCO
   long: International Conference on Informatics in Control, Automation and Robotics
   hindex: 14
@@ -395,6 +381,19 @@
   place: Tel-Aviv, Israel
   sub: CV
 
+- title: CPSCom
+  long: International Conference on Cyber, Physical and Social Computing
+  hindex: --
+  year: 2022
+  id: cpscom22
+  link: http://ieee-cybermatics.org/2022/cpscom/
+  deadline: '2022-03-15 23:59:59'
+  timezone: UTC-12
+  date: August 22-25, 2022
+  place: Espoo, Finland
+  sub: IV
+  host: IEEE
+
 - title: ARSO (Deadline estimated)
   long: International Conference on Advanced Robotics and its Social Impacts
   hindex: --
@@ -409,19 +408,6 @@
   host: IEEE
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2021'
-
-- title: CPSCom
-  long: International Conference on Cyber, Physical and Social Computing
-  hindex: --
-  year: 2022
-  id: cpscom22
-  link: http://ieee-cybermatics.org/2022/cpscom/
-  deadline: '2022-03-15 23:59:59'
-  timezone: UTC-12
-  date: August 22-25, 2022
-  place: Espoo, Finland
-  sub: IV
-  host: IEEE
 
 - title: WAD (WS)
   long: CVPR Workshop on Autonomous Driving
@@ -466,6 +452,20 @@
   place: Grenoble, France (hybrid)
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 21, 2022. More info <a href=''https://2022.ecmlpkdd.org/index.php/key-dates-deadlines/''>here</a>.'
+
+- title: ITSC
+  long: International Conference on Intelligent Transportation Systems / Intelligent
+    Transportation Systems Conference
+  hindex: 49
+  year: 2022
+  id: itsc2022
+  link: https://www.ieee-itsc2022.org/
+  deadline: '2022-03-31 23:59:59'
+  timezone: UTC-12
+  date: October 08-12, 2022
+  place: Macau, China
+  sub: IV
+  host: IEEE
 
 - title: MESA
   long: International Conference on Mechatronic and Embedded Systems and Applications
