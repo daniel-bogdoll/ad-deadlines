@@ -381,19 +381,6 @@
   place: Tel-Aviv, Israel
   sub: CV
 
-- title: CPSCom
-  long: International Conference on Cyber, Physical and Social Computing
-  hindex: --
-  year: 2022
-  id: cpscom22
-  link: http://ieee-cybermatics.org/2022/cpscom/
-  deadline: '2022-03-15 23:59:59'
-  timezone: UTC-12
-  date: August 22-25, 2022
-  place: Espoo, Finland
-  sub: IV
-  host: IEEE
-
 - title: ARSO
   long: International Conference on Advanced Robotics and its Social Impacts
   hindex: 11
@@ -405,6 +392,19 @@
   date: May 28-30, 2022
   place: California, USA
   sub: RO
+  host: IEEE
+
+- title: CPSCom
+  long: International Conference on Cyber, Physical and Social Computing
+  hindex: --
+  year: 2022
+  id: cpscom22
+  link: http://ieee-cybermatics.org/2022/cpscom/
+  deadline: '2022-03-15 23:59:59'
+  timezone: UTC-12
+  date: August 22-25, 2022
+  place: Espoo, Finland
+  sub: IV
   host: IEEE
 
 - title: WAD (WS)
@@ -478,21 +478,6 @@
   sub: IV
   host: IEEE/ASME
 
-- title: ICAS (Deadline estimated)
-  long: International Conference on Autonomous Systems
-  hindex: 10
-  year: 2023
-  id: icas23
-  link: https://2021.ieee-icas.org/
-  deadline: '2023-03-31 23:59:59'
-  timezone: UTC-12
-  date: --
-  place: --
-  sub: IV
-  host: IEEE
-  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
-    from 2021'
-
 - title: UV (Deadline estimated)
   long: International Conference on Universal Village
   hindex: --
@@ -504,6 +489,19 @@
   date: October 22-25, 2022
   place: Virtual
   sub: IV
+  host: IEEE
+
+- title: ICRAS
+  long: International Conference on Robotics and Automation Sciences
+  hindex: 11
+  year: 2022
+  id: icras22
+  link: http://www.icras.org/index.html
+  deadline: '2022-04-10 23:59:59'
+  timezone: UTC-12
+  date: June 9-12, 2022
+  place: Wuhan, China
+  sub: RO
   host: IEEE
 
 - title: SMC
@@ -1477,15 +1475,17 @@
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2020'
 
-- title: ICRAS
-  long: International Conference on Robotics and Automation Sciences
-  hindex: 11
-  year: 2022
-  id: icras22
-  link: http://www.icras.org/index.html
-  deadline: '2022-04-10 23:59:59'
+- title: ICAS (Deadline estimated)
+  long: International Conference on Autonomous Systems
+  hindex: 10
+  year: 2023
+  id: icas23
+  link: https://2021.ieee-icas.org/
+  deadline: '2023-03-31 23:59:59'
   timezone: UTC-12
-  date: June 9-12, 2022
-  place: Wuhan, China
-  sub: RO
+  date: --
+  place: --
+  sub: IV
   host: IEEE
+  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
+    from 2021'
