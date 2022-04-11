@@ -451,20 +451,6 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 21, 2022. More info <a href=''https://2022.ecmlpkdd.org/index.php/key-dates-deadlines/''>here</a>.'
 
-- title: ITSC
-  long: International Conference on Intelligent Transportation Systems / Intelligent
-    Transportation Systems Conference
-  hindex: 49
-  year: 2022
-  id: itsc2022
-  link: https://www.ieee-itsc2022.org/
-  deadline: '2022-04-15 23:59:59'
-  timezone: UTC-12
-  date: October 08-12, 2022
-  place: Macau, China
-  sub: IV
-  host: IEEE
-
 - title: MESA
   long: International Conference on Mechatronic and Embedded Systems and Applications
   hindex: 12
@@ -502,6 +488,20 @@
   date: June 9-12, 2022
   place: Wuhan, China
   sub: RO
+  host: IEEE
+
+- title: ITSC
+  long: International Conference on Intelligent Transportation Systems / Intelligent
+    Transportation Systems Conference
+  hindex: 49
+  year: 2022
+  id: itsc2022
+  link: https://www.ieee-itsc2022.org/
+  deadline: '2022-04-15 23:59:59'
+  timezone: UTC-12
+  date: October 08-12, 2022
+  place: Macau, China
+  sub: IV
   host: IEEE
 
 - title: SMC
