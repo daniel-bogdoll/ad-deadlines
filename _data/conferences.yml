@@ -369,6 +369,19 @@
   abstract_deadline: '2022-02-22 23:59:59'
   note: '<b>NOTE</b>: Mandatory abstract deadline on February 22, 2022'
 
+- title: SAIAD (WS) (Deadline estimaed)
+  long: Safe Artificial Intelligence for Automated Driving
+  hindex: --
+  year: 2022
+  id: saiad22
+  link: https://sites.google.com/view/saiad2022/
+  deadline: '2022-07-01 20:59:00'
+  timezone: UTC+1
+  date: October 24-28, 2022
+  place: Tel-Aviv, Israel
+  sub: ML
+  host: ECCV
+
 - title: ECCV
   long: European Conference on Computer Vision
   hindex: 197
