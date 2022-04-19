@@ -14,6 +14,19 @@
   sub: ML
   host: IJCAI
 
+- title: AI4AD (WS)
+  long: Artificial Intelligence for Autonomous Driving
+  hindex: --
+  year: 2022
+  id: ai4ad22
+  link: https://learn-to-race.org/workshop-ai4ad-ijcai2022/
+  deadline: '2022-05-13 23:59:59'
+  timezone: UTC-12
+  date: July 23, 2022
+  place: Vienna, Austria
+  sub: ML
+  host: IJCAI
+
 - title: ICPR
   long: International Conference on Pattern Recognition
   hindex: 43
@@ -572,20 +585,18 @@
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2021'
 
-- title: WAISE (WS) (Deadline estimated)
+- title: WAISE (WS)
   long: International Workshop on Artificial Intelligence Safety Engineering
   hindex: --
   year: 2022
   id: waise22
-  link: https://www.waise.org/submissions
-  deadline: '2022-05-21 23:59:59'
+  link: https://safecomp22.iks.fraunhofer.de/wp-content/uploads/2022/03/WAISE-2022-call-for-papers.pdf
+  deadline: '2022-05-06 23:59:59'
   timezone: UTC-12
-  date: --
-  place: --
+  date: September 06, 2022
+  place: Munich, Germany
   sub: ML
   host: SafeComp
-  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
-    from 2021'
 
 - title: ICMI (Deadline estimated)
   long: International Conference on Multimodal Interaction
