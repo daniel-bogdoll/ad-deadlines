@@ -569,20 +569,6 @@
   sub: ML
   host: IJCAI
 
-- title: ECMR (Deadline estimated)
-  long: European Conference on Mobile Robots
-  hindex: 19
-  year: 2023
-  id: ecmr23
-  link: https://ecmr2021.org/
-  deadline: '2023-05-15 23:59:59'
-  timezone: UTC-12
-  date: --
-  place: --
-  sub: RO
-  host: IEEE
-  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked from 2021'
-
 - title: NeurIPS
   long: Conference on Neural Information Processing Systems
   hindex: 245
@@ -1512,3 +1498,18 @@
   sub: CV
   host: IEEE
   note: '<b>NOTE</b>: Call for Proposals running: http://iab-rubric.org/fg2021/FG2024.html'
+
+- title: ECMR (Deadline estimated)
+  long: European Conference on Mobile Robots
+  hindex: 19
+  year: 2023
+  id: ecmr23
+  link: https://ecmr2021.org/
+  deadline: '2023-05-15 23:59:59'
+  timezone: UTC-12
+  date: --
+  place: --
+  sub: RO
+  host: IEEE
+  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
+    from 2021'
