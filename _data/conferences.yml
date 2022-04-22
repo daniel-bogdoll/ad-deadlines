@@ -584,6 +584,20 @@
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2021'
 
+- title: NeurIPS
+  long: Conference on Neural Information Processing Systems
+  hindex: 245
+  year: 2022
+  id: neurips22
+  link: https://nips.cc
+  deadline: '2022-05-19 13:00:00'
+  abstract_deadline: '2022-05-16 13:00:00'
+  timezone: America/Los_Angeles
+  date: November 28 - December 09, 2022
+  place: New Orleans, United States
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline.'
+
 - title: ICMI (Deadline estimated)
   long: International Conference on Multimodal Interaction
   hindex: -1
@@ -608,20 +622,6 @@
   date: October 17-22, 2022
   place: Atlanta, Georgia, United States
   sub: DM
-
-- title: NeurIPS
-  long: Conference on Neural Information Processing Systems
-  hindex: 245
-  year: 2022
-  id: neurips22
-  link: https://nips.cc
-  deadline: '2022-05-19 13:00:00'
-  abstract_deadline: '2022-05-16 13:00:00'
-  timezone: America/Los_Angeles
-  date: November 28 - December 09, 2022
-  place: New Orleans, United States
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline.'
 
 - title: WACV (Deadline estimated)
   long: Winter Conference on Application of Computer Vision
