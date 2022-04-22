@@ -520,16 +520,16 @@
 - title: FG (Deadline estimated)
   long: International Conference on Automatic Face and Gesture Recognition
   hindex: --
-  year: 2022
-  id: fg2022
-  link: http://iab-rubric.org/fg2021/
-  deadline: '2022-05-01 23:59:59'
+  year: 2024
+  id: fg2024
+  link: http://iab-rubric.org/fg2024/
+  deadline: '2023-05-01 23:59:59'
   timezone: UTC-7
-  date: November --, 2022
-  place: Guangzhou, China
+  date: --
+  place: --
   sub: CV
-  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
-    from 2021'
+  host: IEEE
+  note: '<b>NOTE</b>: Call for Proposals running: http://iab-rubric.org/fg2021/FG2024.html'
 
 - title: ICCP
   long: International Conference on Intelligent Computer Communication and Processing
