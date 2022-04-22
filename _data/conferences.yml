@@ -581,19 +581,21 @@
   date: November 28 - December 09, 2022
   place: New Orleans, United States
   sub: ML
+  host: NeurIPS
   note: '<b>NOTE</b>: Mandatory abstract deadline.'
 
-- title: ICMI (Deadline estimated)
+- title: ICMI
   long: International Conference on Multimodal Interaction
-  hindex: -1
+  hindex: 34
   year: 2022
   id: icmi2022
   link: https://icmi.acm.org/2022/
-  deadline: '2022-05-26 23:59:00'
+  deadline: '2022-05-13 23:59:00'
   timezone: UTC-7
-  date: --
+  date: November 07-11, 2022
   place: Bangalore, India
-  sub: CV
+  host: ACM
+  sub: RO
 
 - title: CIKM (Deadline estimated)
   long: Conference on Information and Knowledge Management
