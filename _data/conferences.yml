@@ -597,18 +597,21 @@
   host: NeurIPS
   note: '<b>NOTE</b>: Mandatory abstract deadline.'
 
-- title: CIKM (Deadline estimated)
+- title: CIKM
   long: Conference on Information and Knowledge Management
   hindex: 59
   year: 2022
   id: cikm22
   link: https://cikm2022.org/
-  deadline: '2022-05-26 23:59:59'
-  abstract_deadline: '2022-05-19 23:59:59'
+  deadline: '2022-05-19 23:59:59'
+  abstract_deadline: '2022-05-12 23:59:59'
   timezone: UTC-12
   date: October 17-22, 2022
   place: Atlanta, Georgia, United States
+  host: ACM
   sub: DM
+  note: '<b>NOTE</b>: Mandatory abstract deadline: 2022-05-12'
+
 
 - title: WACV (Deadline estimated)
   long: Winter Conference on Application of Computer Vision
