@@ -609,16 +609,16 @@
   place: Atlanta, Georgia, United States
   sub: DM
 
-- title: NeurIPS (Deadline estimated)
+- title: NeurIPS
   long: Conference on Neural Information Processing Systems
   hindex: 245
   year: 2022
   id: neurips22
   link: https://nips.cc
-  deadline: '2022-05-28 13:00:00'
-  abstract_deadline: '2022-05-21 13:00:00'
+  deadline: '2022-05-19 13:00:00'
+  abstract_deadline: '2022-05-16 13:00:00'
   timezone: America/Los_Angeles
-  date: November 26-04 December, 2022
+  date: November 28 - December 09, 2022
   place: New Orleans, United States
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline.'
