@@ -40,6 +40,19 @@
   place: Kanagawa, Japan
   sub: IV
   host: JSAE
+  
+  - title: SL4AD (WS)
+  long: Workshop on Safe Learning for Autonomous Driving
+  hindex: --
+  year: 2022
+  id: sl4ad22
+  link: https://learn-to-race.org/workshop-sl4ad-icml2022/
+  deadline: '2022-05-20 23:59:59'
+  timezone: UTC-12
+  date: July 22, 2022
+  place: Baltimore, USA
+  sub: IV
+  host: ICML 
 
 - title: SIGIR
   long: Conference on Research and Development in Information Retrieval
