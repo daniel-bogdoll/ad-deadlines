@@ -630,14 +630,12 @@
   hindex: 62
   year: 2023
   id: wacv23
-  link: http://wacv2022.thecvf.com/
+  link: https://wacv2023.thecvf.com/
   deadline: '2022-06-02 23:59:59'
   timezone: America/Los_Angeles
-  date: --
+  date: January 03-07, 2023
   place: --
   sub: CV
-  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
-    from 2022'
 
 - title: GCPR
   long: German Conference on Pattern Recognition
