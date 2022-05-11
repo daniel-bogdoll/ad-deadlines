@@ -625,17 +625,18 @@
   sub: DM
   note: '<b>NOTE</b>: Mandatory abstract deadline: 2022-05-12'
 
-- title: WACV (Deadline estimated)
+- title: WACV
   long: Winter Conference on Application of Computer Vision
   hindex: 62
   year: 2023
   id: wacv23
   link: https://wacv2023.thecvf.com/
-  deadline: '2022-06-02 23:59:59'
+  deadline: '2022-07-13 23:59:59'
   timezone: America/Los_Angeles
   date: January 03-07, 2023
   place: --
   sub: CV
+  host: IEEE
 
 - title: GCPR
   long: German Conference on Pattern Recognition
@@ -1057,7 +1058,7 @@
   host: IEEE
   note: '<b>NOTE</b>: old website linked from 2022'
 
-- title: CSCS (Deadline estimated)
+- title: CSCS
   long: Computer Science in Cars Symposium
   hindex: --
   year: 2022
@@ -1065,11 +1066,10 @@
   link: https://acm-cscs.org/
   deadline: '2022-09-17 23:59:59'
   timezone: UTC-12
-  date: --
-  place: --
+  date: December 08, 2022
+  place: Ingolstadt, Germany
   sub: IV
   host: ACM
-  note: '<b>NOTE</b>: old website linked from 2021'
 
 - title: SII (Deadline estimated)
   long: Stuttgart International Symposium
