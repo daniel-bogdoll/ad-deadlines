@@ -652,19 +652,6 @@
   sub: ML
   host: IEEE
 
-- title: ICITE
-  long: International Conference on Intelligent Transportation Engineering
-  hindex: 8
-  year: 2022
-  id: icite2022
-  link: http://www.icite.org/
-  deadline: '2022-06-10 23:59:59'
-  timezone: UTC-12
-  date: October 28-30, 2022
-  place: Beijing, China
-  sub: IV
-  host: Beijing Universities
-
 - title: ICDM
   long: International Conference on Data Mining
   hindex: 54
@@ -677,6 +664,19 @@
   place: Orlando, United States
   sub: DM
   host: IEEE
+
+- title: ICITE
+  long: International Conference on Intelligent Transportation Engineering
+  hindex: 8
+  year: 2022
+  id: icite2022
+  link: http://www.icite.org/
+  deadline: '2022-06-10 23:59:59'
+  timezone: UTC-12
+  date: October 28-30, 2022
+  place: Beijing, China
+  sub: IV
+  host: Beijing Universities
 
 - title: ISC2 (Deadline estimated)
   long: International Smart Cities Conference
