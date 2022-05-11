@@ -1,7 +1,8 @@
 ---
 
 - title: IJCAI-ECAI
-  long: International Joint Conference on Artificial Intelligence and European Conference on Artificial Intelligence
+  long: International Joint Conference on Artificial Intelligence and European Conference
+    on Artificial Intelligence
   hindex: 105
   year: 2022
   id: ecai22
@@ -39,19 +40,6 @@
   place: Kanagawa, Japan
   sub: IV
   host: JSAE
-  
-- title: SL4AD (WS)
-  long: Workshop on Safe Learning for Autonomous Driving
-  hindex: --
-  year: 2022
-  id: sl4ad22
-  link: https://learn-to-race.org/workshop-sl4ad-icml2022/
-  deadline: '2022-05-20 23:59:59'
-  timezone: UTC-12
-  date: July 22, 2022
-  place: Baltimore, USA
-  sub: IV
-  host: ICML 
 
 - title: SIGIR
   long: Conference on Research and Development in Information Retrieval
@@ -624,18 +612,18 @@
   sub: DM
   note: '<b>NOTE</b>: Mandatory abstract deadline: 2022-05-12'
 
-- title: WACV
-  long: Winter Conference on Application of Computer Vision
-  hindex: 62
-  year: 2023
-  id: wacv23
-  link: https://wacv2023.thecvf.com/
-  deadline: '2022-07-13 23:59:59'
-  timezone: America/Los_Angeles
-  date: January 03-07, 2023
-  place: --
-  sub: CV
-  host: IEEE
+- title: SL4AD (WS)
+  long: Workshop on Safe Learning for Autonomous Driving
+  hindex: --
+  year: 2022
+  id: sl4ad22
+  link: https://learn-to-race.org/workshop-sl4ad-icml2022/
+  deadline: '2022-05-20 23:59:59'
+  timezone: UTC-12
+  date: July 22, 2022
+  place: Baltimore, USA
+  sub: IV
+  host: ICML
 
 - title: GCPR
   long: German Conference on Pattern Recognition
@@ -853,6 +841,19 @@
   host: IEEE
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2021'
+
+- title: WACV
+  long: Winter Conference on Application of Computer Vision
+  hindex: 62
+  year: 2023
+  id: wacv23
+  link: https://wacv2023.thecvf.com/
+  deadline: '2022-07-13 23:59:59'
+  timezone: America/Los_Angeles
+  date: January 03-07, 2023
+  place: --
+  sub: CV
+  host: IEEE
 
 - title: CPS-Sec (WS) (Deadline estimated)
   long: International Workshop on Cyber-Physical Systems Security Protocols
