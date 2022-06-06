@@ -678,16 +678,16 @@
   sub: IV
   host: IEEE
 
-- title: ISC2 (Deadline estimated)
+- title: ISC2
   long: International Smart Cities Conference
   hindex: 22
   year: 2022
   id: isc222
   link: https://attend.ieee.org/isc2-2022/
-  deadline: '2022-06-13 23:59:59'
+  deadline: '2022-06-14 23:59:59'
   timezone: UTC-12
-  date: --
-  place: --
+  date: September 26-29, 2022
+  place: Paphos, Cyprus
   sub: V2X
   host: IEEE
 
