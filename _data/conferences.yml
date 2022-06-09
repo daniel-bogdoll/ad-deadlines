@@ -1,5 +1,18 @@
 ---
 
+- title: ICCVE
+  long: International Conference on Connected Vehicles and Expo
+  hindex: --
+  year: 2022
+  id: iccve22
+  link: https://iccve2022.org/
+  deadline: '2021-11-12 23:59:59'
+  timezone: UTC-12
+  date: March 7-9, 2022
+  place: Florida, USA
+  sub: V2X
+  host: IEEE
+
 - title: IJCAI-ECAI
   long: International Joint Conference on Artificial Intelligence and European Conference
     on Artificial Intelligence
