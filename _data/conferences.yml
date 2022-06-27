@@ -1,16 +1,4 @@
 ---
-- title: TPS
-  long: International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications
-  hindex: --
-  year: 2022
-  id: tps22
-  link: http://www.sis.pitt.edu/lersais/conference/tps/2022/calls.html
-  deadline: '2022-08-30 23:59:59'
-  timezone: UTC-12
-  date: December 14-16, 2022 
-  place: Las Vegas, USA
-  sub: IV
-  host: IEEE
 
 - title: ICCVE
   long: International Conference on Connected Vehicles and Expo
@@ -770,19 +758,6 @@
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2021'
 
-- title: SAIAD (WS)
-  long: Safe Artificial Intelligence for Automated Driving
-  hindex: --
-  year: 2022
-  id: saiad22
-  link: https://sites.google.com/view/saiad2022/
-  deadline: '2022-07-15 20:59:00'
-  timezone: UTC+1
-  date: October 24-28, 2022
-  place: Tel-Aviv, Israel
-  sub: ML
-  host: ECCV
-
 - title: SSCI
   long: Symposium Series On Computational Intelligence
   hindex: 31
@@ -879,6 +854,19 @@
   place: Waikoloa, Hawaii
   sub: CV
   host: IEEE
+
+- title: SAIAD (WS)
+  long: Safe Artificial Intelligence for Automated Driving
+  hindex: --
+  year: 2022
+  id: saiad22
+  link: https://sites.google.com/view/saiad2022/
+  deadline: '2022-07-15 20:59:00'
+  timezone: UTC+1
+  date: October 24-28, 2022
+  place: Tel-Aviv, Israel
+  sub: ML
+  host: ECCV
 
 - title: CPS-Sec (WS) (Deadline estimated)
   long: International Workshop on Cyber-Physical Systems Security Protocols
@@ -981,6 +969,20 @@
   host: IEEE
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2021'
+
+- title: TPS
+  long: International Conference on Trust, Privacy and Security in Intelligent Systems,
+    and Applications
+  hindex: --
+  year: 2022
+  id: tps22
+  link: http://www.sis.pitt.edu/lersais/conference/tps/2022/calls.html
+  deadline: '2022-08-30 23:59:59'
+  timezone: UTC-12
+  date: December 14-16, 2022
+  place: Las Vegas, USA
+  sub: IV
+  host: IEEE
 
 - title: WCX (Deadline estimated)
   long: World Congress Experience
