@@ -883,21 +883,6 @@
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2021'
 
-- title: ERCVAD (WS) (Deadline estimated)
-  long: Workshop on Embedded and Real-World Computer Vision in Autonomous Driving
-  hindex: --
-  year: 2022
-  id: ercvad22
-  link: https://www.ki-deltalearning.de/event/ercvad2021
-  deadline: '2022-07-18 23:59:59'
-  timezone: UTC-12
-  date: --
-  place: --
-  sub: CV
-  host: KI-DL
-  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
-    from 2021'
-
 - title: 3DV (Deadline estimated)
   long: International Conference on 3D Vision
   hindex: 44
