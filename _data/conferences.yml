@@ -842,19 +842,6 @@
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2021'
 
-- title: WACV
-  long: Winter Conference on Application of Computer Vision
-  hindex: 62
-  year: 2023
-  id: wacv23
-  link: https://wacv2023.thecvf.com/
-  deadline: '2022-08-29 23:59:59'
-  timezone: America/Los_Angeles
-  date: January 03-07, 2023
-  place: Waikoloa, Hawaii
-  sub: CV
-  host: IEEE
-
 - title: SAIAD (WS)
   long: Safe Artificial Intelligence for Automated Driving
   hindex: --
@@ -996,6 +983,19 @@
   host: IEEE
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2021'
+
+- title: WACV
+  long: Winter Conference on Application of Computer Vision
+  hindex: 62
+  year: 2023
+  id: wacv23
+  link: https://wacv2023.thecvf.com/
+  deadline: '2022-08-29 23:59:59'
+  timezone: America/Los_Angeles
+  date: January 03-07, 2023
+  place: Waikoloa, Hawaii
+  sub: CV
+  host: IEEE
 
 - title: TPS
   long: International Conference on Trust, Privacy and Security in Intelligent Systems,
