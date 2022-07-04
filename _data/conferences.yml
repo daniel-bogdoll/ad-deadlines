@@ -855,6 +855,32 @@
   sub: CV
   host: IEEE
 
+- title: SSLAD (WS)
+  long: Workshop on Self-Supervised Learning for Next-Generation Industry-level Autonomous Driving
+  hindex: --
+  year: 2022
+  id: sslad22
+  link: https://sslad2022.github.io/
+  deadline: '2022-08-15 20:59:00'
+  timezone: UTC+1
+  date: October 24-28, 2022
+  place: Tel-Aviv, Israel
+  sub: ML
+  host: ECCV
+  
+- title: AVVision (WS)
+  long: Autonomous Vehicle Vision Workshop
+  hindex: --
+  year: 2022
+  id: avvision22
+  link: https://avvision.xyz/eccv22/
+  deadline: '2022-07-31 20:59:00'
+  timezone: UTC+1
+  date: October 24-28, 2022
+  place: Tel-Aviv, Israel
+  sub: ML
+  host: ECCV
+
 - title: SAIAD (WS)
   long: Safe Artificial Intelligence for Automated Driving
   hindex: --
