@@ -799,20 +799,18 @@
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2022'
 
-- title: IAL (WS) (Deadline estimated)
+- title: IAL (WS)
   long: International Workshop on Interactive Adaptive Learning
   hindex: --
   year: 2022
   id: ial22
-  link: https://www.activeml.net/ial2021/
-  deadline: '2022-07-07 23:59:59'
+  link: https://www.activeml.net/ial2022/
+  deadline: '2022-06-27 23:59:59'
   timezone: UTC-12
   date: --
   place: --
   sub: ML
   host: Uni Kassel
-  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
-    from 2021'
 
 - title: ICMLA
   long: International Conference On Machine Learning And Applications
