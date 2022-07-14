@@ -184,6 +184,19 @@
   place: Washington DC, United Stes
   sub: DM
 
+- title: IV
+  long: Intelligent Vehicles Symposium
+  hindex: 52
+  year: 2023
+  id: iv2023
+  link: https://www.dropbox.com/s/cjuaqqlk5ly6mh6/CFP%20IEEE%20IV%202023.pdf?dl=0
+  deadline: '2023-01-15 23:59:59'
+  timezone: UTC-12
+  date: July 04-07, 2023
+  place: Anchorage, USA
+  sub: IV
+  host: IEEE
+
 - title: WCCI
   long: World Congress on Computational Intelligence
   hindex: 57
@@ -764,7 +777,7 @@
   year: 2022
   id: ssci22
   link: https://www.ieeessci2022.org/index.html
-  deadline: '2022-07-01 23:59:59'
+  deadline: '2022-07-15 23:59:59'
   timezone: UTC-12
   date: December 04-07, 2022
   place: Singapore
@@ -1493,19 +1506,6 @@
   host: IEEE
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2020'
-
-- title: IV
-  long: Intelligent Vehicles Symposium
-  hindex: 52
-  year: 2023
-  id: iv2023
-  link: https://www.dropbox.com/s/cjuaqqlk5ly6mh6/CFP%20IEEE%20IV%202023.pdf?dl=0
-  deadline: '2023-01-15 23:59:59'
-  timezone: UTC-12
-  date: July 04-07, 2023
-  place: Anchorage, USA
-  sub: IV
-  host: IEEE
 
 - title: ICAS (Deadline estimated)
   long: International Conference on Autonomous Systems
