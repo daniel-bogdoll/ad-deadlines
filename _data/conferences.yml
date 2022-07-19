@@ -814,19 +814,6 @@
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2021'
 
-- title: SAIAD (WS)
-  long: Safe Artificial Intelligence for Automated Driving
-  hindex: --
-  year: 2022
-  id: saiad22
-  link: https://sites.google.com/view/saiad2022/
-  deadline: '2022-07-20 20:59:00'
-  timezone: UTC+1
-  date: October 24-28, 2022
-  place: Tel-Aviv, Israel
-  sub: ML
-  host: ECCV
-
 - title: SSCI
   long: Symposium Series On Computational Intelligence
   hindex: 31
@@ -869,6 +856,19 @@
   host: IEEE
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2021'
+
+- title: SAIAD (WS)
+  long: Safe Artificial Intelligence for Automated Driving
+  hindex: --
+  year: 2022
+  id: saiad22
+  link: https://sites.google.com/view/saiad2022/
+  deadline: '2022-07-20 20:59:00'
+  timezone: UTC+1
+  date: October 24-28, 2022
+  place: Tel-Aviv, Israel
+  sub: ML
+  host: ECCV
 
 - title: 3DV (Deadline estimated)
   long: International Conference on 3D Vision
