@@ -988,49 +988,45 @@
   sub: IV
   host: IEEE
 
-- title: ICARA (Deadline estimated)
+- title: ICARA
   long: International Conference on Automation, Robotics and Applications
   hindex: --
   year: 2023
   id: icara23
   link: http://www.icara.us/
-  deadline: '2022-09-01 23:59:59'
+  deadline: '2022-09-20 23:59:59'
   timezone: UTC-12
-  date: --
-  place: --
-  sub: IV
+  date: February 10-12, 2023
+  place: Abu Dhabi, United Arab Emirates
+  sub: RO
   host: IEEE
-  note: '<b>NOTE</b>: old website linked from 2022'
 
-- title: SII (Deadline estimated)
+- title: SII
   long: International Symposium on System Integration
   hindex: 13
   year: 2023
   id: sii23
-  link: https://www.sice-si.org/conf/SII2022/paper-submission.html
-  deadline: '2022-09-01 23:59:59'
+  link: https://www.sice-si.org/conf/SII2023/
+  deadline: '2022-08-01 23:59:59'
   timezone: UTC-12
-  date: --
-  place: --
+  date: January 17-20, 2023
+  place: Atlanta, USA
   sub: AS
   host: IEEE/SICE
-  note: '<b>NOTE</b>: new website does not exist yet therefore website linked from
-    2022'
 
-- title: ICDM (WS) (Deadline estimated)
+
+- title: ICDM
   long: International Conference on Data Mining
   hindex: 54
   year: 2022
   id: icdm22WS
   link: https://icdm22.cse.usf.edu
-  deadline: '2022-09-03 23:59:59'
+  deadline: '2022-06-10 23:59:59'
   timezone: UTC-5
   date: November 30-3 December, 2022
   place: Orlando, United States
   sub: DM
   host: IEEE
-  abstract_deadline: '2022-03-01 23:59:59'
-  note: '<b>NOTE</b>: Workshop proposal deadline on March, 2022'
 
 - title: AAAI
   long: International Conference on Artificial Intelligence
