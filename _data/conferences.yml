@@ -12,6 +12,19 @@
   place: Florida, USA
   sub: V2X
   host: IEEE
+  
+- title: ICVES
+  long: International Conference on Connected Vehicles and Expo
+  hindex: --
+  year: 2022
+  id: icves22
+  link: https://icves2022.org/
+  deadline: '2022-08-09 23:59:59'
+  timezone: UTC-12
+  date: November 14-16, 2022
+  place: Bogota, Colombia
+  sub: IV
+  host: IEEE
 
 - title: IJCAI-ECAI
   long: International Joint Conference on Artificial Intelligence and European Conference
