@@ -625,6 +625,18 @@
   sub: IV
   host: ICML
 
+- title: 3DV
+  long: International Conference on 3D Vision
+  hindex: 41
+  year: 2022
+  id: threedv22
+  link: https://3dvconf.github.io/2022/
+  deadline: '2022-06-02 23:59:59'
+  timezone: UTC-7
+  date: September 12-15, 2022
+  place: Prague, Czechia
+  sub: CV
+
 - title: GCPR
   long: German Conference on Pattern Recognition
   hindex: 24
@@ -869,18 +881,6 @@
   place: Tel-Aviv, Israel
   sub: ML
   host: ECCV
-
-- title: 3DV
-  long: International Conference on 3D Vision
-  hindex: 41
-  year: 2022
-  id: threedv22
-  link: https://3dvconf.github.io/2022/
-  deadline: '2022-06-02 23:59:59'
-  timezone: UTC-7
-  date: September 12-15, 2022
-  place: Prague, Czechia
-  sub: CV
 
 - title: AVVision (WS)
   long: Autonomous Vehicle Vision Workshop
