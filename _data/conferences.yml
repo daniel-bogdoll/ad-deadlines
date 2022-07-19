@@ -961,6 +961,21 @@
   sub: ML
   host: ECCV
 
+- title: AAAI
+  long: International Conference on Artificial Intelligence
+  hindex: 157
+  year: 2023
+  id: aaai23
+  link: https://aaai.org/Conferences/AAAI-23/
+  deadline: '2022-08-15 23:59:59'
+  abstract_deadline: '2022-08-30 23:59:59'
+  timezone: UTC-12
+  date: February 07-14, 2023
+  place: Washington, USA
+  sub: ML
+  host: AAAI
+  note: '<b>NOTE</b>: Mandatory abstract deadline: 2022-08-08'
+
 - title: Big Data
   long: International Conference on Big Data
   hindex: 45
@@ -1013,21 +1028,6 @@
   place: Las Vegas, USA
   sub: IV
   host: IEEE
-
-- title: AAAI
-  long: International Conference on Artificial Intelligence
-  hindex: 157
-  year: 2023
-  id: aaai23
-  link: https://aaai.org/Conferences/AAAI-23/
-  deadline: '2022-08-15 23:59:59'
-  abstract_deadline: '2022-08-30 23:59:59'
-  timezone: UTC-12
-  date: February 07-14, 2023
-  place: Washington, USA
-  sub: ML
-  host: AAAI
-  note: '<b>NOTE</b>: Mandatory abstract deadline: 2022-08-08'
 
 - title: WCX
   long: World Congress Experience
