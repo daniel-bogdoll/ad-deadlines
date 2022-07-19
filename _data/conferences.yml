@@ -975,20 +975,31 @@
   sub: IV
   host: IEEE
 
-- title: WCX (Deadline estimated)
+- title: ICVS
+  long: Intelligent and Connected Vehicles Symposium
+  hindex: --
+  year: 2022
+  id: icvs22
+  link: https://www.bagevent.com/event/sae2022-icvs-en
+  deadline: '2022-06-30 23:59:59'
+  timezone: UTC-12
+  date: September 22-23, 2022
+  place: Shanghai, China
+  sub: IV
+  host: SAE
+
+- title: WCX
   long: World Congress Experience
   hindex: --
   year: 2023
   id: wcx23
   link: https://www.sae.org/attend/wcx/call-for-papers/connectivity-iot-smart-city
-  deadline: '2022-08-31 23:59:59'
+  deadline: '2022-09-13 23:59:59'
   timezone: UTC-12
-  date: --
-  place: --
+  date: April 18-20, 2023
+  place: Detroit, USA
   sub: IV
   host: SAE
-  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
-    from 2022'
 
 - title: ICARA (Deadline estimated)
   long: International Conference on Automation, Robotics and Applications
