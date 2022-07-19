@@ -870,19 +870,17 @@
   sub: ML
   host: ECCV
 
-- title: 3DV (Deadline estimated)
+- title: 3DV
   long: International Conference on 3D Vision
-  hindex: 44
+  hindex: 41
   year: 2022
   id: threedv22
-  link: https://3dv2021.surrey.ac.uk
-  deadline: '2022-07-30 23:59:59'
+  link: https://3dvconf.github.io/2022/
+  deadline: '2022-06-02 23:59:59'
   timezone: UTC-7
-  date: --
-  place: --
+  date: September 12-15, 2022
+  place: Prague, Czechia
   sub: CV
-  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
-    from 2021'
 
 - title: AVVision (WS)
   long: Autonomous Vehicle Vision Workshop
