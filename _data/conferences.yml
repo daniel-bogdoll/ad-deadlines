@@ -1111,9 +1111,9 @@
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2022'
 
-- title: ML4AD WS (Deadline estimated)
+- title: ML4AD (WS) (Deadline estimated)
   long: NeurIPS Workshop on Machine Learning for Autonomous Driving
-  hindex: 245
+  hindex: -
   year: 2022
   id: ml4ad22
   link: https://ml4ad.github.io/
