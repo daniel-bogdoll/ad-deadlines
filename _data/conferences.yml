@@ -677,6 +677,19 @@
   sub: DM
   host: IEEE
 
+- title: ICDM
+  long: International Conference on Data Mining
+  hindex: 54
+  year: 2022
+  id: icdm22WS
+  link: https://icdm22.cse.usf.edu
+  deadline: '2022-06-10 23:59:59'
+  timezone: UTC-5
+  date: November 30-3 December, 2022
+  place: Orlando, United States
+  sub: DM
+  host: IEEE
+
 - title: ICITE
   long: International Conference on Intelligent Transportation Engineering
   hindex: 8
@@ -908,6 +921,19 @@
   sub: ML
   host: ECCV
 
+- title: SII
+  long: International Symposium on System Integration
+  hindex: 13
+  year: 2023
+  id: sii23
+  link: https://www.sice-si.org/conf/SII2023/
+  deadline: '2022-08-01 23:59:59'
+  timezone: UTC-12
+  date: January 17-20, 2023
+  place: Atlanta, USA
+  sub: AS
+  host: IEEE/SICE
+
 - title: ICVES
   long: International Conference on Connected Vehicles and Expo
   hindex: 15
@@ -988,46 +1014,6 @@
   sub: IV
   host: IEEE
 
-- title: ICARA
-  long: International Conference on Automation, Robotics and Applications
-  hindex: --
-  year: 2023
-  id: icara23
-  link: http://www.icara.us/
-  deadline: '2022-09-20 23:59:59'
-  timezone: UTC-12
-  date: February 10-12, 2023
-  place: Abu Dhabi, United Arab Emirates
-  sub: RO
-  host: IEEE
-
-- title: SII
-  long: International Symposium on System Integration
-  hindex: 13
-  year: 2023
-  id: sii23
-  link: https://www.sice-si.org/conf/SII2023/
-  deadline: '2022-08-01 23:59:59'
-  timezone: UTC-12
-  date: January 17-20, 2023
-  place: Atlanta, USA
-  sub: AS
-  host: IEEE/SICE
-
-
-- title: ICDM
-  long: International Conference on Data Mining
-  hindex: 54
-  year: 2022
-  id: icdm22WS
-  link: https://icdm22.cse.usf.edu
-  deadline: '2022-06-10 23:59:59'
-  timezone: UTC-5
-  date: November 30-3 December, 2022
-  place: Orlando, United States
-  sub: DM
-  host: IEEE
-
 - title: AAAI
   long: International Conference on Artificial Intelligence
   hindex: 157
@@ -1095,6 +1081,19 @@
   place: Ingolstadt, Germany
   sub: IV
   host: ACM
+
+- title: ICARA
+  long: International Conference on Automation, Robotics and Applications
+  hindex: --
+  year: 2023
+  id: icara23
+  link: http://www.icara.us/
+  deadline: '2022-09-20 23:59:59'
+  timezone: UTC-12
+  date: February 10-12, 2023
+  place: Abu Dhabi, United Arab Emirates
+  sub: RO
+  host: IEEE
 
 - title: SII (Deadline estimated)
   long: Stuttgart International Symposium
