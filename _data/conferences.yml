@@ -1019,14 +1019,15 @@
   hindex: 157
   year: 2023
   id: aaai23
-  link: https://aaai.org/Conferences/AAAI-22/
-  deadline: '2022-09-08 23:59:59'
+  link: https://aaai.org/Conferences/AAAI-23/
+  deadline: '2022-08-15 23:59:59'
   abstract_deadline: '2022-08-30 23:59:59'
   timezone: UTC-12
-  date: --
-  place: --
+  date: February 07-14, 2023
+  place: Washington, USA
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline. Old website linked from 2022'
+  host: AAAI
+  note: '<b>NOTE</b>: Mandatory abstract deadline: 2022-08-08'
 
 - title: WCX
   long: World Congress Experience
@@ -1041,13 +1042,13 @@
   sub: IV
   host: SAE
 
-- title: ICRA (Deadline estimated)
+- title: ICRA
   long: International Conference on Robotics and Automation
   hindex: 105
   year: 2023
   id: icra23
-  link: https://icra2022.org/
-  deadline: '2022-09-14 23:59:59'
+  link: https://www.icra2023.org/
+  deadline: '2022-09-15 23:59:59'
   timezone: America/Los_Angeles
   date: May 29-02 June, 2023
   place: London, United Kingdom
