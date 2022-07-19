@@ -935,20 +935,18 @@
   sub: DM
   host: IEEE
 
-- title: RCAE (Deadline estimated)
-  long: Conference on Robotics, Control and Automation Engineering
-  hindex: 3
+- title: RCAE
+  long: International Conference on Robotics, Control and Automation Engineering
+  hindex: 5
   year: 2022
   id: rcae22
   link: http://www.rcae.net/
-  deadline: '2022-08-25 23:59:59'
+  deadline: '2022-08-20 23:59:59'
   timezone: UTC-12
-  date: --
-  place: --
+  date: October 28-30, 2022
+  place: Changchun, China
   sub: RO
   host: IEEE
-  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
-    from 2021'
 
 - title: WACV
   long: Winter Conference on Application of Computer Vision
