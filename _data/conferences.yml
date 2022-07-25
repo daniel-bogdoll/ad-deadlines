@@ -1,5 +1,19 @@
 ---
 
+- title: SATML
+  long: Conference on Secure and Trustworthy Machine Learning
+  hindex: --
+  year: 2023
+  id: satml23
+  link: https://satml.org/call-for-papers/
+  deadline: '2022-09-01 23:59:59'
+  timezone: UTC-12
+  date: February 8-10, 2023
+  place: ?, ?
+  sub: ML
+  host: IEEE
+  note: '<b>NOTE</b>: Mandatory abstract deadline on August 22, 2022'
+
 - title: ICCVE
   long: International Conference on Connected Vehicles and Expo
   hindex: --
