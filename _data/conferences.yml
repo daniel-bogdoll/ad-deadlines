@@ -1,32 +1,5 @@
 ---
 
-- title: SATML
-  long: Conference on Secure and Trustworthy Machine Learning
-  hindex: --
-  year: 2023
-  id: satml23
-  link: https://satml.org/call-for-papers/
-  deadline: '2022-09-01 23:59:59'
-  timezone: UTC-12
-  date: February 8-10, 2023
-  place: ?, ?
-  sub: ML
-  host: IEEE
-  note: '<b>NOTE</b>: Mandatory abstract deadline on August 22, 2022'
-
-- title: ICCVE
-  long: International Conference on Connected Vehicles and Expo
-  hindex: --
-  year: 2022
-  id: iccve22
-  link: https://iccve2022.org/
-  deadline: '2021-11-12 23:59:59'
-  timezone: UTC-12
-  date: March 7-9, 2022
-  place: Florida, USA
-  sub: V2X
-  host: IEEE
-
 - title: IJCAI-ECAI
   long: International Joint Conference on Artificial Intelligence and European Conference
     on Artificial Intelligence
@@ -1043,6 +1016,33 @@
   sub: IV
   host: IEEE
 
+- title: SATML
+  long: Conference on Secure and Trustworthy Machine Learning
+  hindex: --
+  year: 2023
+  id: satml23
+  link: https://satml.org/call-for-papers/
+  deadline: '2022-09-01 23:59:59'
+  timezone: UTC-12
+  date: February 8-10, 2023
+  place: ?, ?
+  sub: ML
+  host: IEEE
+  note: '<b>NOTE</b>: Mandatory abstract deadline on August 22, 2022'
+
+- title: ICCVE
+  long: International Conference on Connected Vehicles and Expo
+  hindex: --
+  year: 2022
+  id: iccve22
+  link: https://iccve2022.org/
+  deadline: '2021-11-12 23:59:59'
+  timezone: UTC-12
+  date: March 7-9, 2022
+  place: Florida, USA
+  sub: V2X
+  host: IEEE
+
 - title: WCX
   long: World Congress Experience
   hindex: --
@@ -1309,6 +1309,20 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline. New website does not exist yet
     therefore old website linked from 2022'
 
+- title: CVPR
+  long: Conference on Computer Vision and Pattern Recognition
+  hindex: 389
+  year: 2023
+  id: cvpr23
+  link: https://cvpr2023.thecvf.com/
+  deadline: '2022-11-11 23:59:59'
+  timezone: America/Los_Angeles
+  date: --
+  place: Vancouver, Canda
+  sub: CV
+  host: IEEE/CVF
+  note: '<b>NOTE</b>: Paper registration until 2022-11-04'
+
 - title: SafeAI (WS) (Deadline estimated)
   long: AAAI Workshop on Artificial Intelligence Safety
   hindex: 20
@@ -1323,20 +1337,6 @@
   host: AAAI
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2022'
-
-- title: CVPR
-  long: Conference on Computer Vision and Pattern Recognition
-  hindex: 389
-  year: 2023
-  id: cvpr23
-  link: https://cvpr2023.thecvf.com/
-  deadline: '2022-11-11 23:59:59'
-  timezone: America/Los_Angeles
-  date: --
-  place: Vancouver, Canda
-  sub: CV
-  host: IEEE/CVF
-  note: '<b>NOTE</b>: Paper registration until 2022-11-04'
 
 - title: AAAI-MAKE (WS) (Deadline estimated)
   long: AAAI Workshop on Machine Learning and Knowledge Engineering for Hybrid Intelligence
