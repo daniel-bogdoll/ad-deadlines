@@ -1127,7 +1127,7 @@
 
 - title: ML4AD (WS)
   long: NeurIPS Workshop on Machine Learning for Autonomous Driving
-  hindex: -
+  hindex: --
   year: 2022
   id: ml4ad22
   link: https://ml4ad.github.io/
@@ -1136,7 +1136,7 @@
   date: 2022-12-03
   place: New Orleans, USA
   sub: ML
-  host: '---'
+  host: --
 
 - title: IFAC World Congress (Deadline estimated)
   long: International Federation of Automatic Control World Congress
