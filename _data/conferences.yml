@@ -1030,19 +1030,6 @@
   host: IEEE
   note: '<b>NOTE</b>: Mandatory abstract deadline on August 22, 2022'
 
-- title: ICCVE (Deadline estimated)
-  long: International Conference on Connected Vehicles and Expo
-  hindex: --
-  year: 2022
-  id: iccve22
-  link: https://iccve2022.org/
-  deadline: '2023-11-12 23:59:59'
-  timezone: UTC-12
-  date: March 7-9, 2022
-  place: Florida, USA
-  sub: V2X
-  host: IEEE
-
 - title: WCX
   long: World Congress Experience
   hindex: --
@@ -1577,3 +1564,16 @@
   host: IEEE
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2021'
+
+- title: ICCVE (Deadline estimated)
+  long: International Conference on Connected Vehicles and Expo
+  hindex: --
+  year: 2022
+  id: iccve22
+  link: https://iccve2022.org/
+  deadline: '2023-11-12 23:59:59'
+  timezone: UTC-12
+  date: March 7-9, 2022
+  place: Florida, USA
+  sub: V2X
+  host: IEEE
