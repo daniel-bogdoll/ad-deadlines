@@ -1097,19 +1097,6 @@
   sub: RO
   host: IEEE
 
-- title: ISS (Deadline estimated)
-  long: Internationales Stuttgarter Symposium	
-  hindex: 10
-  year: 2023
-  id: iss23
-  link: https://www.fkfs-veranstaltungen.de/veranstaltungen/stuttgarter-symposium
-  deadline: '2022-12-01 23:59:59'
-  timezone: UTC-12
-  date: July 04-05, 2023
-  place: Stuttgart, Germany
-  sub: IV
-  host: FKFS
-
 - title: ML4AD (WS)
   long: NeurIPS Workshop on Machine Learning for Autonomous Driving
   hindex: --
@@ -1349,6 +1336,19 @@
   sub: RO
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2022'
+
+- title: ISS (Deadline estimated)
+  long: Internationales Stuttgarter Symposium
+  hindex: 10
+  year: 2023
+  id: iss23
+  link: https://www.fkfs-veranstaltungen.de/veranstaltungen/stuttgarter-symposium
+  deadline: '2022-12-01 23:59:59'
+  timezone: UTC-12
+  date: July 04-05, 2023
+  place: Stuttgart, Germany
+  sub: IV
+  host: FKFS
 
 - title: ICME (Deadline estimated)
   long: International Conference on Multimedia and Expo
