@@ -1125,7 +1125,7 @@
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2022'
 
-- title: ML4AD (WS) (Deadline estimated)
+- title: ML4AD (WS)
   long: NeurIPS Workshop on Machine Learning for Autonomous Driving
   hindex: -
   year: 2022
@@ -1133,12 +1133,11 @@
   link: https://ml4ad.github.io/
   deadline: '2022-10-01 23:59:59'
   timezone: UTC-12
-  date: --
-  place: --
+  date: 2022-12-03
+  place: New Orleans, USA
   sub: ML
   host: '---'
-  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
-    from 2021'
+  note: '<b>NOTE</b>: new website from 2022 is online'
 
 - title: IFAC World Congress (Deadline estimated)
   long: International Federation of Automatic Control World Congress
