@@ -1109,21 +1109,32 @@
   sub: ML
   host: --
 
-- title: MT-ITS (Deadline estimated)
+- title: IFAC World Congress
+  long: International Federation of Automatic Control World Congress
+  hindex: 24
+  year: 2023
+  id: ifac23
+  link: https://www.ifac2023.org/
+  deadline: '2022-10-31 23:59:59'
+  timezone: UTC-12
+  date: July 09-14, 2023
+  place: Yokohama, Japan
+  sub: RO
+  host: IFAC
+
+- title: MT-ITS
   long: International IEEE Conference on Models and Technologies for Intelligent Transportation
     Systems
-  hindex: 11
-  year: 2022
-  id: mtits2022
-  link: https://www.mt-its2021.tse.bgu.tum.de/
-  deadline: '2022-10-01 23:59:59'
+  hindex: 21
+  year: 2023
+  id: mtits2023
+  link: https://mt-its2023.eurecom.fr/
+  deadline: '2022-10-15 23:59:59'
   timezone: UTC-12
-  date: --
-  place: --
+  date: June 14-16, 2023
+  place: Nice, France
   sub: IV
   host: IEEE
-  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
-    from 2021'
 
 - title: ALT (Deadline estimated)
   long: International Conference on Algorithmic Learning Theory
@@ -1250,19 +1261,6 @@
   sub: DM
   note: '<b>NOTE</b>: Mandatory abstract deadline. New website does not exist yet
     therefore old website linked from 2022'
-
-- title: IFAC World Congress
-  long: International Federation of Automatic Control World Congress
-  hindex: 24
-  year: 2023
-  id: ifac23
-  link: https://www.ifac2023.org/
-  deadline: '2022-10-31 23:59:59'
-  timezone: UTC-12
-  date: July 09-14, 2023
-  place: Yokohama, Japan
-  sub: RO
-  host: IFAC
 
 - title: SusTech
   long: Conference on Technologies for Sustainability
