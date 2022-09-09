@@ -451,13 +451,13 @@
   sub: IV
   host: IEEE/ASME
 
-- title: UV (Deadline estimated)
+- title: UV
   long: International Conference on Universal Village
   hindex: --
   year: 2022
   id: uv22
   link: https://universalvillage.org/ieee-uv-conference/
-  deadline: '2022-04-01 23:59:59'
+  deadline: '2022-09-15 23:59:59'
   timezone: UTC-12
   date: October 22-25, 2022
   place: Virtual
