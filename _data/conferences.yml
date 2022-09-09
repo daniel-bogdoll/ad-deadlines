@@ -1109,13 +1109,13 @@
   sub: ML
   host: --
 
-- title: IFAC World Congress (Deadline estimated)
+- title: IFAC World Congress
   long: International Federation of Automatic Control World Congress
   hindex: 24
   year: 2023
   id: ifac23
   link: https://www.ifac2023.org/
-  deadline: '2022-10-01 23:59:59'
+  deadline: '2022-10-31 23:59:59'
   timezone: UTC-12
   date: July 09-14, 2023
   place: Yokohama, Japan
