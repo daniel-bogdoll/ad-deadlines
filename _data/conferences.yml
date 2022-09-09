@@ -1030,6 +1030,19 @@
   host: IEEE
   note: '<b>NOTE</b>: Mandatory abstract deadline on August 22, 2022'
 
+- title: WCNC
+  long: Wireless Communications and Networking Conference
+  hindex: 24
+  year: 2023
+  id: wcnc23
+  link: https://wcnc2023.ieee-wcnc.org/
+  deadline: '2022-09-12 23:59:59'
+  timezone: UTC-12
+  date: March 26-29, 2023
+  place: Glasgow, United Kingdom
+  sub: V2X
+  host: IEEE
+
 - title: WCX
   long: World Congress Experience
   hindex: --
@@ -1056,19 +1069,6 @@
   sub: RO
   host: IEEE
   note: '<b>NOTE</b>: old website linked from 2022'
-
-- title: WCNC
-  long: Wireless Communications and Networking Conference
-  hindex: 24
-  year: 2023
-  id: wcnc23
-  link: https://wcnc2023.ieee-wcnc.org/
-  deadline: '2022-09-12 23:59:59'
-  timezone: UTC-12
-  date: March 26-29, 2023
-  place: Glasgow, United Kingdom
-  sub: V2X
-  host: IEEE
 
 - title: CSCS
   long: Computer Science in Cars Symposium
