@@ -1109,19 +1109,6 @@
   sub: ML
   host: --
 
-- title: IFAC World Congress
-  long: International Federation of Automatic Control World Congress
-  hindex: 24
-  year: 2023
-  id: ifac23
-  link: https://www.ifac2023.org/
-  deadline: '2022-10-31 23:59:59'
-  timezone: UTC-12
-  date: July 09-14, 2023
-  place: Yokohama, Japan
-  sub: RO
-  host: IFAC
-
 - title: MT-ITS (Deadline estimated)
   long: International IEEE Conference on Models and Technologies for Intelligent Transportation
     Systems
@@ -1263,6 +1250,19 @@
   sub: DM
   note: '<b>NOTE</b>: Mandatory abstract deadline. New website does not exist yet
     therefore old website linked from 2022'
+
+- title: IFAC World Congress
+  long: International Federation of Automatic Control World Congress
+  hindex: 24
+  year: 2023
+  id: ifac23
+  link: https://www.ifac2023.org/
+  deadline: '2022-10-31 23:59:59'
+  timezone: UTC-12
+  date: July 09-14, 2023
+  place: Yokohama, Japan
+  sub: RO
+  host: IFAC
 
 - title: SusTech
   long: Conference on Technologies for Sustainability
