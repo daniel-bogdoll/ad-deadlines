@@ -1096,6 +1096,18 @@
   sub: RO
   host: IEEE
 
+- title: ALT
+  long: International Conference on Algorithmic Learning Theory
+  hindex: 26
+  year: 2023
+  id: alt23
+  link: http://algorithmiclearningtheory.org/alt2023/
+  deadline: '2022-09-30 16:59:59'
+  timezone: America/New_York
+  date: February 20-23, 2023
+  place: Singapore
+  sub: ML
+
 - title: ML4AD (WS)
   long: NeurIPS Workshop on Machine Learning for Autonomous Driving
   hindex: --
@@ -1108,18 +1120,6 @@
   place: New Orleans, USA
   sub: ML
   host: --
-
-- title: ALT
-  long: International Conference on Algorithmic Learning Theory
-  hindex: 26
-  year: 2023
-  id: alt23
-  link: http://algorithmiclearningtheory.org/alt2023/
-  deadline: '2022-09-30 16:59:59'
-  timezone: America/New_York
-  date: February 20-23, 2023
-  place: Singapore
-  sub: ML
 
 - title: ICLR (Deadline estimated)
   long: International Conference on Learning Representations
