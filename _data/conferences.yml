@@ -1109,19 +1109,17 @@
   sub: ML
   host: --
 
-- title: ALT (Deadline estimated)
+- title: ALT
   long: International Conference on Algorithmic Learning Theory
-  hindex: 21
+  hindex: 26
   year: 2023
   id: alt23
-  link: http://algorithmiclearningtheory.org/alt2022/
-  deadline: '2022-10-05 16:59:59'
+  link: http://algorithmiclearningtheory.org/alt2023/
+  deadline: '2022-09-30 16:59:59'
   timezone: America/New_York
-  date: --
-  place: --
+  date: February 20-23, 2023
+  place: Singapore
   sub: ML
-  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
-    from 2022'
 
 - title: ICLR (Deadline estimated)
   long: International Conference on Learning Representations
