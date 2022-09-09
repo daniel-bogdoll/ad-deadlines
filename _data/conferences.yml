@@ -14,6 +14,19 @@
   sub: ML
   host: IJCAI
 
+- title: SusTech
+  long: Conference on Technologies for Sustainability
+  hindex: 10
+  year: 2023
+  id: sustech23
+  link: https://ieee-sustech.org/authors/call-for-papers/
+  deadline: '2022-11-01 23:59:00'
+  timezone: UTC+1
+  date: April 19-22, 2023
+  place: "Portland, USA"
+  sub: IV
+  host: IEEE
+
 - title: ICPR
   long: International Conference on Pattern Recognition
   hindex: 43
@@ -23,7 +36,7 @@
   deadline: '2022-01-17 23:59:00'
   timezone: UTC+1
   date: August 21-25, 2022
-  place: "Montr\xE9al, Qu\xE9bec (QC), Canada"
+  place: "Montreal, Canada"
   sub: ML
   host: IEEE
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 10, 2022.'
