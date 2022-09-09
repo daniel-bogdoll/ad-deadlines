@@ -451,19 +451,6 @@
   sub: IV
   host: IEEE/ASME
 
-- title: UV
-  long: International Conference on Universal Village
-  hindex: --
-  year: 2022
-  id: uv22
-  link: https://universalvillage.org/ieee-uv-conference/
-  deadline: '2022-09-15 23:59:59'
-  timezone: UTC-12
-  date: October 22-25, 2022
-  place: Virtual
-  sub: IV
-  host: IEEE
-
 - title: ICRAS
   long: International Conference on Robotics and Automation Sciences
   hindex: 11
@@ -1069,6 +1056,19 @@
   sub: RO
   host: IEEE
   note: '<b>NOTE</b>: old website linked from 2022'
+
+- title: UV
+  long: International Conference on Universal Village
+  hindex: --
+  year: 2022
+  id: uv22
+  link: https://universalvillage.org/ieee-uv-conference/
+  deadline: '2022-09-15 23:59:59'
+  timezone: UTC-12
+  date: October 22-25, 2022
+  place: Virtual
+  sub: IV
+  host: IEEE
 
 - title: CSCS
   long: Computer Science in Cars Symposium
