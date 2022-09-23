@@ -1070,19 +1070,6 @@
   sub: IV
   host: IEEE
 
-- title: CSCS
-  long: Computer Science in Cars Symposium
-  hindex: --
-  year: 2022
-  id: cscs22
-  link: https://acm-cscs.org/
-  deadline: '2022-10-08 23:59:59'
-  timezone: UTC-12
-  date: December 08, 2022
-  place: Ingolstadt, Germany
-  sub: IV
-  host: ACM
-
 - title: ICARA
   long: International Conference on Automation, Robotics and Applications
   hindex: --
@@ -1147,6 +1134,19 @@
   date: December 04-08, 2022
   place: Macau, SAR
   sub: CV
+
+- title: CSCS
+  long: Computer Science in Cars Symposium
+  hindex: --
+  year: 2022
+  id: cscs22
+  link: https://acm-cscs.org/
+  deadline: '2022-10-08 23:59:59'
+  timezone: UTC-12
+  date: December 08, 2022
+  place: Ingolstadt, Germany
+  sub: IV
+  host: ACM
 
 - title: AAMAS (Deadline estimated)
   long: International Conference on Autonomous Agents and Multiagent Systems
