@@ -14,19 +14,6 @@
   sub: ML
   host: IJCAI
 
-- title: DNOW (WS)
-  long: Workshop on Dealing with Novelty in Open Worlds
-  hindex: --
-  year: 2023
-  id: dnow23
-  link: https://www.cs.umd.edu/~pulkit/DNOW_workshop_2/
-  deadline: '2022-10-11 23:59:00'
-  timezone: UTC+1
-  date: January 03-07, 2023
-  place: Waikoloa, Hawaii
-  sub: ML
-  host: WACV
-
 - title: ICPR
   long: International Conference on Pattern Recognition
   hindex: 43
@@ -1175,6 +1162,19 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline. New website does not exist yet
     therefore old website linked from 2022'
+
+- title: DNOW (WS)
+  long: Workshop on Dealing with Novelty in Open Worlds
+  hindex: --
+  year: 2023
+  id: dnow23
+  link: https://www.cs.umd.edu/~pulkit/DNOW_workshop_2/
+  deadline: '2022-10-11 23:59:00'
+  timezone: UTC+1
+  date: January 03-07, 2023
+  place: Waikoloa, Hawaii
+  sub: ML
+  host: WACV
 
 - title: SDM (Deadline estimated)
   long: International Conference on Data Mining
