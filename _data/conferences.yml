@@ -478,32 +478,6 @@
   sub: IV
   host: IEEE
 
-- title: SMC
-  long: International Conference on Systems, Man, and Cybernetics
-  hindex: 31
-  year: 2023
-  id: smc23
-  link: http://ieeesmc2023.org/
-  deadline: '2023-03-30 23:59:59'
-  timezone: UTC-12
-  date: October 1-4, 2023
-  place: Hawaii, USA
-  sub: IV
-  host: IEEE
-
-- title: SMC (Deadline estimated)
-  long: International Conference on Systems, Man, and Cybernetics
-  hindex: 31
-  year: 2024
-  id: smc24
-  link: http://ieeesmc2024.org/
-  deadline: '2024-03-30 23:59:59'
-  timezone: UTC-12
-  date: October 7-10, 2024
-  place: Kuching, Malaysia
-  sub: IV
-  host: IEEE
-
 - title: ICCP
   long: International Conference on Intelligent Computer Communication and Processing
   hindex: null
@@ -1540,6 +1514,19 @@
   sub: IV
   host: IEEE
 
+- title: SMC
+  long: International Conference on Systems, Man, and Cybernetics
+  hindex: 31
+  year: 2023
+  id: smc23
+  link: http://ieeesmc2023.org/
+  deadline: '2023-03-30 23:59:59'
+  timezone: UTC-12
+  date: October 1-4, 2023
+  place: Hawaii, USA
+  sub: IV
+  host: IEEE
+
 - title: ICAS (Deadline estimated)
   long: International Conference on Autonomous Systems
   hindex: 10
@@ -1608,4 +1595,17 @@
   date: March 7-9, 2022
   place: Florida, USA
   sub: V2X
+  host: IEEE
+
+- title: SMC (Deadline estimated)
+  long: International Conference on Systems, Man, and Cybernetics
+  hindex: 31
+  year: 2024
+  id: smc24
+  link: http://ieeesmc2024.org/
+  deadline: '2024-03-30 23:59:59'
+  timezone: UTC-12
+  date: October 7-10, 2024
+  place: Kuching, Malaysia
+  sub: IV
   host: IEEE
