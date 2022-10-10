@@ -480,14 +480,27 @@
 
 - title: SMC
   long: International Conference on Systems, Man, and Cybernetics
-  hindex: 29
-  year: 2022
-  id: smc22
-  link: http://ieeesmc2022.org/
-  deadline: '2022-04-30 23:59:59'
+  hindex: 31
+  year: 2023
+  id: smc23
+  link: http://ieeesmc2023.org/
+  deadline: '2023-03-30 23:59:59'
   timezone: UTC-12
-  date: October 9-12, 2022
-  place: Prague, Czech Republic
+  date: October 1-4, 2023
+  place: Hawaii, USA
+  sub: IV
+  host: IEEE
+
+- title: SMC (Deadline estimated)
+  long: International Conference on Systems, Man, and Cybernetics
+  hindex: 31
+  year: 2024
+  id: smc24
+  link: http://ieeesmc2024.org/
+  deadline: '2024-03-30 23:59:59'
+  timezone: UTC-12
+  date: October 7-10, 2024
+  place: Kuching, Malaysia
   sub: IV
   host: IEEE
 
