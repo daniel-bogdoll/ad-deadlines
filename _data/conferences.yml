@@ -1,138 +1,5 @@
 ---
 
-- title: IJCAI
-  long: International Joint Conference on Artificial Intelligence 
-  hindex: 105
-  year: 2022
-  id: ijcai22
-  link: https://ijcai-23.org/
-  deadline: '2023-01-11 23:59:59'
-  timezone: UTC-12
-  date: August 19-25, 2023
-  place: Cape Town, South Africa
-  sub: ML
-  host: IJCAI
-
-- title: ICPR (Deadline estimated)
-  long: International Conference on Pattern Recognition
-  hindex: 43
-  year: 2024
-  id: icpr24
-  link: http://www.icpr2022.com/
-  deadline: '2024-01-17 23:59:00'
-  timezone: UTC+1
-  date: August 21-25, 2022
-  place: Kolkata, India
-  sub: ML
-  host: IEEE
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 10, 2022.'
-
-- title: AVEC (Deadline estimated)
-  long: International Symposium on Advanced Vehicle Control
-  hindex: --
-  year: 2024
-  id: avec24
-  link: https://avec2022.org/
-  deadline: '2022-01-17 23:59:59'
-  timezone: UTC-12
-  date: September 12-16, 2022
-  place: Italy
-  sub: IV
-  host: JSAE
-
-- title: SIGIR
-  long: Conference on Research and Development in Information Retrieval
-  hindex: 66
-  year: 2023
-  id: sigir23
-  link: https://sigir.org/sigir2023/
-  deadline: '2023-01-24 23:59:00'
-  timezone: UTC-12
-  date: July 23-27, 2023
-  place: Taipei, Taiwan
-  abstract_deadline: '2021-01-21 23:59:00'
-  sub: DM
-  host: ACM
-
-- title: ITAVT (WS)
-  long: International Workshop on Intelligent Transportation and Autonomous Vehicles
-    Technologies
-  hindex: --
-  year: 2022
-  id: itavt22
-  link: http://icnetlab.org/ITAVT2022/
-  deadline: '2022-01-23 23:59:59'
-  timezone: UTC-12
-  date: April 25-29, 2022
-  place: Budapest, Hungary
-  sub: IV
-  host: iCNeT
-
-- title: SIGGRAPH (Deadline estimated)
-  long: Special Interest Group on Computer Graphics and Interactive Techniques
-  hindex: 19
-  year: 2023
-  id: siggraph23
-  link: https://s2023.siggraph.org/
-  abstract_deadline: '2023-01-26 22:00:00'
-  deadline: '2022-01-27 22:00:00'
-  timezone: UTC
-  date: August 6-10, 2022
-  place: Los Angeles, USA
-  sub: CV
-  host: ACM
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 26, 2022.'
-
-- title: ICML
-  long: International Conference on Machine Learning
-  hindex: 204
-  year: 2023
-  id: icml23
-  link: https://icml.cc/Conferences/2023
-  deadline: '2023-01-26 23:59:00'
-  timezone: UTC-12
-  date: July 23-29, 2022
-  place: Hawaii, USA
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2022.'
-
-- title: RSS
-  long: Robotics Science and Systems
-  hindex: 50
-  year: 2022
-  id: rss22
-  link: https://roboticsconference.org/
-  deadline: '2022-01-28 23:59:59'
-  timezone: UTC-12
-  date: June 27-01 July, 2022
-  place: New York City, United States
-  sub: RO
-
-- title: IAS
-  long: Intelligent Autonomous Systems
-  hindex: 10
-  year: 2023
-  id: ias23
-  link: https://ias-18.org/
-  deadline: '2023-01-31 23:59:59'
-  timezone: UTC-12
-  date: July 4-7, 2023
-  place: Suwon, Korea
-  sub: IV
-  host: Springer
-
-- title: ICCC
-  long: International Conference on Computational Creativity
-  hindex: 22
-  year: 2022
-  id: iccc22
-  link: http://computationalcreativity.net/iccc22/
-  deadline: '2022-02-04 23:59:59'
-  timezone: UTC
-  date: June 27-July 1, 2022
-  place: Bozen-Bolzano, Italy
-  sub: ML
-
 - title: COLT
   long: Conference on Learning Theory
   hindex: 57
@@ -1081,6 +948,19 @@
   sub: ML
   host: --
 
+- title: HRI
+  long: International Conference on Human-Robot Interaction
+  hindex: 47
+  year: 2023
+  id: hri23
+  link: https://humanrobotinteraction.org/2023/
+  deadline: '2022-10-03 23:59:59'
+  timezone: UTC-12
+  date: March 13-16, 2023
+  place: Stockholm, Sweden
+  sub: RO
+  host: ACM/IEEE
+
 - title: ICLR (Deadline estimated)
   long: International Conference on Learning Representations
   hindex: 253
@@ -1259,20 +1139,6 @@
   sub: AS
   host: IEEE
 
-- title: CVPR
-  long: Conference on Computer Vision and Pattern Recognition
-  hindex: 389
-  year: 2023
-  id: cvpr23
-  link: https://cvpr2023.thecvf.com/
-  deadline: '2022-11-11 23:59:59'
-  timezone: America/Los_Angeles
-  date: June 18-22, 2023
-  place: Vancouver, Canda
-  sub: CV
-  host: IEEE/CVF
-  note: '<b>NOTE</b>: Paper registration until 2022-11-04'
-
 - title: SafeAI (WS)
   long: AAAI Workshop on Artificial Intelligence Safety
   hindex: 20
@@ -1286,31 +1152,85 @@
   sub: ML
   host: AAAI
 
-- title: HRI
-  long: International Conference on Human-Robot Interaction
-  hindex: 47
-  year: 2023
-  id: hri23
-  link: https://humanrobotinteraction.org/2023/
-  deadline: '2022-10-03 23:59:59'
+- title: AVEC (Deadline estimated)
+  long: International Symposium on Advanced Vehicle Control
+  hindex: --
+  year: 2024
+  id: avec24
+  link: https://avec2022.org/
+  deadline: '2022-01-17 23:59:59'
   timezone: UTC-12
-  date: March 13-16, 2023
-  place: Stockholm, Sweden
-  sub: RO
-  host: ACM/IEEE
-
-- title: ISS (Deadline estimated)
-  long: Internationales Stuttgarter Symposium
-  hindex: 10
-  year: 2023
-  id: iss23
-  link: https://www.fkfs-veranstaltungen.de/veranstaltungen/stuttgarter-symposium
-  deadline: '2023-01-20 23:59:59'
-  timezone: UTC-12
-  date: July 4-5, 2023
-  place: Stuttgart, Germany
+  date: September 12-16, 2022
+  place: Italy
   sub: IV
-  host: FKFS
+  host: JSAE
+
+- title: ITAVT (WS)
+  long: International Workshop on Intelligent Transportation and Autonomous Vehicles
+    Technologies
+  hindex: --
+  year: 2022
+  id: itavt22
+  link: http://icnetlab.org/ITAVT2022/
+  deadline: '2022-01-23 23:59:59'
+  timezone: UTC-12
+  date: April 25-29, 2022
+  place: Budapest, Hungary
+  sub: IV
+  host: iCNeT
+
+- title: SIGGRAPH (Deadline estimated)
+  long: Special Interest Group on Computer Graphics and Interactive Techniques
+  hindex: 19
+  year: 2023
+  id: siggraph23
+  link: https://s2023.siggraph.org/
+  abstract_deadline: '2023-01-26 22:00:00'
+  deadline: '2022-01-27 22:00:00'
+  timezone: UTC
+  date: August 6-10, 2022
+  place: Los Angeles, USA
+  sub: CV
+  host: ACM
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 26, 2022.'
+
+- title: RSS
+  long: Robotics Science and Systems
+  hindex: 50
+  year: 2022
+  id: rss22
+  link: https://roboticsconference.org/
+  deadline: '2022-01-28 23:59:59'
+  timezone: UTC-12
+  date: June 27-01 July, 2022
+  place: New York City, United States
+  sub: RO
+
+- title: ICCC
+  long: International Conference on Computational Creativity
+  hindex: 22
+  year: 2022
+  id: iccc22
+  link: http://computationalcreativity.net/iccc22/
+  deadline: '2022-02-04 23:59:59'
+  timezone: UTC
+  date: June 27-July 1, 2022
+  place: Bozen-Bolzano, Italy
+  sub: ML
+
+- title: CVPR
+  long: Conference on Computer Vision and Pattern Recognition
+  hindex: 389
+  year: 2023
+  id: cvpr23
+  link: https://cvpr2023.thecvf.com/
+  deadline: '2022-11-11 23:59:59'
+  timezone: America/Los_Angeles
+  date: June 18-22, 2023
+  place: Vancouver, Canda
+  sub: CV
+  host: IEEE/CVF
+  note: '<b>NOTE</b>: Paper registration until 2022-11-04'
 
 - title: ICME
   long: International Conference on Multimedia and Expo
@@ -1408,6 +1328,19 @@
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2022'
 
+- title: IJCAI
+  long: International Joint Conference on Artificial Intelligence
+  hindex: 105
+  year: 2022
+  id: ijcai22
+  link: https://ijcai-23.org/
+  deadline: '2023-01-11 23:59:59'
+  timezone: UTC-12
+  date: August 19-25, 2023
+  place: Cape Town, South Africa
+  sub: ML
+  host: IJCAI
+
 - title: ICMR (Deadline estimated)
   long: International Conference on Multimedia Retrieval
   hindex: 28
@@ -1448,6 +1381,59 @@
   host: IEEE
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2020'
+
+- title: ISS (Deadline estimated)
+  long: Internationales Stuttgarter Symposium
+  hindex: 10
+  year: 2023
+  id: iss23
+  link: https://www.fkfs-veranstaltungen.de/veranstaltungen/stuttgarter-symposium
+  deadline: '2023-01-20 23:59:59'
+  timezone: UTC-12
+  date: July 4-5, 2023
+  place: Stuttgart, Germany
+  sub: IV
+  host: FKFS
+
+- title: SIGIR
+  long: Conference on Research and Development in Information Retrieval
+  hindex: 66
+  year: 2023
+  id: sigir23
+  link: https://sigir.org/sigir2023/
+  deadline: '2023-01-24 23:59:00'
+  timezone: UTC-12
+  date: July 23-27, 2023
+  place: Taipei, Taiwan
+  abstract_deadline: '2021-01-21 23:59:00'
+  sub: DM
+  host: ACM
+
+- title: ICML
+  long: International Conference on Machine Learning
+  hindex: 204
+  year: 2023
+  id: icml23
+  link: https://icml.cc/Conferences/2023
+  deadline: '2023-01-26 23:59:00'
+  timezone: UTC-12
+  date: July 23-29, 2022
+  place: Hawaii, USA
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2022.'
+
+- title: IAS
+  long: Intelligent Autonomous Systems
+  hindex: 10
+  year: 2023
+  id: ias23
+  link: https://ias-18.org/
+  deadline: '2023-01-31 23:59:59'
+  timezone: UTC-12
+  date: July 4-7, 2023
+  place: Suwon, Korea
+  sub: IV
+  host: Springer
 
 - title: IV
   long: Intelligent Vehicles Symposium
@@ -1544,6 +1530,20 @@
   place: Florida, USA
   sub: V2X
   host: IEEE
+
+- title: ICPR (Deadline estimated)
+  long: International Conference on Pattern Recognition
+  hindex: 43
+  year: 2024
+  id: icpr24
+  link: http://www.icpr2022.com/
+  deadline: '2024-01-17 23:59:00'
+  timezone: UTC+1
+  date: August 21-25, 2022
+  place: Kolkata, India
+  sub: ML
+  host: IEEE
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 10, 2022.'
 
 - title: SMC (Deadline estimated)
   long: International Conference on Systems, Man, and Cybernetics
