@@ -1,29 +1,5 @@
 ---
 
-- title: COLT
-  long: Conference on Learning Theory
-  hindex: 57
-  year: 2022
-  id: colt22
-  link: http://www.learningtheory.org/colt2022/
-  date: July 2-5, 2022
-  deadline: '2022-02-09 16:00:00'
-  timezone: UTC-8
-  place: London, UK
-  sub: ML
-
-- title: KDD
-  long: Knowledge Discovery and Data Mining
-  hindex: 38
-  year: 2022
-  id: kdd22
-  link: https://www.kdd.org/kdd2022/
-  deadline: '2022-02-10 23:59:59'
-  timezone: UTC-12
-  date: August 14-18, 2022
-  place: Washington DC, United Stes
-  sub: DM
-
 - title: WCCI
   long: World Congress on Computational Intelligence
   hindex: 57
@@ -1152,6 +1128,20 @@
   sub: ML
   host: AAAI
 
+- title: CVPR
+  long: Conference on Computer Vision and Pattern Recognition
+  hindex: 389
+  year: 2023
+  id: cvpr23
+  link: https://cvpr2023.thecvf.com/
+  deadline: '2022-11-11 23:59:59'
+  timezone: America/Los_Angeles
+  date: June 18-22, 2023
+  place: Vancouver, Canda
+  sub: CV
+  host: IEEE/CVF
+  note: '<b>NOTE</b>: Paper registration until 2022-11-04'
+
 - title: AVEC (Deadline estimated)
   long: International Symposium on Advanced Vehicle Control
   hindex: --
@@ -1218,19 +1208,29 @@
   place: Bozen-Bolzano, Italy
   sub: ML
 
-- title: CVPR
-  long: Conference on Computer Vision and Pattern Recognition
-  hindex: 389
-  year: 2023
-  id: cvpr23
-  link: https://cvpr2023.thecvf.com/
-  deadline: '2022-11-11 23:59:59'
-  timezone: America/Los_Angeles
-  date: June 18-22, 2023
-  place: Vancouver, Canda
-  sub: CV
-  host: IEEE/CVF
-  note: '<b>NOTE</b>: Paper registration until 2022-11-04'
+- title: COLT
+  long: Conference on Learning Theory
+  hindex: 57
+  year: 2022
+  id: colt22
+  link: http://www.learningtheory.org/colt2022/
+  date: July 2-5, 2022
+  deadline: '2022-02-09 16:00:00'
+  timezone: UTC-8
+  place: London, UK
+  sub: ML
+
+- title: KDD
+  long: Knowledge Discovery and Data Mining
+  hindex: 38
+  year: 2022
+  id: kdd22
+  link: https://www.kdd.org/kdd2022/
+  deadline: '2022-02-10 23:59:59'
+  timezone: UTC-12
+  date: August 14-18, 2022
+  place: Washington DC, United Stes
+  sub: DM
 
 - title: VTC
   long: Vehicular Technology Conference
