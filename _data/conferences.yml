@@ -1232,19 +1232,6 @@
   place: Washington DC, United Stes
   sub: DM
 
-- title: VTC
-  long: Vehicular Technology Conference
-  hindex: 42
-  year: 2023
-  id: vtc23
-  link: https://events.vtsociety.org/vtc2023-spring/
-  deadline: '2022-12-12 23:59:59'
-  timezone: UTC-12
-  date: June 18-21, 2023
-  place: Florence, Italy
-  sub: IV
-  host: IEEE
-
 - title: VEHITS
   long: International Conference on Vehicle Technology and Intelligent Transport Systems
   hindex: 11
@@ -1257,6 +1244,19 @@
   place: Prague, Czech Republic
   sub: IV
   host: INSTICC
+
+- title: VTC
+  long: Vehicular Technology Conference
+  hindex: 42
+  year: 2023
+  id: vtc23
+  link: https://events.vtsociety.org/vtc2023-spring/
+  deadline: '2022-12-12 23:59:59'
+  timezone: UTC-12
+  date: June 18-21, 2023
+  place: Florence, Italy
+  sub: IV
+  host: IEEE
 
 - title: ICCV (Deadline estimated)
   long: International Conference on Computer Vision
