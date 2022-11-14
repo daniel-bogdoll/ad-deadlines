@@ -1232,18 +1232,6 @@
   host: IEEE/CVF
   note: '<b>NOTE</b>: Paper registration until 2022-11-04'
 
-- title: ICME
-  long: International Conference on Multimedia and Expo
-  hindex: 51
-  year: 2023
-  id: icme23
-  link: https://www.2023.ieeeicme.org/
-  deadline: '2022-12-11 23:59:59'
-  timezone: America/Los_Angeles
-  date: July 10-14, 2023
-  place: Brisbane, Australia
-  sub: CV
-
 - title: VTC
   long: Vehicular Technology Conference
   hindex: 42
