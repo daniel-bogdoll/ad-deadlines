@@ -1245,31 +1245,6 @@
   sub: IV
   host: INSTICC
 
-- title: VTC
-  long: Vehicular Technology Conference
-  hindex: 42
-  year: 2023
-  id: vtc23
-  link: https://events.vtsociety.org/vtc2023-spring/
-  deadline: '2022-12-12 23:59:59'
-  timezone: UTC-12
-  date: June 18-21, 2023
-  place: Florence, Italy
-  sub: IV
-  host: IEEE
-
-- title: ICCV
-  long: International Conference on Computer Vision
-  hindex: 184
-  year: 2023
-  id: iccv2023
-  link: https://iccv2023.thecvf.com/
-  deadline: '2023-03-08 23:59:00'
-  timezone: America/Los_Angeles
-  date: October 2-6, 2023
-  place: Paris, France
-  sub: CV
-
 - title: ICPS (Deadline estimated)
   long: International Conference on Industrial Cyber-Physical Systems
   hindex: 11
@@ -1280,6 +1255,19 @@
   timezone: UTC-12
   date: May 8-11, 2023
   place: Wuhan, China
+  sub: IV
+  host: IEEE
+
+- title: VTC
+  long: Vehicular Technology Conference
+  hindex: 42
+  year: 2023
+  id: vtc23
+  link: https://events.vtsociety.org/vtc2023-spring/
+  deadline: '2022-12-12 23:59:59'
+  timezone: UTC-12
+  date: June 18-21, 2023
+  place: Florence, Italy
   sub: IV
   host: IEEE
 
@@ -1295,19 +1283,6 @@
   place: Cape Town, South Africa
   sub: ML
   host: IJCAI
-
-- title: ICIP
-  long: International Conference in Image Processing
-  hindex: 60
-  year: 2023
-  id: icip23
-  link: https://2023.ieeeicip.org/
-  deadline: '2023-02-15 23:59:59'
-  timezone: America/Los_Angeles
-  date: October 8-11,2023
-  place: Kuala Lumpur
-  sub: CV
-  host: IEEE
 
 - title: ICARCV (Deadline estimated)
   long: International Conference on Control, Automation, Robotics and Vision
@@ -1389,6 +1364,31 @@
   place: Anchorage, USA
   sub: IV
   host: IEEE
+
+- title: ICIP
+  long: International Conference in Image Processing
+  hindex: 60
+  year: 2023
+  id: icip23
+  link: https://2023.ieeeicip.org/
+  deadline: '2023-02-15 23:59:59'
+  timezone: America/Los_Angeles
+  date: October 8-11,2023
+  place: Kuala Lumpur
+  sub: CV
+  host: IEEE
+
+- title: ICCV
+  long: International Conference on Computer Vision
+  hindex: 184
+  year: 2023
+  id: iccv2023
+  link: https://iccv2023.thecvf.com/
+  deadline: '2023-03-08 23:59:00'
+  timezone: America/Los_Angeles
+  date: October 2-6, 2023
+  place: Paris, France
+  sub: CV
 
 - title: SMC
   long: International Conference on Systems, Man, and Cybernetics
