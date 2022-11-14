@@ -1245,30 +1245,16 @@
   sub: IV
   host: IEEE
 
-- title: MIDL (Deadline estimated)
-  long: Medical Imaging with Deep Learning
-  hindex: --
-  year: 2023
-  id: midl2023
-  link: https://2022.midl.io/
-  deadline: '2022-12-17 23:59:59'
-  timezone: UTC-12
-  date: --
-  place: --
-  sub: CV
-  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
-    from 2022'
-
-- title: VEHITS (Deadline estimated)
+- title: VEHITS
   long: International Conference on Vehicle Technology and Intelligent Transport Systems
   hindex: 11
   year: 2023
   id: vehits23
   link: http://www.vehits.org/
-  deadline: '2022-12-21 23:59:59'
+  deadline: '2022-11-18 23:59:59'
   timezone: UTC-12
-  date: --
-  place: --
+  date: April 26-28, 2023
+  place: Prague, Czech Republic
   sub: IV
   host: INSTICC
 
