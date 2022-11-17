@@ -42,9 +42,22 @@
   host: IEEE
   note: '<b>NOTE</b>: More info about deadlines can be found here <a href=''https://2022.ieeeicip.org/important-dates/''>here</a>.'
 
+- title: ICCRE
+  long: International Conference on Control and Robotics Engineering
+  hindex: 11
+  year: 2023
+  id: iccre23
+  link: http://www.iccre.org/cfp.html
+  deadline: '2022-11-25 23:59:59'
+  timezone: UTC-12
+  date: April 14-16, 2023
+  place: Niigata, Japan
+  sub: RO
+  host: IEEE
+
 - title: ICTR (Deadline estimated)
   long: International Congress on Transportation Research
-  hindex: null
+  hindex: -
   year: 2022
   id: ictr22
   link: https://www.ictr.gr/
