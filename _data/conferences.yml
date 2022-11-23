@@ -1,99 +1,5 @@
 ---
 
-- title: WCCI
-  long: World Congress on Computational Intelligence
-  hindex: 57
-  year: 2022
-  id: wcci22
-  link: https://wcci2022.org/call-for-papers/
-  deadline: '2022-02-14 23:59:00'
-  timezone: UTC+1
-  date: July 18-23, 2022
-  place: Padua, Italy
-  sub: ML
-  host: IEEE
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 31, 2022.'
-
-- title: SAFECOMP
-  long: International Conference on Computer Safety, Reliability and Security
-  hindex: 19
-  year: 2022
-  id: safecomp22
-  link: https://safecomp22.iks.fraunhofer.de/
-  deadline: '2022-02-14 23:59:59'
-  timezone: UTC-12
-  date: September 06-09, 2022
-  place: Munich, Germany
-  sub: ML
-  host: Fraunhofer IKS
-  note: '<b>NOTE</b>: Mandatory abstract deadline on February 07, 2022'
-
-- title: ICIP
-  long: International Conference on Image Processing
-  hindex: 60
-  year: 2022
-  id: icip22
-  link: http://2022.ieeeicip.org/
-  deadline: '2022-02-16 23:59:59'
-  timezone: UTC-12
-  date: October 16-19, 2022
-  place: Bordeaux, France
-  sub: CV
-  host: IEEE
-  note: '<b>NOTE</b>: More info about deadlines can be found here <a href=''https://2022.ieeeicip.org/important-dates/''>here</a>.'
-
-- title: ICCRE
-  long: International Conference on Control and Robotics Engineering
-  hindex: 11
-  year: 2023
-  id: iccre23
-  link: http://www.iccre.org/cfp.html
-  deadline: '2022-11-25 23:59:59'
-  timezone: UTC-12
-  date: April 14-16, 2023
-  place: Niigata, Japan
-  sub: RO
-  host: IEEE
-
-- title: ICTR (Deadline estimated)
-  long: International Congress on Transportation Research
-  hindex: --
-  year: 2022
-  id: ictr22
-  link: https://www.ictr.gr/
-  deadline: '2022-02-19 23:59:59'
-  timezone: UTC-12
-  date: July 04-07, 2022
-  place: Rhodes, Greece
-  sub: IV
-  host: H.I.T.
-
-- title: MED
-  long: Mediterranean Conference on Control and Automation
-  hindex: 21
-  year: 2022
-  id: med22
-  link: https://www.med-control.org/med2022/call-for-papers/
-  deadline: '2022-02-20 23:59:59'
-  timezone: UTC-12
-  date: "June 28 \u2013 July 1, 2022"
-  place: Athens, Greece
-  sub: IV
-  host: IEEE
-
-- title: ICCAR
-  long: International Conference on Control, Automation and Robotics
-  hindex: 14
-  year: 2022
-  id: iccar22
-  link: http://www.iccar.org/index.html
-  deadline: '2022-02-20 23:59:59'
-  timezone: UTC-12
-  date: April 8-10, 2022
-  place: Xiamen, China
-  sub: RO
-  host: IEEE
-
 - title: UAI
   long: Conference on Uncertainty in Artificial Intelligence
   hindex: 34
@@ -304,20 +210,6 @@
   date: June 9-12, 2022
   place: Wuhan, China
   sub: RO
-  host: IEEE
-
-- title: ITSC
-  long: International Conference on Intelligent Transportation Systems / Intelligent
-    Transportation Systems Conference
-  hindex: 49
-  year: 2023
-  id: itsc2023
-  link: https://2023.ieee-itsc.org/
-  deadline: '2023-05-15 23:59:59'
-  timezone: UTC-12
-  date: September 24-28, 2023
-  place: Bilbao, Spain
-  sub: IV
   host: IEEE
 
 - title: ICCP
@@ -1155,6 +1047,19 @@
   host: IEEE/CVF
   note: '<b>NOTE</b>: Paper registration until 2022-11-04'
 
+- title: VEHITS
+  long: International Conference on Vehicle Technology and Intelligent Transport Systems
+  hindex: 11
+  year: 2023
+  id: vehits23
+  link: http://www.vehits.org/
+  deadline: '2022-11-18 23:59:59'
+  timezone: UTC-12
+  date: April 26-28, 2023
+  place: Prague, Czech Republic
+  sub: IV
+  host: INSTICC
+
 - title: AVEC (Deadline estimated)
   long: International Symposium on Advanced Vehicle Control
   hindex: --
@@ -1245,18 +1150,99 @@
   place: Washington DC, United Stes
   sub: DM
 
-- title: VEHITS
-  long: International Conference on Vehicle Technology and Intelligent Transport Systems
+- title: WCCI
+  long: World Congress on Computational Intelligence
+  hindex: 57
+  year: 2022
+  id: wcci22
+  link: https://wcci2022.org/call-for-papers/
+  deadline: '2022-02-14 23:59:00'
+  timezone: UTC+1
+  date: July 18-23, 2022
+  place: Padua, Italy
+  sub: ML
+  host: IEEE
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 31, 2022.'
+
+- title: SAFECOMP
+  long: International Conference on Computer Safety, Reliability and Security
+  hindex: 19
+  year: 2022
+  id: safecomp22
+  link: https://safecomp22.iks.fraunhofer.de/
+  deadline: '2022-02-14 23:59:59'
+  timezone: UTC-12
+  date: September 06-09, 2022
+  place: Munich, Germany
+  sub: ML
+  host: Fraunhofer IKS
+  note: '<b>NOTE</b>: Mandatory abstract deadline on February 07, 2022'
+
+- title: ICIP
+  long: International Conference on Image Processing
+  hindex: 60
+  year: 2022
+  id: icip22
+  link: http://2022.ieeeicip.org/
+  deadline: '2022-02-16 23:59:59'
+  timezone: UTC-12
+  date: October 16-19, 2022
+  place: Bordeaux, France
+  sub: CV
+  host: IEEE
+  note: '<b>NOTE</b>: More info about deadlines can be found here <a href=''https://2022.ieeeicip.org/important-dates/''>here</a>.'
+
+- title: ICTR (Deadline estimated)
+  long: International Congress on Transportation Research
+  hindex: --
+  year: 2022
+  id: ictr22
+  link: https://www.ictr.gr/
+  deadline: '2022-02-19 23:59:59'
+  timezone: UTC-12
+  date: July 04-07, 2022
+  place: Rhodes, Greece
+  sub: IV
+  host: H.I.T.
+
+- title: MED
+  long: Mediterranean Conference on Control and Automation
+  hindex: 21
+  year: 2022
+  id: med22
+  link: https://www.med-control.org/med2022/call-for-papers/
+  deadline: '2022-02-20 23:59:59'
+  timezone: UTC-12
+  date: "June 28 \u2013 July 1, 2022"
+  place: Athens, Greece
+  sub: IV
+  host: IEEE
+
+- title: ICCAR
+  long: International Conference on Control, Automation and Robotics
+  hindex: 14
+  year: 2022
+  id: iccar22
+  link: http://www.iccar.org/index.html
+  deadline: '2022-02-20 23:59:59'
+  timezone: UTC-12
+  date: April 8-10, 2022
+  place: Xiamen, China
+  sub: RO
+  host: IEEE
+
+- title: ICCRE
+  long: International Conference on Control and Robotics Engineering
   hindex: 11
   year: 2023
-  id: vehits23
-  link: http://www.vehits.org/
-  deadline: '2022-11-18 23:59:59'
+  id: iccre23
+  link: http://www.iccre.org/cfp.html
+  deadline: '2022-11-25 23:59:59'
   timezone: UTC-12
-  date: April 26-28, 2023
-  place: Prague, Czech Republic
-  sub: IV
-  host: INSTICC
+  date: April 14-16, 2023
+  place: Niigata, Japan
+  sub: RO
+  host: IEEE
 
 - title: ICPS (Deadline estimated)
   long: International Conference on Industrial Cyber-Physical Systems
@@ -1444,6 +1430,20 @@
   sub: CV
   host: IEEE
   note: '<b>NOTE</b>: Call for Proposals running: http://iab-rubric.org/fg2021/FG2024.html'
+
+- title: ITSC
+  long: International Conference on Intelligent Transportation Systems / Intelligent
+    Transportation Systems Conference
+  hindex: 49
+  year: 2023
+  id: itsc2023
+  link: https://2023.ieee-itsc.org/
+  deadline: '2023-05-15 23:59:59'
+  timezone: UTC-12
+  date: September 24-28, 2023
+  place: Bilbao, Spain
+  sub: IV
+  host: IEEE
 
 - title: ECMR (Deadline estimated)
   long: European Conference on Mobile Robots
