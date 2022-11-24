@@ -1,5 +1,18 @@
 ---
 
+- title: VehicleSec (WS)
+  long: Inaugural Symposium on Vehicle Security and Privacy
+  hindex: 72
+  year: 2023
+  id: vehiclesec23
+  link: https://www.ndss-symposium.org/ndss2023/submissions/cfp-vehiclesec/
+  deadline: '2023-01-03 23:59:59'
+  timezone: UTC
+  date: February 27, 2023
+  place: San Diego, USA
+  host: NDSS
+  sub: IV
+
 - title: UAI
   long: Conference on Uncertainty in Artificial Intelligence
   hindex: 34
