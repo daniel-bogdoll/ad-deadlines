@@ -1,17 +1,5 @@
 ---
 
-- title: UAI
-  long: Conference on Uncertainty in Artificial Intelligence
-  hindex: 34
-  year: 2022
-  id: uai22
-  link: http://auai.org/uai2022/
-  deadline: '2022-02-25 23:59:59'
-  timezone: UTC
-  date: August 2-4, 2022
-  place: Eindhoven, Netherlands
-  sub: ML
-
 - title: IROS
   long: International Conference on Intelligent Robots and Systems
   hindex: 73
@@ -1231,18 +1219,17 @@
   sub: RO
   host: IEEE
 
-- title: ICCRE
-  long: International Conference on Control and Robotics Engineering
-  hindex: 11
-  year: 2023
-  id: iccre23
-  link: http://www.iccre.org/cfp.html
-  deadline: '2023-01-05 23:59:59'
-  timezone: UTC-12
-  date: April 14-16, 2023
-  place: Niigata, Japan
-  sub: RO
-  host: IEEE
+- title: UAI
+  long: Conference on Uncertainty in Artificial Intelligence
+  hindex: 34
+  year: 2022
+  id: uai22
+  link: http://auai.org/uai2022/
+  deadline: '2022-02-25 23:59:59'
+  timezone: UTC
+  date: August 2-4, 2022
+  place: Eindhoven, Netherlands
+  sub: ML
 
 - title: ICPS (Deadline estimated)
   long: International Conference on Industrial Cyber-Physical Systems
@@ -1282,6 +1269,19 @@
   place: San Diego, USA
   host: NDSS
   sub: IV
+
+- title: ICCRE
+  long: International Conference on Control and Robotics Engineering
+  hindex: 11
+  year: 2023
+  id: iccre23
+  link: http://www.iccre.org/cfp.html
+  deadline: '2023-01-05 23:59:59'
+  timezone: UTC-12
+  date: April 14-16, 2023
+  place: Niigata, Japan
+  sub: RO
+  host: IEEE
 
 - title: IJCAI
   long: International Joint Conference on Artificial Intelligence
