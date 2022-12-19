@@ -1,177 +1,5 @@
 ---
 
-- title: UR
-  long: International Conference on Ubiquitous Robots
-  hindex: 18
-  year: 2023
-  id: ur23
-  link: https://2023.ubiquitousrobots.org/
-  deadline: '2023-02-01 23:59:59'
-  timezone: America/Los_Angeles
-  date: June 25-28, 2023
-  place: Hawaii, USA
-  host: IEEE
-  sub: RO
-
-- title: IROS
-  long: International Conference on Intelligent Robots and Systems
-  hindex: 73
-  year: 2022
-  id: iros22
-  link: https://www.iros2022.org
-  deadline: '2022-03-01 23:59:59'
-  timezone: America/Los_Angeles
-  date: October 23-27, 2022
-  place: Kyoto, Japan
-  sub: RO
-
-- title: ITS
-  long: ITS World Congress
-  hindex: --
-  year: 2022
-  id: its22
-  link: https://www.itsamericaevents.com/world-congress/en-us/programs.html
-  deadline: '2022-03-01 23:59:59'
-  timezone: UTC-12
-  date: September 18-22, 2022
-  place: Los Angeles, USA
-  sub: IV
-  host: ITS
-
-- title: FUSION
-  long: International Conference on Information Fusion
-  hindex: 25
-  year: 2022
-  id: fusion22
-  link: https://www.fusion2022.se/
-  deadline: '2022-03-01 23:59:59'
-  timezone: UTC-12
-  date: July 04-07, 2022
-  place: "Link\xF6ping, Sweden"
-  sub: CV
-  host: IEEE
-
-- title: RLDM (Deadline estimated)
-  long: Multidisciplinary Conference on Reinforcement Learning and Decision Making
-  hindex: --
-  year: 2022
-  id: rldm22
-  link: https://www.rldm.org/
-  deadline: '2022-03-01 23:59:59'
-  timezone: UTC-12
-  date: June 8-11, 2022
-  place: Providence, RI, USA
-  sub: ML
-  host: ??
-
-- title: CASE
-  long: International Conference on Automation Science and Engineering
-  hindex: 28
-  year: 2021
-  id: case2021
-  link: http://case2022.org
-  deadline: '2022-03-01 23:59:59'
-  timezone: UTC-12
-  date: August 20-24, 2022
-  place: Mexico City, Mexico
-  sub: RO
-  host: IEEE
-
-- title: ICINCO
-  long: International Conference on Informatics in Control, Automation and Robotics
-  hindex: 14
-  year: 2022
-  id: icinco2022
-  link: http://www.icinco.org/?y=2022
-  deadline: '2022-03-02 23:59:59'
-  timezone: UTC-12
-  date: July 14-16, 2022
-  place: Lisbon, Portugal
-  sub: RO
-  host: INSTICC
-
-- title: ICoIV
-  long: International Conference on Intelligent Vehicles
-  hindex: --
-  year: 2022
-  id: icoiv22
-  link: https://www.icoiv.org
-  deadline: '2022-03-04 23:59:59'
-  timezone: UTC-12
-  date: June 17-19, 2022
-  place: Chengdu, China
-  sub: IV
-  host: HKSRA/MDPI
-  abstract_deadline: '2022-02-22 23:59:59'
-  note: '<b>NOTE</b>: Mandatory abstract deadline on February 22, 2022'
-
-- title: ECCV
-  long: European Conference on Computer Vision
-  hindex: 197
-  year: 2022
-  id: eccv22
-  link: https://eccv2022.ecva.net
-  deadline: '2022-03-07 20:59:00'
-  timezone: UTC+1
-  date: October 24-28, 2022
-  place: Tel-Aviv, Israel
-  sub: CV
-
-- title: ARSO
-  long: International Conference on Advanced Robotics and its Social Impacts
-  hindex: 11
-  year: 2022
-  id: arso22
-  link: https://attend.ieee.org/arso-2022/
-  deadline: '2022-03-10 23:59:59'
-  timezone: UTC-12
-  date: May 28-30, 2022
-  place: California, USA
-  sub: RO
-  host: IEEE
-
-- title: CPSCom
-  long: International Conference on Cyber, Physical and Social Computing
-  hindex: --
-  year: 2022
-  id: cpscom22
-  link: http://ieee-cybermatics.org/2022/cpscom/
-  deadline: '2022-03-15 23:59:59'
-  timezone: UTC-12
-  date: August 22-25, 2022
-  place: Espoo, Finland
-  sub: IV
-  host: IEEE
-
-- title: WAD (WS)
-  long: CVPR Workshop on Autonomous Driving
-  hindex: 89
-  year: 2022
-  id: wad22
-  link: http://cvpr2022.wad.vision/
-  deadline: '2022-03-18 23:59:59'
-  timezone: UTC-12
-  date: June 20, 2022
-  place: New Orleans, USA
-  sub: IV
-  host: IEEE/CVF
-
-- title: ESEC/FSE
-  long: Joint European Software Engineering Conference and Symposium on the Foundations
-    of Software Engineering
-  hindex: --
-  year: 2022
-  id: esec2022
-  link: https://2022.esec-fse.org/
-  deadline: '2022-03-18 23:59:59'
-  timezone: UTC-12
-  date: November 14-18, 2022
-  place: Singapore
-  sub: AS
-  host: ACM
-  abstract_deadline: '2022-03-11 23:59:59'
-  note: '<b>NOTE</b>: Mandatory paper registration deadline on March 11, 2022'
-
 - title: ECML-PKDD
   long: European Conference on Machine Learning and Principles and Practice of Knowledge
     Discovery in Databases
@@ -1061,6 +889,32 @@
   sub: IV
   host: INSTICC
 
+- title: ICPS (Deadline estimated)
+  long: International Conference on Industrial Cyber-Physical Systems
+  hindex: 11
+  year: 2023
+  id: icps23
+  link: http://icps2023.cug.edu.cn/
+  deadline: '2022-12-01 23:59:59'
+  timezone: UTC-12
+  date: May 8-11, 2023
+  place: Wuhan, China
+  sub: IV
+  host: IEEE
+
+- title: VTC
+  long: Vehicular Technology Conference
+  hindex: 42
+  year: 2023
+  id: vtc23
+  link: https://events.vtsociety.org/vtc2023-spring/
+  deadline: '2022-12-12 23:59:59'
+  timezone: UTC-12
+  date: June 18-21, 2023
+  place: Florence, Italy
+  sub: IV
+  host: IEEE
+
 - title: AVEC (Deadline estimated)
   long: International Symposium on Advanced Vehicle Control
   hindex: --
@@ -1244,31 +1098,164 @@
   place: Eindhoven, Netherlands
   sub: ML
 
-- title: ICPS (Deadline estimated)
-  long: International Conference on Industrial Cyber-Physical Systems
-  hindex: 11
-  year: 2023
-  id: icps23
-  link: http://icps2023.cug.edu.cn/
-  deadline: '2022-12-01 23:59:59'
+- title: IROS
+  long: International Conference on Intelligent Robots and Systems
+  hindex: 73
+  year: 2022
+  id: iros22
+  link: https://www.iros2022.org
+  deadline: '2022-03-01 23:59:59'
+  timezone: America/Los_Angeles
+  date: October 23-27, 2022
+  place: Kyoto, Japan
+  sub: RO
+
+- title: ITS
+  long: ITS World Congress
+  hindex: --
+  year: 2022
+  id: its22
+  link: https://www.itsamericaevents.com/world-congress/en-us/programs.html
+  deadline: '2022-03-01 23:59:59'
   timezone: UTC-12
-  date: May 8-11, 2023
-  place: Wuhan, China
+  date: September 18-22, 2022
+  place: Los Angeles, USA
+  sub: IV
+  host: ITS
+
+- title: FUSION
+  long: International Conference on Information Fusion
+  hindex: 25
+  year: 2022
+  id: fusion22
+  link: https://www.fusion2022.se/
+  deadline: '2022-03-01 23:59:59'
+  timezone: UTC-12
+  date: July 04-07, 2022
+  place: "Link\xF6ping, Sweden"
+  sub: CV
+  host: IEEE
+
+- title: RLDM (Deadline estimated)
+  long: Multidisciplinary Conference on Reinforcement Learning and Decision Making
+  hindex: --
+  year: 2022
+  id: rldm22
+  link: https://www.rldm.org/
+  deadline: '2022-03-01 23:59:59'
+  timezone: UTC-12
+  date: June 8-11, 2022
+  place: Providence, RI, USA
+  sub: ML
+  host: ??
+
+- title: CASE
+  long: International Conference on Automation Science and Engineering
+  hindex: 28
+  year: 2021
+  id: case2021
+  link: http://case2022.org
+  deadline: '2022-03-01 23:59:59'
+  timezone: UTC-12
+  date: August 20-24, 2022
+  place: Mexico City, Mexico
+  sub: RO
+  host: IEEE
+
+- title: ICINCO
+  long: International Conference on Informatics in Control, Automation and Robotics
+  hindex: 14
+  year: 2022
+  id: icinco2022
+  link: http://www.icinco.org/?y=2022
+  deadline: '2022-03-02 23:59:59'
+  timezone: UTC-12
+  date: July 14-16, 2022
+  place: Lisbon, Portugal
+  sub: RO
+  host: INSTICC
+
+- title: ICoIV
+  long: International Conference on Intelligent Vehicles
+  hindex: --
+  year: 2022
+  id: icoiv22
+  link: https://www.icoiv.org
+  deadline: '2022-03-04 23:59:59'
+  timezone: UTC-12
+  date: June 17-19, 2022
+  place: Chengdu, China
+  sub: IV
+  host: HKSRA/MDPI
+  abstract_deadline: '2022-02-22 23:59:59'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on February 22, 2022'
+
+- title: ECCV
+  long: European Conference on Computer Vision
+  hindex: 197
+  year: 2022
+  id: eccv22
+  link: https://eccv2022.ecva.net
+  deadline: '2022-03-07 20:59:00'
+  timezone: UTC+1
+  date: October 24-28, 2022
+  place: Tel-Aviv, Israel
+  sub: CV
+
+- title: ARSO
+  long: International Conference on Advanced Robotics and its Social Impacts
+  hindex: 11
+  year: 2022
+  id: arso22
+  link: https://attend.ieee.org/arso-2022/
+  deadline: '2022-03-10 23:59:59'
+  timezone: UTC-12
+  date: May 28-30, 2022
+  place: California, USA
+  sub: RO
+  host: IEEE
+
+- title: CPSCom
+  long: International Conference on Cyber, Physical and Social Computing
+  hindex: --
+  year: 2022
+  id: cpscom22
+  link: http://ieee-cybermatics.org/2022/cpscom/
+  deadline: '2022-03-15 23:59:59'
+  timezone: UTC-12
+  date: August 22-25, 2022
+  place: Espoo, Finland
   sub: IV
   host: IEEE
 
-- title: VTC
-  long: Vehicular Technology Conference
-  hindex: 42
-  year: 2023
-  id: vtc23
-  link: https://events.vtsociety.org/vtc2023-spring/
-  deadline: '2022-12-12 23:59:59'
+- title: WAD (WS)
+  long: CVPR Workshop on Autonomous Driving
+  hindex: 89
+  year: 2022
+  id: wad22
+  link: http://cvpr2022.wad.vision/
+  deadline: '2022-03-18 23:59:59'
   timezone: UTC-12
-  date: June 18-21, 2023
-  place: Florence, Italy
+  date: June 20, 2022
+  place: New Orleans, USA
   sub: IV
-  host: IEEE
+  host: IEEE/CVF
+
+- title: ESEC/FSE
+  long: Joint European Software Engineering Conference and Symposium on the Foundations
+    of Software Engineering
+  hindex: --
+  year: 2022
+  id: esec2022
+  link: https://2022.esec-fse.org/
+  deadline: '2022-03-18 23:59:59'
+  timezone: UTC-12
+  date: November 14-18, 2022
+  place: Singapore
+  sub: AS
+  host: ACM
+  abstract_deadline: '2022-03-11 23:59:59'
+  note: '<b>NOTE</b>: Mandatory paper registration deadline on March 11, 2022'
 
 - title: VehicleSec (WS)
   long: Inaugural Symposium on Vehicle Security and Privacy
@@ -1376,6 +1363,19 @@
   place: Suwon, Korea
   sub: IV
   host: Springer
+
+- title: UR
+  long: International Conference on Ubiquitous Robots
+  hindex: 18
+  year: 2023
+  id: ur23
+  link: https://2023.ubiquitousrobots.org/
+  deadline: '2023-02-01 23:59:59'
+  timezone: America/Los_Angeles
+  date: June 25-28, 2023
+  place: Hawaii, USA
+  host: IEEE
+  sub: RO
 
 - title: IV
   long: Intelligent Vehicles Symposium
