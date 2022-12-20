@@ -67,19 +67,6 @@
   sub: ML
   host: SafeComp
 
-- title: CAI
-  long: Conference on Artificial Intelligence
-  hindex: --
-  year: 2023
-  id: cai2023
-  link: https://cai.ieee.org/2023
-  deadline: '2023-03-19 23:59:59'
-  timezone: UTC-12
-  date: June 5-6, 2023
-  place: Santa Clara, USA
-  sub: ML
-  host: IEEE
-
 - title: AITest
   long: International Conference on Artificial Intelligence Testing
   hindex: --
@@ -1427,6 +1414,19 @@
   date: October 2-6, 2023
   place: Paris, France
   sub: CV
+
+- title: CAI
+  long: Conference on Artificial Intelligence
+  hindex: --
+  year: 2023
+  id: cai2023
+  link: https://cai.ieee.org/2023
+  deadline: '2023-03-19 23:59:59'
+  timezone: UTC-12
+  date: June 5-6, 2023
+  place: Santa Clara, USA
+  sub: ML
+  host: IEEE
 
 - title: SMC
   long: International Conference on Systems, Man, and Cybernetics
