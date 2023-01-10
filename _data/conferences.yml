@@ -1,33 +1,5 @@
 ---
 
-- title: ECML-PKDD
-  long: European Conference on Machine Learning and Principles and Practice of Knowledge
-    Discovery in Databases
-  hindex: 30
-  year: 2022
-  id: ecmlpkdd2022
-  link: https://2022.ecmlpkdd.org/
-  deadline: '2022-03-28 23:59:59'
-  abstract_deadline: '2022-03-21 23:59:59'
-  timezone: UTC-12
-  date: September 19-23, 2022
-  place: Grenoble, France (hybrid)
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 21, 2022. More info <a href=''https://2022.ecmlpkdd.org/index.php/key-dates-deadlines/''>here</a>.'
-
-- title: MESA
-  long: International Conference on Mechatronic and Embedded Systems and Applications
-  hindex: 12
-  year: 2022
-  id: mesa22
-  link: http://mesa2022.org/
-  deadline: '2022-03-31 23:59:59'
-  timezone: UTC-12
-  date: August 29-31, 2022
-  place: Taipei, Taiwan
-  sub: IV
-  host: IEEE/ASME
-
 - title: ICRAS
   long: International Conference on Robotics and Automation Sciences
   hindex: 11
@@ -418,19 +390,6 @@
   host: IEEE
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2021'
-
-- title: SAIAD (WS)
-  long: Safe Artificial Intelligence for All Domains
-  hindex: 106
-  year: 2023
-  id: saiad23
-  link: https://sites.google.com/view/saiad2023
-  deadline: '2023-03-10 20:59:00'
-  timezone: UTC+1
-  date: June 19, 2023
-  place: Vancouver, Canada
-  sub: ML
-  host: CVPR
 
 - title: AVVision (WS)
   long: Autonomous Vehicle Vision Workshop
@@ -915,6 +874,32 @@
   sub: IV
   host: IEEE
 
+- title: VehicleSec (WS)
+  long: Inaugural Symposium on Vehicle Security and Privacy
+  hindex: 72
+  year: 2023
+  id: vehiclesec23
+  link: https://www.ndss-symposium.org/ndss2023/submissions/cfp-vehiclesec/
+  deadline: '2023-01-03 23:59:59'
+  timezone: UTC
+  date: February 27, 2023
+  place: San Diego, USA
+  host: NDSS
+  sub: IV
+
+- title: ICCRE
+  long: International Conference on Control and Robotics Engineering
+  hindex: 11
+  year: 2023
+  id: iccre23
+  link: http://www.iccre.org/cfp.html
+  deadline: '2023-01-05 23:59:59'
+  timezone: UTC-12
+  date: April 14-16, 2023
+  place: Niigata, Japan
+  sub: RO
+  host: IEEE
+
 - title: AVEC (Deadline estimated)
   long: International Symposium on Advanced Vehicle Control
   hindex: --
@@ -1257,31 +1242,33 @@
   abstract_deadline: '2022-03-11 23:59:59'
   note: '<b>NOTE</b>: Mandatory paper registration deadline on March 11, 2022'
 
-- title: VehicleSec (WS)
-  long: Inaugural Symposium on Vehicle Security and Privacy
-  hindex: 72
-  year: 2023
-  id: vehiclesec23
-  link: https://www.ndss-symposium.org/ndss2023/submissions/cfp-vehiclesec/
-  deadline: '2023-01-03 23:59:59'
-  timezone: UTC
-  date: February 27, 2023
-  place: San Diego, USA
-  host: NDSS
-  sub: IV
-
-- title: ICCRE
-  long: International Conference on Control and Robotics Engineering
-  hindex: 11
-  year: 2023
-  id: iccre23
-  link: http://www.iccre.org/cfp.html
-  deadline: '2023-01-05 23:59:59'
+- title: ECML-PKDD
+  long: European Conference on Machine Learning and Principles and Practice of Knowledge
+    Discovery in Databases
+  hindex: 30
+  year: 2022
+  id: ecmlpkdd2022
+  link: https://2022.ecmlpkdd.org/
+  deadline: '2022-03-28 23:59:59'
+  abstract_deadline: '2022-03-21 23:59:59'
   timezone: UTC-12
-  date: April 14-16, 2023
-  place: Niigata, Japan
-  sub: RO
-  host: IEEE
+  date: September 19-23, 2022
+  place: Grenoble, France (hybrid)
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 21, 2022. More info <a href=''https://2022.ecmlpkdd.org/index.php/key-dates-deadlines/''>here</a>.'
+
+- title: MESA
+  long: International Conference on Mechatronic and Embedded Systems and Applications
+  hindex: 12
+  year: 2022
+  id: mesa22
+  link: http://mesa2022.org/
+  deadline: '2022-03-31 23:59:59'
+  timezone: UTC-12
+  date: August 29-31, 2022
+  place: Taipei, Taiwan
+  sub: IV
+  host: IEEE/ASME
 
 - title: IJCAI
   long: International Joint Conference on Artificial Intelligence
@@ -1414,6 +1401,19 @@
   date: October 2-6, 2023
   place: Paris, France
   sub: CV
+
+- title: SAIAD (WS)
+  long: Safe Artificial Intelligence for All Domains
+  hindex: 106
+  year: 2023
+  id: saiad23
+  link: https://sites.google.com/view/saiad2023
+  deadline: '2023-03-10 20:59:00'
+  timezone: UTC+1
+  date: June 19, 2023
+  place: Vancouver, Canada
+  sub: ML
+  host: CVPR
 
 - title: CAI
   long: Conference on Artificial Intelligence
