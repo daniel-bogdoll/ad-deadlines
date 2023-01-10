@@ -420,17 +420,17 @@
     from 2021'
 
 - title: SAIAD (WS)
-  long: Safe Artificial Intelligence for Automated Driving
-  hindex: --
-  year: 2022
-  id: saiad22
-  link: https://sites.google.com/view/saiad2022/
-  deadline: '2022-07-20 20:59:00'
+  long: Safe Artificial Intelligence for All Domains
+  hindex: 106
+  year: 2023
+  id: saiad23
+  link: https://sites.google.com/view/saiad2023
+  deadline: '2023-03-10 20:59:00'
   timezone: UTC+1
-  date: October 24-28, 2022
-  place: Tel-Aviv, Israel
+  date: June 19, 2023
+  place: Vancouver, Canada
   sub: ML
-  host: ECCV
+  host: CVPR
 
 - title: AVVision (WS)
   long: Autonomous Vehicle Vision Workshop
