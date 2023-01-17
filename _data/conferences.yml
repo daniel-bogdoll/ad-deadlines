@@ -914,56 +914,6 @@
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2020'
 
-- title: KDD
-  long: Knowledge Discovery and Data Mining
-  hindex: 114
-  year: 2023
-  id: kdd23
-  link: https://kdd.org/kdd2023/
-  deadline: '2023-02-02 23:59:59'
-  timezone: UTC-12
-  date: August 06-10, 2023
-  place: California, United Stes
-  sub: DM
-
-- title: WCCI
-  long: World Congress on Computational Intelligence
-  hindex: 57
-  year: 2024
-  id: wcci24
-  link: https://wcci2024.org/
-  deadline: '2024-01-15 23:59:00'
-  timezone: UTC+1
-  date: June 30 - July 05, 2024
-  place: Yokohama, Japan
-  sub: ML
-  host: IEEE
-
-- title: SAFECOMP
-  long: International Conference on Computer Safety, Reliability and Security
-  hindex: 23
-  year: 2023
-  id: safecomp23
-  link: https://safecomp2023.cnrs.fr/
-  deadline: '2023-02-06 23:59:59'
-  timezone: UTC-12
-  date: September 19-22, 2023
-  place: Toulouse, France
-  sub: ML
-
-- title: ICIP
-  long: International Conference on Image Processing
-  hindex: 60
-  year: 2023
-  id: icip23
-  link: https://2023.ieeeicip.org/
-  deadline: '2023-02-15 23:59:59'
-  timezone: UTC-12
-  date: October 08-11, 2023
-  place: Kuala Lumpur, Malaysia
-  sub: CV
-  host: IEEE
-
 - title: ICTR (Deadline estimated)
   long: International Congress on Transportation Research
   hindex: --
@@ -1321,6 +1271,18 @@
   sub: IV
   host: IEEE
 
+- title: KDD
+  long: Knowledge Discovery and Data Mining
+  hindex: 114
+  year: 2023
+  id: kdd23
+  link: https://kdd.org/kdd2023/
+  deadline: '2023-02-02 23:59:59'
+  timezone: UTC-12
+  date: August 06-10, 2023
+  place: California, United Stes
+  sub: DM
+
 - title: RSS
   long: Robotics Science and Systems
   hindex: 58
@@ -1332,6 +1294,18 @@
   date: July 10-14, 2022
   place: Daegu, Korea
   sub: RO
+
+- title: SAFECOMP
+  long: International Conference on Computer Safety, Reliability and Security
+  hindex: 23
+  year: 2023
+  id: safecomp23
+  link: https://safecomp2023.cnrs.fr/
+  deadline: '2023-02-06 23:59:59'
+  timezone: UTC-12
+  date: September 19-22, 2023
+  place: Toulouse, France
+  sub: ML
 
 - title: COLT
   long: Conference on Learning Theory
@@ -1355,6 +1329,19 @@
   timezone: America/Los_Angeles
   date: October 8-11,2023
   place: Kuala Lumpur
+  sub: CV
+  host: IEEE
+
+- title: ICIP
+  long: International Conference on Image Processing
+  hindex: 60
+  year: 2023
+  id: icip23
+  link: https://2023.ieeeicip.org/
+  deadline: '2023-02-15 23:59:59'
+  timezone: UTC-12
+  date: October 08-11, 2023
+  place: Kuala Lumpur, Malaysia
   sub: CV
   host: IEEE
 
@@ -1516,6 +1503,19 @@
   date: March 7-9, 2022
   place: Florida, USA
   sub: V2X
+  host: IEEE
+
+- title: WCCI
+  long: World Congress on Computational Intelligence
+  hindex: 57
+  year: 2024
+  id: wcci24
+  link: https://wcci2024.org/
+  deadline: '2024-01-15 23:59:00'
+  timezone: UTC+1
+  date: June 30 - July 05, 2024
+  place: Yokohama, Japan
+  sub: ML
   host: IEEE
 
 - title: ICPR (Deadline estimated)
