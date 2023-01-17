@@ -914,92 +914,92 @@
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2020'
 
-- title: ICTR (Deadline estimated)
+- title: ICTR
   long: International Congress on Transportation Research
   hindex: --
-  year: 2022
-  id: ictr22
+  year: 2023
+  id: ictr23
   link: https://www.ictr.gr/
-  deadline: '2022-02-19 23:59:59'
+  deadline: '2023-02-03 23:59:59'
   timezone: UTC-12
-  date: July 04-07, 2022
-  place: Rhodes, Greece
+  date: September 20-22, 2023
+  place: Heraklion, Greece
   sub: IV
   host: H.I.T.
 
 - title: MED
   long: Mediterranean Conference on Control and Automation
-  hindex: 21
-  year: 2022
-  id: med22
-  link: https://www.med-control.org/med2022/call-for-papers/
-  deadline: '2022-02-20 23:59:59'
+  hindex: 16
+  year: 2023
+  id: med23
+  link: https://med2023.eu/
+  deadline: '2023-01-31 23:59:59'
   timezone: UTC-12
-  date: "June 28 \u2013 July 1, 2022"
-  place: Athens, Greece
+  date: June 26-29, 2023
+  place: Cyprus, Greece
   sub: IV
   host: IEEE
 
 - title: ICCAR
   long: International Conference on Control, Automation and Robotics
-  hindex: 14
-  year: 2022
-  id: iccar22
+  hindex: 19
+  year: 2023
+  id: iccar23
   link: http://www.iccar.org/index.html
-  deadline: '2022-02-20 23:59:59'
+  deadline: '2023-01-15 23:59:59'
   timezone: UTC-12
-  date: April 8-10, 2022
-  place: Xiamen, China
+  date: April 21-23, 2023
+  place: Beijing, China
   sub: RO
   host: IEEE
 
 - title: UAI
   long: Conference on Uncertainty in Artificial Intelligence
-  hindex: 34
-  year: 2022
-  id: uai22
-  link: http://auai.org/uai2022/
-  deadline: '2022-02-25 23:59:59'
+  hindex: 45
+  year: 2023
+  id: uai23
+  link: https://auai.org/uai2023/
+  deadline: '2023-02-17 23:59:59'
   timezone: UTC
-  date: August 2-4, 2022
-  place: Eindhoven, Netherlands
+  date: July 31 - August 04, 2023
+  place: Pittsburgh, USA
   sub: ML
 
 - title: IROS
   long: International Conference on Intelligent Robots and Systems
-  hindex: 73
-  year: 2022
-  id: iros22
-  link: https://www.iros2022.org
-  deadline: '2022-03-01 23:59:59'
+  hindex: 80
+  year: 2023
+  id: iros23
+  link: https://ieee-iros.org/
+  deadline: '2023-03-01 23:59:59'
   timezone: America/Los_Angeles
-  date: October 23-27, 2022
-  place: Kyoto, Japan
+  date: October 01-05, 2023
+  place: Detroit, USA
   sub: RO
 
 - title: ITS
   long: ITS World Congress
   hindex: --
-  year: 2022
-  id: its22
-  link: https://www.itsamericaevents.com/world-congress/en-us/programs.html
-  deadline: '2022-03-01 23:59:59'
+  year: 2024
+  id: its24
+  link: https://itsworldcongress.com/
+  deadline: '2023-03-01 23:59:59'
   timezone: UTC-12
-  date: September 18-22, 2022
-  place: Los Angeles, USA
+  date: September 16-20, 2024
+  place: Dubai, UAE
   sub: IV
   host: ITS
 
 - title: FUSION
   long: International Conference on Information Fusion
-  hindex: 25
-  year: 2022
-  id: fusion22
-  link: https://www.fusion2022.se/
-  deadline: '2022-03-01 23:59:59'
+  hindex: 27
+  year: 2023
+  id: fusion23
+  link: https://fusion2023.org/
+  deadline: '2023-02-15 23:59:59'
   timezone: UTC-12
-  date: July 04-07, 2022
-  place: "Link\xF6ping, Sweden"
+  date: June 27-30, 2023
+  place: Charleston, USA
   sub: CV
   host: IEEE
 
