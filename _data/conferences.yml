@@ -914,32 +914,6 @@
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2020'
 
-- title: ICTR
-  long: International Congress on Transportation Research
-  hindex: --
-  year: 2023
-  id: ictr23
-  link: https://www.ictr.gr/
-  deadline: '2023-02-03 23:59:59'
-  timezone: UTC-12
-  date: September 20-22, 2023
-  place: Heraklion, Greece
-  sub: IV
-  host: H.I.T.
-
-- title: MED
-  long: Mediterranean Conference on Control and Automation
-  hindex: 16
-  year: 2023
-  id: med23
-  link: https://med2023.eu/
-  deadline: '2023-01-31 23:59:59'
-  timezone: UTC-12
-  date: June 26-29, 2023
-  place: Cyprus, Greece
-  sub: IV
-  host: IEEE
-
 - title: ICCAR
   long: International Conference on Control, Automation and Robotics
   hindex: 19
@@ -951,56 +925,6 @@
   date: April 21-23, 2023
   place: Beijing, China
   sub: RO
-  host: IEEE
-
-- title: UAI
-  long: Conference on Uncertainty in Artificial Intelligence
-  hindex: 45
-  year: 2023
-  id: uai23
-  link: https://auai.org/uai2023/
-  deadline: '2023-02-17 23:59:59'
-  timezone: UTC
-  date: July 31 - August 04, 2023
-  place: Pittsburgh, USA
-  sub: ML
-
-- title: IROS
-  long: International Conference on Intelligent Robots and Systems
-  hindex: 80
-  year: 2023
-  id: iros23
-  link: https://ieee-iros.org/
-  deadline: '2023-03-01 23:59:59'
-  timezone: America/Los_Angeles
-  date: October 01-05, 2023
-  place: Detroit, USA
-  sub: RO
-
-- title: ITS
-  long: ITS World Congress
-  hindex: --
-  year: 2024
-  id: its24
-  link: https://itsworldcongress.com/
-  deadline: '2023-03-01 23:59:59'
-  timezone: UTC-12
-  date: September 16-20, 2024
-  place: Dubai, UAE
-  sub: IV
-  host: ITS
-
-- title: FUSION
-  long: International Conference on Information Fusion
-  hindex: 27
-  year: 2023
-  id: fusion23
-  link: https://fusion2023.org/
-  deadline: '2023-02-15 23:59:59'
-  timezone: UTC-12
-  date: June 27-30, 2023
-  place: Charleston, USA
-  sub: CV
   host: IEEE
 
 - title: RLDM (Deadline estimated)
@@ -1218,6 +1142,19 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2022.'
 
+- title: MED
+  long: Mediterranean Conference on Control and Automation
+  hindex: 16
+  year: 2023
+  id: med23
+  link: https://med2023.eu/
+  deadline: '2023-01-31 23:59:59'
+  timezone: UTC-12
+  date: June 26-29, 2023
+  place: Cyprus, Greece
+  sub: IV
+  host: IEEE
+
 - title: ITAVT
   long: International Workshop on Intelligent Transportation and Autonomous Vehicles
     Technologies
@@ -1283,6 +1220,19 @@
   place: California, United Stes
   sub: DM
 
+- title: ICTR
+  long: International Congress on Transportation Research
+  hindex: --
+  year: 2023
+  id: ictr23
+  link: https://www.ictr.gr/
+  deadline: '2023-02-03 23:59:59'
+  timezone: UTC-12
+  date: September 20-22, 2023
+  place: Heraklion, Greece
+  sub: IV
+  host: H.I.T.
+
 - title: RSS
   long: Robotics Science and Systems
   hindex: 58
@@ -1332,6 +1282,19 @@
   sub: CV
   host: IEEE
 
+- title: FUSION
+  long: International Conference on Information Fusion
+  hindex: 27
+  year: 2023
+  id: fusion23
+  link: https://fusion2023.org/
+  deadline: '2023-02-15 23:59:59'
+  timezone: UTC-12
+  date: June 27-30, 2023
+  place: Charleston, USA
+  sub: CV
+  host: IEEE
+
 - title: ICIP
   long: International Conference on Image Processing
   hindex: 60
@@ -1358,6 +1321,18 @@
   sub: IV
   host: ICLR
 
+- title: UAI
+  long: Conference on Uncertainty in Artificial Intelligence
+  hindex: 45
+  year: 2023
+  id: uai23
+  link: https://auai.org/uai2023/
+  deadline: '2023-02-17 23:59:59'
+  timezone: UTC
+  date: July 31 - August 04, 2023
+  place: Pittsburgh, USA
+  sub: ML
+
 - title: ICCC
   long: International Conference on Computational Creativity
   hindex: 18
@@ -1369,6 +1344,31 @@
   date: June 19-13, 2023
   place: Ontario, Canada
   sub: ML
+
+- title: IROS
+  long: International Conference on Intelligent Robots and Systems
+  hindex: 80
+  year: 2023
+  id: iros23
+  link: https://ieee-iros.org/
+  deadline: '2023-03-01 23:59:59'
+  timezone: America/Los_Angeles
+  date: October 01-05, 2023
+  place: Detroit, USA
+  sub: RO
+
+- title: ITS
+  long: ITS World Congress
+  hindex: --
+  year: 2024
+  id: its24
+  link: https://itsworldcongress.com/
+  deadline: '2023-03-01 23:59:59'
+  timezone: UTC-12
+  date: September 16-20, 2024
+  place: Dubai, UAE
+  sub: IV
+  host: ITS
 
 - title: ICCV
   long: International Conference on Computer Vision
