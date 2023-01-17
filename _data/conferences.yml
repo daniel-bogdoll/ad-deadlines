@@ -914,17 +914,17 @@
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2020'
 
-- title: ITAVT (WS)
+- title: ITAVT
   long: International Workshop on Intelligent Transportation and Autonomous Vehicles
     Technologies
   hindex: --
-  year: 2022
-  id: itavt22
-  link: http://icnetlab.org/ITAVT2022/
-  deadline: '2022-01-23 23:59:59'
+  year: 2023
+  id: itavt23
+  link: https://icnetlab.org/ITAVT2023/index
+  deadline: '2023-01-31 23:59:59'
   timezone: UTC-12
-  date: April 25-29, 2022
-  place: Budapest, Hungary
+  date: May 08-12, 2023
+  place: Florida, USA
   sub: IV
   host: iCNeT
 
