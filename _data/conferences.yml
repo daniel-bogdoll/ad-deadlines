@@ -12,6 +12,19 @@
   place: Wuhan, China
   sub: RO
   host: IEEE
+  
+- title: SR4AD
+  long: Scene Representations For Autonomous Driving
+  hindex: -
+  year: 2023
+  id: sr4ad23
+  link: http://opendrivelab.com/sr4ad/iclr23
+  deadline: '2023-02-15 23:59:59'
+  timezone: UTC-12
+  date: May 5, 2023
+  place: Rwanda, Africa
+  sub: IV
+  host: ICLR
 
 - title: ICCP
   long: International Conference on Intelligent Computer Communication and Processing
