@@ -930,10 +930,10 @@
 - title: RLDM (Deadline estimated)
   long: Multidisciplinary Conference on Reinforcement Learning and Decision Making
   hindex: --
-  year: 2022
-  id: rldm22
+  year: 2025
+  id: rldm25
   link: https://www.rldm.org/
-  deadline: '2022-03-01 23:59:59'
+  deadline: '2024-12-01 23:59:59'
   timezone: UTC-12
   date: June 8-11, 2022
   place: Providence, RI, USA
@@ -942,134 +942,102 @@
 
 - title: CASE
   long: International Conference on Automation Science and Engineering
-  hindex: 28
-  year: 2021
-  id: case2021
-  link: http://case2022.org
-  deadline: '2022-03-01 23:59:59'
+  hindex: 24
+  year: 2023
+  id: case2023
+  link: https://case2023.org/
+  deadline: '2023-03-01 23:59:59'
   timezone: UTC-12
-  date: August 20-24, 2022
-  place: Mexico City, Mexico
+  date: August 26-29, 2023
+  place: Auckland, New Zealand
   sub: RO
   host: IEEE
 
 - title: ICINCO
   long: International Conference on Informatics in Control, Automation and Robotics
-  hindex: 14
-  year: 2022
-  id: icinco2022
-  link: http://www.icinco.org/?y=2022
-  deadline: '2022-03-02 23:59:59'
+  hindex: 15
+  year: 2023
+  id: icinco2023
+  link: https://icinco.scitevents.org/
+  deadline: '2023-06-02 23:59:59'
   timezone: UTC-12
-  date: July 14-16, 2022
-  place: Lisbon, Portugal
+  date: November 13-15, 2023
+  place: Rome, Italy
   sub: RO
   host: INSTICC
 
 - title: ICoIV
   long: International Conference on Intelligent Vehicles
   hindex: --
-  year: 2022
-  id: icoiv22
+  year: 2023
+  id: icoiv23
   link: https://www.icoiv.org
-  deadline: '2022-03-04 23:59:59'
+  deadline: '2023-02-07 23:59:59'
   timezone: UTC-12
-  date: June 17-19, 2022
-  place: Chengdu, China
+  date: May 26-28, 2023
+  place: Changsha, China
   sub: IV
-  host: HKSRA/MDPI
-  abstract_deadline: '2022-02-22 23:59:59'
-  note: '<b>NOTE</b>: Mandatory abstract deadline on February 22, 2022'
+  host: CHD/MDPI
 
-- title: ECCV
+- title: ECCV (Deadline estimated)
   long: European Conference on Computer Vision
   hindex: 197
-  year: 2022
-  id: eccv22
-  link: https://eccv2022.ecva.net
-  deadline: '2022-03-07 20:59:00'
+  year: 2024
+  id: eccv24
+  link: https://eccv2024.ecva.net
+  deadline: '2023-03-07 20:59:00'
   timezone: UTC+1
-  date: October 24-28, 2022
-  place: Tel-Aviv, Israel
+  date: September 29 - October 04, 2024
+  place: Milano, Italy
   sub: CV
 
 - title: ARSO
   long: International Conference on Advanced Robotics and its Social Impacts
   hindex: 11
-  year: 2022
-  id: arso22
-  link: https://attend.ieee.org/arso-2022/
-  deadline: '2022-03-10 23:59:59'
+  year: 2023
+  id: arso23
+  link: https://ieee-arso.org/
+  deadline: '2023-01-31 23:59:59'
   timezone: UTC-12
-  date: May 28-30, 2022
-  place: California, USA
+  date: June 05-07, 2023
+  place: Berlin, Germany
   sub: RO
   host: IEEE
-
-- title: CPSCom
-  long: International Conference on Cyber, Physical and Social Computing
-  hindex: --
-  year: 2022
-  id: cpscom22
-  link: http://ieee-cybermatics.org/2022/cpscom/
-  deadline: '2022-03-15 23:59:59'
-  timezone: UTC-12
-  date: August 22-25, 2022
-  place: Espoo, Finland
-  sub: IV
-  host: IEEE
-
-- title: WAD (WS)
-  long: CVPR Workshop on Autonomous Driving
-  hindex: 89
-  year: 2022
-  id: wad22
-  link: http://cvpr2022.wad.vision/
-  deadline: '2022-03-18 23:59:59'
-  timezone: UTC-12
-  date: June 20, 2022
-  place: New Orleans, USA
-  sub: IV
-  host: IEEE/CVF
 
 - title: ESEC/FSE
   long: Joint European Software Engineering Conference and Symposium on the Foundations
     of Software Engineering
   hindex: --
-  year: 2022
-  id: esec2022
-  link: https://2022.esec-fse.org/
-  deadline: '2022-03-18 23:59:59'
+  year: 2023
+  id: esec2023
+  link: https://2023.esec-fse.org/
+  deadline: '2023-01-26 23:59:59'
   timezone: UTC-12
-  date: November 14-18, 2022
-  place: Singapore
+  date: November 11-17, 2023
+  place: San Francisco, USA
   sub: AS
   host: ACM
-  abstract_deadline: '2022-03-11 23:59:59'
-  note: '<b>NOTE</b>: Mandatory paper registration deadline on March 11, 2022'
 
-- title: ECML-PKDD
+- title: ECML-PKDD (Deadline estimated)
   long: European Conference on Machine Learning and Principles and Practice of Knowledge
     Discovery in Databases
   hindex: 30
-  year: 2022
-  id: ecmlpkdd2022
-  link: https://2022.ecmlpkdd.org/
-  deadline: '2022-03-28 23:59:59'
-  abstract_deadline: '2022-03-21 23:59:59'
+  year: 2023
+  id: ecmlpkdd2023
+  link: https://2023.ecmlpkdd.org/
+  deadline: '2023-03-28 23:59:59'
   timezone: UTC-12
-  date: September 19-23, 2022
-  place: Grenoble, France (hybrid)
+  date: September 18-22, 2022
+  place: Torino, Italiy
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 21, 2022. More info <a href=''https://2022.ecmlpkdd.org/index.php/key-dates-deadlines/''>here</a>.'
 
-- title: MESA
+- title: MESA (Deadline estimated)
   long: International Conference on Mechatronic and Embedded Systems and Applications
   hindex: 12
-  year: 2022
-  id: mesa22
-  link: http://mesa2022.org/
-  deadline: '2022-03-31 23:59:59'
+  year: 2024
+  id: mesa24
+  link: http://mesa2024.org/
+  deadline: '2024-03-31 23:59:59'
   timezone: UTC-12
   date: August 29-31, 2022
   place: Taipei, Taiwan
@@ -1078,13 +1046,13 @@
 
 - title: ICRAS
   long: International Conference on Robotics and Automation Sciences
-  hindex: 11
-  year: 2022
-  id: icras22
+  hindex: 13
+  year: 2023
+  id: icras23
   link: http://www.icras.org/index.html
-  deadline: '2022-04-10 23:59:59'
+  deadline: '2023-01-20 23:59:59'
   timezone: UTC-12
-  date: June 9-12, 2022
+  date: June 16-18, 2022
   place: Wuhan, China
   sub: RO
   host: IEEE
