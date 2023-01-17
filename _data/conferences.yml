@@ -940,7 +940,7 @@
   sub: RO
   host: IEEE
 
-- title: ISS (Deadline estimated)
+- title: ISS
   long: Internationales Stuttgarter Symposium
   hindex: 10
   year: 2023
