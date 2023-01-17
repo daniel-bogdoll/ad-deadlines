@@ -914,19 +914,6 @@
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2020'
 
-- title: AVEC (Deadline estimated)
-  long: International Symposium on Advanced Vehicle Control
-  hindex: --
-  year: 2024
-  id: avec24
-  link: https://www.showsbee.com/fairs/AVEC-Symposium.html
-  deadline: '2024-01-17 23:59:59'
-  timezone: UTC-12
-  date: September 02-06, 2024
-  place: Milan, Italy
-  sub: IV
-  host: JSAE
-
 - title: ITAVT (WS)
   long: International Workshop on Intelligent Transportation and Autonomous Vehicles
     Technologies
@@ -1550,6 +1537,19 @@
   sub: ML
   host: IEEE
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 10, 2022.'
+
+- title: AVEC (Deadline estimated)
+  long: International Symposium on Advanced Vehicle Control
+  hindex: --
+  year: 2024
+  id: avec24
+  link: https://www.showsbee.com/fairs/AVEC-Symposium.html
+  deadline: '2024-01-17 23:59:59'
+  timezone: UTC-12
+  date: September 02-06, 2024
+  place: Milan, Italy
+  sub: IV
+  host: JSAE
 
 - title: SMC (Deadline estimated)
   long: International Conference on Systems, Man, and Cybernetics
