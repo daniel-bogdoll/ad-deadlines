@@ -1,31 +1,5 @@
 ---
 
-- title: ICRAS
-  long: International Conference on Robotics and Automation Sciences
-  hindex: 11
-  year: 2022
-  id: icras22
-  link: http://www.icras.org/index.html
-  deadline: '2022-04-10 23:59:59'
-  timezone: UTC-12
-  date: June 9-12, 2022
-  place: Wuhan, China
-  sub: RO
-  host: IEEE
-  
-- title: SR4AD
-  long: Scene Representations For Autonomous Driving
-  hindex: null
-  year: 2023
-  id: sr4ad23
-  link: http://opendrivelab.com/sr4ad/iclr23
-  deadline: '2023-02-15 23:59:59'
-  timezone: UTC-12
-  date: May 5, 2023
-  place: Rwanda, Africa
-  sub: IV
-  host: ICLR
-
 - title: ICCP
   long: International Conference on Intelligent Computer Communication and Processing
   hindex: null
@@ -913,6 +887,34 @@
   sub: RO
   host: IEEE
 
+- title: IJCAI
+  long: International Joint Conference on Artificial Intelligence
+  hindex: 105
+  year: 2022
+  id: ijcai22
+  link: https://ijcai-23.org/
+  deadline: '2023-01-11 23:59:59'
+  timezone: UTC-12
+  date: August 19-25, 2023
+  place: Cape Town, South Africa
+  sub: ML
+  host: IJCAI
+
+- title: ICARCV (Deadline estimated)
+  long: International Conference on Control, Automation, Robotics and Vision
+  hindex: 13
+  year: 2023
+  id: icarcv2023
+  link: https://www.icarcv.sg/
+  deadline: '2023-01-13 23:59:59'
+  timezone: UTC-12
+  date: --
+  place: --
+  sub: RO
+  host: IEEE
+  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
+    from 2020'
+
 - title: AVEC (Deadline estimated)
   long: International Symposium on Advanced Vehicle Control
   hindex: --
@@ -1283,33 +1285,18 @@
   sub: IV
   host: IEEE/ASME
 
-- title: IJCAI
-  long: International Joint Conference on Artificial Intelligence
-  hindex: 105
+- title: ICRAS
+  long: International Conference on Robotics and Automation Sciences
+  hindex: 11
   year: 2022
-  id: ijcai22
-  link: https://ijcai-23.org/
-  deadline: '2023-01-11 23:59:59'
+  id: icras22
+  link: http://www.icras.org/index.html
+  deadline: '2022-04-10 23:59:59'
   timezone: UTC-12
-  date: August 19-25, 2023
-  place: Cape Town, South Africa
-  sub: ML
-  host: IJCAI
-
-- title: ICARCV (Deadline estimated)
-  long: International Conference on Control, Automation, Robotics and Vision
-  hindex: 13
-  year: 2023
-  id: icarcv2023
-  link: https://www.icarcv.sg/
-  deadline: '2023-01-13 23:59:59'
-  timezone: UTC-12
-  date: --
-  place: --
+  date: June 9-12, 2022
+  place: Wuhan, China
   sub: RO
   host: IEEE
-  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
-    from 2020'
 
 - title: ISS (Deadline estimated)
   long: Internationales Stuttgarter Symposium
@@ -1402,6 +1389,19 @@
   place: Kuala Lumpur
   sub: CV
   host: IEEE
+
+- title: SR4AD
+  long: Scene Representations For Autonomous Driving
+  hindex: null
+  year: 2023
+  id: sr4ad23
+  link: http://opendrivelab.com/sr4ad/iclr23
+  deadline: '2023-02-15 23:59:59'
+  timezone: UTC-12
+  date: May 5, 2023
+  place: Rwanda, Africa
+  sub: IV
+  host: ICLR
 
 - title: ICCV
   long: International Conference on Computer Vision
