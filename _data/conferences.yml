@@ -914,55 +914,53 @@
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2020'
 
-- title: SIGGRAPH (Deadline estimated)
+- title: SIGGRAPH
   long: Special Interest Group on Computer Graphics and Interactive Techniques
   hindex: 19
   year: 2023
   id: siggraph23
   link: https://s2023.siggraph.org/
-  abstract_deadline: '2023-01-26 22:00:00'
-  deadline: '2022-01-27 22:00:00'
+  deadline: '2023-01-24 22:00:00'
   timezone: UTC
-  date: August 6-10, 2022
+  date: August 6-10, 2023
   place: Los Angeles, USA
   sub: CV
   host: ACM
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 26, 2022.'
 
 - title: RSS
   long: Robotics Science and Systems
-  hindex: 50
-  year: 2022
-  id: rss22
+  hindex: 58
+  year: 2023
+  id: rss23
   link: https://roboticsconference.org/
-  deadline: '2022-01-28 23:59:59'
+  deadline: '2023-02-03 23:59:59'
   timezone: UTC-12
-  date: June 27-01 July, 2022
-  place: New York City, United States
+  date: July 10-14, 2022
+  place: Daegu, Korea
   sub: RO
 
 - title: ICCC
   long: International Conference on Computational Creativity
-  hindex: 22
-  year: 2022
-  id: iccc22
-  link: http://computationalcreativity.net/iccc22/
-  deadline: '2022-02-04 23:59:59'
+  hindex: 18
+  year: 2023
+  id: iccc23
+  link: https://computationalcreativity.net/iccc23/
+  deadline: '2023-02-17 23:59:59'
   timezone: UTC
-  date: June 27-July 1, 2022
-  place: Bozen-Bolzano, Italy
+  date: June 19-13, 2023
+  place: Ontario, Canada
   sub: ML
 
 - title: COLT
   long: Conference on Learning Theory
-  hindex: 57
-  year: 2022
-  id: colt22
-  link: http://www.learningtheory.org/colt2022/
-  date: July 2-5, 2022
-  deadline: '2022-02-09 16:00:00'
+  hindex: 63
+  year: 2023
+  id: colt23
+  link: https://www.learningtheory.org/colt2023/
+  date: July 12-15, 2023
+  deadline: '2023-02-10 16:00:00'
   timezone: UTC-8
-  place: London, UK
+  place: Bangalore, India
   sub: ML
 
 - title: KDD
