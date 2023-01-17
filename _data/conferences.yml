@@ -914,55 +914,6 @@
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2020'
 
-- title: SIGGRAPH
-  long: Special Interest Group on Computer Graphics and Interactive Techniques
-  hindex: 19
-  year: 2023
-  id: siggraph23
-  link: https://s2023.siggraph.org/
-  deadline: '2023-01-24 22:00:00'
-  timezone: UTC
-  date: August 6-10, 2023
-  place: Los Angeles, USA
-  sub: CV
-  host: ACM
-
-- title: RSS
-  long: Robotics Science and Systems
-  hindex: 58
-  year: 2023
-  id: rss23
-  link: https://roboticsconference.org/
-  deadline: '2023-02-03 23:59:59'
-  timezone: UTC-12
-  date: July 10-14, 2022
-  place: Daegu, Korea
-  sub: RO
-
-- title: ICCC
-  long: International Conference on Computational Creativity
-  hindex: 18
-  year: 2023
-  id: iccc23
-  link: https://computationalcreativity.net/iccc23/
-  deadline: '2023-02-17 23:59:59'
-  timezone: UTC
-  date: June 19-13, 2023
-  place: Ontario, Canada
-  sub: ML
-
-- title: COLT
-  long: Conference on Learning Theory
-  hindex: 63
-  year: 2023
-  id: colt23
-  link: https://www.learningtheory.org/colt2023/
-  date: July 12-15, 2023
-  deadline: '2023-02-10 16:00:00'
-  timezone: UTC-8
-  place: Bangalore, India
-  sub: ML
-
 - title: KDD
   long: Knowledge Discovery and Data Mining
   hindex: 38
@@ -1281,6 +1232,19 @@
   sub: IV
   host: FKFS
 
+- title: SIGGRAPH
+  long: Special Interest Group on Computer Graphics and Interactive Techniques
+  hindex: 19
+  year: 2023
+  id: siggraph23
+  link: https://s2023.siggraph.org/
+  deadline: '2023-01-24 22:00:00'
+  timezone: UTC
+  date: August 6-10, 2023
+  place: Los Angeles, USA
+  sub: CV
+  host: ACM
+
 - title: SIGIR
   long: Conference on Research and Development in Information Retrieval
   hindex: 66
@@ -1361,6 +1325,30 @@
   sub: IV
   host: IEEE
 
+- title: RSS
+  long: Robotics Science and Systems
+  hindex: 58
+  year: 2023
+  id: rss23
+  link: https://roboticsconference.org/
+  deadline: '2023-02-03 23:59:59'
+  timezone: UTC-12
+  date: July 10-14, 2022
+  place: Daegu, Korea
+  sub: RO
+
+- title: COLT
+  long: Conference on Learning Theory
+  hindex: 63
+  year: 2023
+  id: colt23
+  link: https://www.learningtheory.org/colt2023/
+  date: July 12-15, 2023
+  deadline: '2023-02-10 16:00:00'
+  timezone: UTC-8
+  place: Bangalore, India
+  sub: ML
+
 - title: ICIP
   long: International Conference in Image Processing
   hindex: 60
@@ -1386,6 +1374,18 @@
   place: Rwanda, Africa
   sub: IV
   host: ICLR
+
+- title: ICCC
+  long: International Conference on Computational Creativity
+  hindex: 18
+  year: 2023
+  id: iccc23
+  link: https://computationalcreativity.net/iccc23/
+  deadline: '2023-02-17 23:59:59'
+  timezone: UTC
+  date: June 19-13, 2023
+  place: Ontario, Canada
+  sub: ML
 
 - title: ICCV
   long: International Conference on Computer Vision
