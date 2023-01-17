@@ -2,7 +2,7 @@
 
 - title: ICCP
   long: International Conference on Intelligent Computer Communication and Processing
-  hindex: null
+  hindex: --
   year: 2022
   id: iccp22
   link: https://www.iccp.ro/iccp2022/
@@ -551,7 +551,6 @@
   place: London, United Kingdom
   sub: RO
   host: IEEE
-  note: '<b>NOTE</b>: old website linked from 2022'
 
 - title: UV
   long: International Conference on Universal Village
@@ -1392,7 +1391,7 @@
 
 - title: SR4AD
   long: Scene Representations For Autonomous Driving
-  hindex: null
+  hindex: --
   year: 2023
   id: sr4ad23
   link: http://opendrivelab.com/sr4ad/iclr23
