@@ -927,123 +927,6 @@
   sub: RO
   host: IEEE
 
-- title: RLDM (Deadline estimated)
-  long: Multidisciplinary Conference on Reinforcement Learning and Decision Making
-  hindex: --
-  year: 2025
-  id: rldm25
-  link: https://www.rldm.org/
-  deadline: '2024-12-01 23:59:59'
-  timezone: UTC-12
-  date: June 8-11, 2022
-  place: Providence, RI, USA
-  sub: ML
-  host: ??
-
-- title: CASE
-  long: International Conference on Automation Science and Engineering
-  hindex: 24
-  year: 2023
-  id: case2023
-  link: https://case2023.org/
-  deadline: '2023-03-01 23:59:59'
-  timezone: UTC-12
-  date: August 26-29, 2023
-  place: Auckland, New Zealand
-  sub: RO
-  host: IEEE
-
-- title: ICINCO
-  long: International Conference on Informatics in Control, Automation and Robotics
-  hindex: 15
-  year: 2023
-  id: icinco2023
-  link: https://icinco.scitevents.org/
-  deadline: '2023-06-02 23:59:59'
-  timezone: UTC-12
-  date: November 13-15, 2023
-  place: Rome, Italy
-  sub: RO
-  host: INSTICC
-
-- title: ICoIV
-  long: International Conference on Intelligent Vehicles
-  hindex: --
-  year: 2023
-  id: icoiv23
-  link: https://www.icoiv.org
-  deadline: '2023-02-07 23:59:59'
-  timezone: UTC-12
-  date: May 26-28, 2023
-  place: Changsha, China
-  sub: IV
-  host: CHD/MDPI
-
-- title: ECCV (Deadline estimated)
-  long: European Conference on Computer Vision
-  hindex: 197
-  year: 2024
-  id: eccv24
-  link: https://eccv2024.ecva.net
-  deadline: '2023-03-07 20:59:00'
-  timezone: UTC+1
-  date: September 29 - October 04, 2024
-  place: Milano, Italy
-  sub: CV
-
-- title: ARSO
-  long: International Conference on Advanced Robotics and its Social Impacts
-  hindex: 11
-  year: 2023
-  id: arso23
-  link: https://ieee-arso.org/
-  deadline: '2023-01-31 23:59:59'
-  timezone: UTC-12
-  date: June 05-07, 2023
-  place: Berlin, Germany
-  sub: RO
-  host: IEEE
-
-- title: ESEC/FSE
-  long: Joint European Software Engineering Conference and Symposium on the Foundations
-    of Software Engineering
-  hindex: --
-  year: 2023
-  id: esec2023
-  link: https://2023.esec-fse.org/
-  deadline: '2023-01-26 23:59:59'
-  timezone: UTC-12
-  date: November 11-17, 2023
-  place: San Francisco, USA
-  sub: AS
-  host: ACM
-
-- title: ECML-PKDD (Deadline estimated)
-  long: European Conference on Machine Learning and Principles and Practice of Knowledge
-    Discovery in Databases
-  hindex: 30
-  year: 2023
-  id: ecmlpkdd2023
-  link: https://2023.ecmlpkdd.org/
-  deadline: '2023-03-28 23:59:59'
-  timezone: UTC-12
-  date: September 18-22, 2022
-  place: Torino, Italiy
-  sub: ML
-
-- title: MESA (Deadline estimated)
-  long: International Conference on Mechatronic and Embedded Systems and Applications
-  hindex: 12
-  year: 2024
-  id: mesa24
-  link: http://mesa2024.org/
-  deadline: '2024-03-31 23:59:59'
-  timezone: UTC-12
-  date: August 29-31, 2022
-  place: Taipei, Taiwan
-  sub: IV
-  host: IEEE/ASME
-
 - title: ICRAS
   long: International Conference on Robotics and Automation Sciences
   hindex: 13
@@ -1109,6 +992,33 @@
   place: Hawaii, USA
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2022.'
+
+- title: ESEC/FSE
+  long: Joint European Software Engineering Conference and Symposium on the Foundations
+    of Software Engineering
+  hindex: --
+  year: 2023
+  id: esec2023
+  link: https://2023.esec-fse.org/
+  deadline: '2023-01-26 23:59:59'
+  timezone: UTC-12
+  date: November 11-17, 2023
+  place: San Francisco, USA
+  sub: AS
+  host: ACM
+
+- title: ARSO
+  long: International Conference on Advanced Robotics and its Social Impacts
+  hindex: 11
+  year: 2023
+  id: arso23
+  link: https://ieee-arso.org/
+  deadline: '2023-01-31 23:59:59'
+  timezone: UTC-12
+  date: June 05-07, 2023
+  place: Berlin, Germany
+  sub: RO
+  host: IEEE
 
 - title: MED
   long: Mediterranean Conference on Control and Automation
@@ -1225,6 +1135,19 @@
   place: Toulouse, France
   sub: ML
 
+- title: ICoIV
+  long: International Conference on Intelligent Vehicles
+  hindex: --
+  year: 2023
+  id: icoiv23
+  link: https://www.icoiv.org
+  deadline: '2023-02-07 23:59:59'
+  timezone: UTC-12
+  date: May 26-28, 2023
+  place: Changsha, China
+  sub: IV
+  host: CHD/MDPI
+
 - title: COLT
   long: Conference on Learning Theory
   hindex: 63
@@ -1325,6 +1248,19 @@
   place: Detroit, USA
   sub: RO
 
+- title: CASE
+  long: International Conference on Automation Science and Engineering
+  hindex: 24
+  year: 2023
+  id: case2023
+  link: https://case2023.org/
+  deadline: '2023-03-01 23:59:59'
+  timezone: UTC-12
+  date: August 26-29, 2023
+  place: Auckland, New Zealand
+  sub: RO
+  host: IEEE
+
 - title: ITS
   long: ITS World Congress
   hindex: --
@@ -1337,6 +1273,18 @@
   place: Dubai, UAE
   sub: IV
   host: ITS
+
+- title: ECCV (Deadline estimated)
+  long: European Conference on Computer Vision
+  hindex: 197
+  year: 2024
+  id: eccv24
+  link: https://eccv2024.ecva.net
+  deadline: '2023-03-07 20:59:00'
+  timezone: UTC+1
+  date: September 29 - October 04, 2024
+  place: Milano, Italy
+  sub: CV
 
 - title: ICCV
   long: International Conference on Computer Vision
@@ -1375,6 +1323,19 @@
   place: Santa Clara, USA
   sub: ML
   host: IEEE
+
+- title: ECML-PKDD (Deadline estimated)
+  long: European Conference on Machine Learning and Principles and Practice of Knowledge
+    Discovery in Databases
+  hindex: 30
+  year: 2023
+  id: ecmlpkdd2023
+  link: https://2023.ecmlpkdd.org/
+  deadline: '2023-03-28 23:59:59'
+  timezone: UTC-12
+  date: September 18-22, 2022
+  place: Torino, Italiy
+  sub: ML
 
 - title: SMC
   long: International Conference on Systems, Man, and Cybernetics
@@ -1446,6 +1407,19 @@
   host: IEEE
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2021'
+
+- title: ICINCO
+  long: International Conference on Informatics in Control, Automation and Robotics
+  hindex: 15
+  year: 2023
+  id: icinco2023
+  link: https://icinco.scitevents.org/
+  deadline: '2023-06-02 23:59:59'
+  timezone: UTC-12
+  date: November 13-15, 2023
+  place: Rome, Italy
+  sub: RO
+  host: INSTICC
 
 - title: UVS-OMAN
   long: International Conference on Unmanned Vehicle Systems
@@ -1525,3 +1499,29 @@
   place: Kuching, Malaysia
   sub: IV
   host: IEEE
+
+- title: MESA (Deadline estimated)
+  long: International Conference on Mechatronic and Embedded Systems and Applications
+  hindex: 12
+  year: 2024
+  id: mesa24
+  link: http://mesa2024.org/
+  deadline: '2024-03-31 23:59:59'
+  timezone: UTC-12
+  date: August 29-31, 2022
+  place: Taipei, Taiwan
+  sub: IV
+  host: IEEE/ASME
+
+- title: RLDM (Deadline estimated)
+  long: Multidisciplinary Conference on Reinforcement Learning and Decision Making
+  hindex: --
+  year: 2025
+  id: rldm25
+  link: https://www.rldm.org/
+  deadline: '2024-12-01 23:59:59'
+  timezone: UTC-12
+  date: June 8-11, 2022
+  place: Providence, RI, USA
+  sub: ML
+  host: ??
