@@ -1,18 +1,5 @@
 ---
 
-- title: IVTS (WS)
-  long: Intelligent Vehicles and Transportation Systems
-  hindex: --
-  year: 2023
-  id: ivts22
-  link: https://mvpr.tech/ijcnn-ivts.html
-  deadline: '2023-01-31 23:59:59'
-  timezone: UTC-12
-  date: June 18-23, 2023
-  place: Queensland, Australia
-  sub: IV
-  host: IJCNN 
-
 - title: ICCP
   long: International Conference on Intelligent Computer Communication and Processing
   hindex: --
@@ -1019,6 +1006,19 @@
   place: San Francisco, USA
   sub: AS
   host: ACM
+
+- title: IVTS (WS)
+  long: Intelligent Vehicles and Transportation Systems
+  hindex: --
+  year: 2023
+  id: ivts22
+  link: https://mvpr.tech/ijcnn-ivts.html
+  deadline: '2023-01-31 23:59:59'
+  timezone: UTC-12
+  date: June 18-23, 2023
+  place: Queensland, Australia
+  sub: IV
+  host: IJCNN
 
 - title: ARSO
   long: International Conference on Advanced Robotics and its Social Impacts
