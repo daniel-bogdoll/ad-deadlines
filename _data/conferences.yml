@@ -1073,19 +1073,6 @@
   sub: IV
   host: Springer
 
-- title: UR
-  long: International Conference on Ubiquitous Robots
-  hindex: 18
-  year: 2023
-  id: ur23
-  link: https://2023.ubiquitousrobots.org/
-  deadline: '2023-02-01 23:59:59'
-  timezone: America/Los_Angeles
-  date: June 25-28, 2023
-  place: Hawaii, USA
-  host: IEEE
-  sub: RO
-
 - title: IV
   long: Intelligent Vehicles Symposium
   hindex: 52
@@ -1248,6 +1235,19 @@
   date: June 19-13, 2023
   place: Ontario, Canada
   sub: ML
+
+- title: UR
+  long: International Conference on Ubiquitous Robots
+  hindex: 18
+  year: 2023
+  id: ur23
+  link: https://2023.ubiquitousrobots.org/
+  deadline: '2023-02-18 23:59:59'
+  timezone: America/Los_Angeles
+  date: June 25-28, 2023
+  place: Hawaii, USA
+  host: IEEE
+  sub: RO
 
 - title: IROS
   long: International Conference on Intelligent Robots and Systems
