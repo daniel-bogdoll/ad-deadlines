@@ -13,19 +13,6 @@
   sub: V2X
   host: IEEE
 
-- title: ICSNC
-  long: International Conference on Systems and Networks Communications
-  hindex: --
-  year: 2023
-  id: icsnc23
-  link: https://www.iaria.org/conferences2023/ICSNC23.html
-  deadline: '2023-08-10 23:59:59'
-  timezone: UTC-12
-  date: November 13-17, 2023
-  place: Valencia, Spain
-  sub: V2X
-  host: IARIA
-
 - title: CoRL
   long: Conference on Robot Learning
   hindex: --
@@ -1455,6 +1442,19 @@
   place: Cairo, Egypt
   sub: ML
   host: Alexandria University
+
+- title: ICSNC
+  long: International Conference on Systems and Networks Communications
+  hindex: --
+  year: 2023
+  id: icsnc23
+  link: https://www.iaria.org/conferences2023/ICSNC23.html
+  deadline: '2023-08-10 23:59:59'
+  timezone: UTC-12
+  date: November 13-17, 2023
+  place: Valencia, Spain
+  sub: V2X
+  host: IARIA
 
 - title: UVS-OMAN
   long: International Conference on Unmanned Vehicle Systems
