@@ -1469,19 +1469,6 @@
   sub: V2X
   host: IEEE
 
-- title: WCCI
-  long: World Congress on Computational Intelligence
-  hindex: 57
-  year: 2024
-  id: wcci24
-  link: https://wcci2024.org/
-  deadline: '2024-01-15 23:59:00'
-  timezone: UTC+1
-  date: June 30 - July 05, 2024
-  place: Yokohama, Japan
-  sub: ML
-  host: IEEE
-
 - title: ICPR (Deadline estimated)
   long: International Conference on Pattern Recognition
   hindex: 43
@@ -1492,6 +1479,19 @@
   timezone: UTC+1
   date: August 21-25, 2022
   place: Kolkata, India
+  sub: ML
+  host: IEEE
+
+- title: WCCI
+  long: World Congress on Computational Intelligence
+  hindex: 57
+  year: 2024
+  id: wcci24
+  link: https://wcci2024.org/
+  deadline: '2024-01-15 23:59:00'
+  timezone: UTC+1
+  date: June 30 - July 05, 2024
+  place: Yokohama, Japan
   sub: ML
   host: IEEE
 
