@@ -231,32 +231,6 @@
   place: Tel-Aviv, Israel
   sub: ML
   host: ECCV
-  
-- title: SSAD (WS)
-  long: Secure and Safe Autonomous Driving Workshop and Challenge
-  hindex: 106
-  year: 2023
-  id: ssad2023
-  link: https://ai-secure.github.io/SSAD2023/cfp
-  deadline: '2023-04-16 20:59:00'
-  timezone: UTC+1
-  date: June 18-22, 2023
-  place: Vancouver, Canada
-  sub: ML
-  host: CVPR
-  
-- title: VCAD (WS)
-  long: Vision-Centric Autonomous Driving
-  hindex: 106
-  year: 2023
-  id: vcad2023
-  link: http://vcad.site/#/
-  deadline: '2023-04-30 20:59:00'
-  timezone: UTC+1
-  date: June 18-22, 2023
-  place: Vancouver, Canada
-  sub: ML
-  host: CVPR
 
 - title: AAAI
   long: International Conference on Artificial Intelligence
@@ -1390,6 +1364,32 @@
   host: IEEE
   note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
     from 2021'
+
+- title: SSAD (WS)
+  long: Secure and Safe Autonomous Driving Workshop and Challenge
+  hindex: 106
+  year: 2023
+  id: ssad2023
+  link: https://ai-secure.github.io/SSAD2023/cfp
+  deadline: '2023-04-16 20:59:00'
+  timezone: UTC+1
+  date: June 18-22, 2023
+  place: Vancouver, Canada
+  sub: ML
+  host: CVPR
+
+- title: VCAD (WS)
+  long: Vision-Centric Autonomous Driving
+  hindex: 106
+  year: 2023
+  id: vcad2023
+  link: http://vcad.site/#/
+  deadline: '2023-04-30 20:59:00'
+  timezone: UTC+1
+  date: June 18-22, 2023
+  place: Vancouver, Canada
+  sub: ML
+  host: CVPR
 
 - title: FG (Deadline estimated)
   long: International Conference on Automatic Face and Gesture Recognition
