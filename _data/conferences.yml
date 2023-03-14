@@ -137,15 +137,29 @@
   long: International Conference on Electrical, Computer, Communications and Mechatronics
     Engineering
   hindex: --
-  year: 2022
-  id: iceccme22
-  link: http://www.iceccme.com/home
-  deadline: '2022-06-10 23:59:00'
+  year: 2023
+  id: iceccme23
+  link: http://iceccme.com/
+  deadline: '2023-03-25 23:59:00'
   timezone: UTC+1
-  date: November 16-18, 2022
-  place: Maldives
+  date: July 19-20, 2023
+  place: Tenerife, Spain
   sub: ML
   host: IEEE
+
+- title: ICECET
+  long: International Conference on Electrical, Computer and Energy Technologies
+  hindex: --
+  year: 2023
+  id: icecet23
+  link: http://icecet.com/
+  deadline: '2023-08-04 23:59:00'
+  timezone: UTC+1
+  date: November 16-17, 2023
+  place: Cairo, Egypt
+  sub: ML
+  host: Alexandria University
+
 
 - title: ICDM
   long: International Conference on Data Mining
@@ -394,13 +408,13 @@
 - title: SII
   long: International Symposium on System Integration
   hindex: 13
-  year: 2023
-  id: sii23
-  link: https://www.sice-si.org/conf/SII2023/
-  deadline: '2022-08-01 23:59:59'
+  year: 2024
+  id: sii24
+  link: https://www.sice-si.org/SII2024/
+  deadline: '2023-08-01 23:59:59'
   timezone: UTC-12
-  date: January 17-20, 2023
-  place: Atlanta, USA
+  date: January 08-11, 2024
+  place: Ha Long, Vietnam
   sub: AS
   host: IEEE/SICE
 
