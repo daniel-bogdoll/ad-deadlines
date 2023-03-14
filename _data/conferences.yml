@@ -1128,12 +1128,12 @@
 - title: ICITE
   long: International Conference on Intelligent Transportation Engineering
   hindex: 8
-  year: 2022
-  id: icite2022
+  year: 2023
+  id: icite2023
   link: http://www.icite.org/
-  deadline: '2022-06-10 23:59:59'
+  deadline: '2023-06-10 23:59:59'
   timezone: UTC-12
-  date: October 28-30, 2022
+  date: October 28-30, 2023
   place: Beijing, China
   sub: IV
   host: IEEE
