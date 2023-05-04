@@ -152,13 +152,13 @@
 - title: SSCI
   long: Symposium Series On Computational Intelligence
   hindex: 31
-  year: 2022
-  id: ssci22
-  link: https://www.ieeessci2022.org/index.html
-  deadline: '2022-07-15 23:59:59'
+  year: 2023
+  id: ssci23
+  link: https://attend.ieee.org/ssci-2023/
+  deadline: '2023-06-30 23:59:59'
   timezone: UTC-12
-  date: December 04-07, 2022
-  place: Singapore
+  date: December 05-08, 2023
+  place: Mexiko City, Mexiko
   sub: ML
   host: IEEE
 
