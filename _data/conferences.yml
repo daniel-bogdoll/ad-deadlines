@@ -1067,68 +1067,6 @@
   host: IEEE
   note: '<b>NOTE</b>: Call for Proposals running: http://iab-rubric.org/fg2021/FG2024.html'
 
-- title: CoRL
-  long: Conference on Robot Learning
-  hindex: 64
-  year: 2023
-  id: corl23
-  link: https://www.corl2023.org/
-  deadline: '2023-06-08 23:59:00'
-  timezone: UTC-7
-  date: November 06-09, 2023
-  place: Atlanta, USA
-  sub: RO
-
-- title: HICSS
-  long: Hawaii International Conference on System Sciences
-  hindex: 45
-  year: 2023
-  id: hicss24
-  link: https://hicss.hawaii.edu/
-  deadline: '2023-06-15 23:59:59'
-  timezone: UTC-12
-  date: January 03-06,2024
-  place: Hawaii, USA
-  sub: DM
-  host: Shidler College of Business
-
-- title: BMVC
-  long: British Machine Vision Conference
-  hindex: 66
-  year: 2023
-  id: bmvc23
-  link: https://britishmachinevisionassociation.github.io/bmvc
-  deadline: '2023-05-12 23:59:59'
-  timezone: UTC
-  date: November 20-24, 2023
-  place: Aberdeen, UK
-  sub: CV
-
-- title: ACML
-  long: Asian Conference on Machine Learning
-  hindex: 17
-  year: 2023
-  id: acml23
-  link: https://www.acml-conf.org/2023/cfp.html
-  deadline: '2023-06-23 23:59:00'
-  timezone: UTC-7
-  date: November 11-14, 2023
-  place: Istanbul, Turkey
-  sub: ML
-
-- title: ICVS
-  long: International Conference on Computer Vision Systems
-  hindex: 12
-  year: 2023
-  id: icvs23
-  link: https://icvs2023.conf.tuwien.ac.at/contributions/
-  deadline: '2023-05-29 23:59:59'
-  timezone: UTC-12
-  date: September 27-29, 2023
-  place: Vienna, Austria, China
-  sub: IV
-  host: SAE
-
 - title: ICCPS
   long: International Conference on Cyber-Physical Systems
   hindex: 26
@@ -1141,19 +1079,6 @@
   place: Tokyo, Japan
   sub: IV
   host: ACM/IEEE
-
-- title: SIGMOD/PODS (Deadline estimated)
-  long: International Conference on Management of Data
-  hindex: 66
-  year: 2025
-  id: sigmod25
-  link: https://2024.sigmod.org/
-  deadline: '2024-01-01 23:59:59'
-  timezone: UTC-12
-  date: --
-  place: --
-  sub: ML
-  host: ACM
 
 - title: ICMLA
   long: International Conference On Machine Learning And Applications
@@ -1239,6 +1164,18 @@
   sub: ML
   host: NeurIPS
 
+- title: BMVC
+  long: British Machine Vision Conference
+  hindex: 66
+  year: 2023
+  id: bmvc23
+  link: https://britishmachinevisionassociation.github.io/bmvc
+  deadline: '2023-05-12 23:59:59'
+  timezone: UTC
+  date: November 20-24, 2023
+  place: Aberdeen, UK
+  sub: CV
+
 - title: ITSC
   long: International Conference on Intelligent Transportation Systems / Intelligent
     Transportation Systems Conference
@@ -1280,6 +1217,19 @@
   place: Birmingham, UK
   host: ACM
   sub: DM
+
+- title: ICVS
+  long: International Conference on Computer Vision Systems
+  hindex: 12
+  year: 2023
+  id: icvs23
+  link: https://icvs2023.conf.tuwien.ac.at/contributions/
+  deadline: '2023-05-29 23:59:59'
+  timezone: UTC-12
+  date: September 27-29, 2023
+  place: Vienna, Austria, China
+  sub: IV
+  host: SAE
 
 - title: ICCP (Deadline estimated)
   long: International Conference on Intelligent Computer Communication and Processing
@@ -1345,6 +1295,18 @@
   sub: V2X
   host: IEEE
 
+- title: CoRL
+  long: Conference on Robot Learning
+  hindex: 64
+  year: 2023
+  id: corl23
+  link: https://www.corl2023.org/
+  deadline: '2023-06-08 23:59:00'
+  timezone: UTC-7
+  date: November 06-09, 2023
+  place: Atlanta, USA
+  sub: RO
+
 - title: ICITE
   long: International Conference on Intelligent Transportation Engineering
   hindex: 8
@@ -1357,6 +1319,31 @@
   place: Beijing, China
   sub: IV
   host: IEEE
+
+- title: HICSS
+  long: Hawaii International Conference on System Sciences
+  hindex: 45
+  year: 2023
+  id: hicss24
+  link: https://hicss.hawaii.edu/
+  deadline: '2023-06-15 23:59:59'
+  timezone: UTC-12
+  date: January 03-06,2024
+  place: Hawaii, USA
+  sub: DM
+  host: Shidler College of Business
+
+- title: ACML
+  long: Asian Conference on Machine Learning
+  hindex: 17
+  year: 2023
+  id: acml23
+  link: https://www.acml-conf.org/2023/cfp.html
+  deadline: '2023-06-23 23:59:00'
+  timezone: UTC-7
+  date: November 11-14, 2023
+  place: Istanbul, Turkey
+  sub: ML
 
 - title: SSCI
   long: Symposium Series On Computational Intelligence
@@ -1448,6 +1435,19 @@
   place: Florida, USA
   sub: V2X
   host: IEEE
+
+- title: SIGMOD/PODS (Deadline estimated)
+  long: International Conference on Management of Data
+  hindex: 66
+  year: 2025
+  id: sigmod25
+  link: https://2024.sigmod.org/
+  deadline: '2024-01-01 23:59:59'
+  timezone: UTC-12
+  date: --
+  place: --
+  sub: ML
+  host: ACM
 
 - title: ICPR (Deadline estimated)
   long: International Conference on Pattern Recognition
