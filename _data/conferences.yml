@@ -1067,16 +1067,29 @@
   host: IEEE
   note: '<b>NOTE</b>: Call for Proposals running: http://iab-rubric.org/fg2021/FG2024.html'
 
+- title: ISC2
+  long: International Smart Cities Conference
+  hindex: 22
+  year: 2023
+  id: isc223
+  link: https://attend.ieee.org/isc-2023/
+  deadline: '2023-06-05 23:59:59'
+  timezone: UTC-12
+  date: September 24-27, 2023
+  place: Bucharest, Romania
+  sub: V2X
+  host: IEEE
+
 - title: CoRL
   long: Conference on Robot Learning
-  hindex: --
-  year: 2022
-  id: corl22
-  link: http://corl2022.org
-  deadline: '2022-06-15 23:59:00'
+  hindex: 64
+  year: 2023
+  id: corl23
+  link: https://www.corl2023.org/
+  deadline: '2022-06-08 23:59:00'
   timezone: UTC-7
-  date: December  14-18, 2022
-  place: Auckland, New Zealand
+  date: November 06-09, 2023
+  place: Atlanta, USA
   sub: RO
 
 - title: HICSS (Deadline estimated)
@@ -1351,19 +1364,6 @@
   place: Rome, Italy
   sub: RO
   host: INSTICC
-
-- title: ISC2
-  long: International Smart Cities Conference
-  hindex: 22
-  year: 2023
-  id: isc223
-  link: https://attend.ieee.org/isc-2023/
-  deadline: '2023-06-05 23:59:59'
-  timezone: UTC-12
-  date: September 24-27, 2023
-  place: Bucharest, Romania
-  sub: V2X
-  host: IEEE
 
 - title: ICITE
   long: International Conference on Intelligent Transportation Engineering
