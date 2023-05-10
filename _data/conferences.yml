@@ -1080,19 +1080,6 @@
   sub: IV
   host: ACM/IEEE
 
-- title: ICMLA
-  long: International Conference On Machine Learning And Applications
-  hindex: 39
-  year: 2023
-  id: icmla2023
-  link: https://www.icmla-conference.org/icmla23/
-  deadline: '2023-07-15 23:59:59'
-  timezone: UTC-12
-  date: December 15-17, 2023
-  place: Florida, USA
-  sub: ML
-  host: IEEE
-
 - title: VNC (Deadline estimated)
   long: Vehicular Networking Conference
   hindex: 28
@@ -1369,6 +1356,19 @@
   date: December 01-04, 2023
   place: Shanghai, China
   sub: DM
+  host: IEEE
+
+- title: ICMLA
+  long: International Conference On Machine Learning And Applications
+  hindex: 39
+  year: 2023
+  id: icmla2023
+  link: https://www.icmla-conference.org/icmla23/
+  deadline: '2023-07-15 23:59:59'
+  timezone: UTC-12
+  date: December 15-17, 2023
+  place: Florida, USA
+  sub: ML
   host: IEEE
 
 - title: SII
