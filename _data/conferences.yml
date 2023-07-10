@@ -29,16 +29,14 @@
 - title: AISTATS (Deadline estimated)
   long: International Conference on Artificial Intelligence and Statistics
   hindex: 68
-  year: 2023
-  id: aistats23
-  link: https://www.aistats.org/aistats2022/
-  deadline: '2022-10-15 11:59:00'
+  year: 2024
+  id: aistats24
+  link: https://www.aistats.org/aistats2024/
+  deadline: '2023-10-15 11:59:00'
   timezone: UTC
   date: --
   place: --
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline. New website does not exist yet
-    therefore old website linked from 2022'
 
 - title: MT-ITS
   long: International IEEE Conference on Models and Technologies for Intelligent Transportation
@@ -57,43 +55,39 @@
 - title: AVS (Deadline estimated)
   long: International Symposium on Autonomous Vehicle Software
   hindex: --
-  year: 2022
-  id: avs22
+  year: 2024
+  id: avs24
   link: http://ieeeavs.com
-  deadline: '2022-10-20 23:59:59'
+  deadline: '2024-06-20 23:59:59'
   timezone: UTC-12
   date: --
   place: --
   sub: AS
   host: IEEE
-  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
-    from 2021'
 
-- title: WWW (Deadline estimated)
+- title: WWW
   long: International World Wide Web Conference
   hindex: 70
-  year: 2023
-  id: www23
-  link: https://www2022.thewebconf.org/
-  deadline: '2022-10-21 23:59:59'
-  abstract_deadline: '2022-10-14 23:59:59'
+  year: 2024
+  id: www24
+  link: https://www2024.thewebconf.org/
+  deadline: '2023-10-05 23:59:59'
   timezone: UTC-12
-  date: May 01-05, 2023
-  place: Texas, United States
+  date: May 13-17, 2023
+  place: Singapur
   sub: DM
-  note: '<b>NOTE</b>: Mandatory abstract deadline. New website does not exist yet
-    therefore old website linked from 2022'
+
 
 - title: ICCPS (Deadline estimated)
   long: International Conference on Cyber-Physical Systems
   hindex: 26
-  year: 2023
-  id: iccps23
+  year: 2024
+  id: iccps24
   link: http://iccps.acm.org/2023/
-  deadline: '2022-10-24 23:59:59'
+  deadline: '2023-10-24 23:59:59'
   timezone: UTC-12
-  date: April 22-23, 2023
-  place: Tokyo, Japan
+  date: --
+  place: --
   sub: IV
   host: ACM/IEEE
 
@@ -179,13 +173,13 @@
 - title: ICPS (Deadline estimated)
   long: International Conference on Industrial Cyber-Physical Systems
   hindex: 11
-  year: 2023
-  id: icps23
+  year: 2024
+  id: icps24
   link: http://icps2023.cug.edu.cn/
-  deadline: '2022-12-01 23:59:59'
+  deadline: '2023-12-01 23:59:59'
   timezone: UTC-12
-  date: May 8-11, 2023
-  place: Wuhan, China
+  date: --
+  place: --
   sub: IV
   host: IEEE
 
@@ -710,13 +704,13 @@
   long: European Conference on Machine Learning and Principles and Practice of Knowledge
     Discovery in Databases
   hindex: 30
-  year: 2023
-  id: ecmlpkdd2023
-  link: https://2023.ecmlpkdd.org/
-  deadline: '2023-03-28 23:59:59'
+  year: 2024
+  id: ecmlpkdd2024
+  link: https://2024.ecmlpkdd.org/
+  deadline: '2024-03-28 23:59:59'
   timezone: UTC-12
-  date: September 18-22, 2022
-  place: Torino, Italiy
+  date: September 09-13, 2024
+  place: Vilnius, Lithuania
   sub: ML
 
 - title: SMC
@@ -799,19 +793,18 @@
   host: ACM
   sub: RO
 
-- title: FG (Deadline estimated)
+- title: FG
   long: International Conference on Automatic Face and Gesture Recognition
   hindex: --
   year: 2024
   id: fg2024
   link: http://iab-rubric.org/fg2024/
-  deadline: '2023-05-01 23:59:59'
+  deadline: '2023-09-18 23:59:59'
   timezone: UTC-7
-  date: --
-  place: --
+  date: May 28-30, 2024
+  place: Istanbul, Turkey
   sub: CV
   host: IEEE
-  note: '<b>NOTE</b>: Call for Proposals running: http://iab-rubric.org/fg2021/FG2024.html'
 
 - title: NeurIPS
   long: Conference on Neural Information Processing Systems
@@ -855,28 +848,26 @@
 - title: ECMR (Deadline estimated)
   long: European Conference on Mobile Robots
   hindex: 19
-  year: 2023
-  id: ecmr23
-  link: https://ecmr2021.org/
-  deadline: '2023-05-15 23:59:59'
+  year: 2024
+  id: ecmr24
+  link: https://ecmr2023.isr.uc.pt/important-dates/
+  deadline: '2024-05-01 23:59:59'
   timezone: UTC-12
   date: --
   place: --
   sub: RO
   host: IEEE
-  note: '<b>NOTE</b>: new website does not exist yet therefore old website linked
-    from 2021'
 
 - title: CIKM (Deadline estimated)
   long: Conference on Information and Knowledge Management
   hindex: 69
-  year: 2023
-  id: cikm23
+  year: 2024
+  id: cikm24
   link: https://cikm2023.github.io/
-  deadline: '2023-05-19 23:59:59'
+  deadline: '2024-05-26 23:59:59'
   timezone: UTC-12
-  date: October 21-25, 2023
-  place: Birmingham, UK
+  date: --
+  place: Boise, USA
   host: ACM
   sub: DM
 
@@ -899,23 +890,23 @@
   year: 2024
   id: iccp24
   link: https://www.iccp.ro/
-  deadline: '2023-05-31 23:59:59'
+  deadline: '2024-06-15 23:59:59'
   timezone: UTC-12
-  date: September xx-xx, 2024
-  place: Cluj-Napoca, Romania
+  date: --
+  place: --
   sub: ML
   host: IEEE
 
-- title: 3DV (Deadline estimated)
+- title: 3DV
   long: International Conference on 3D Vision
   hindex: 41
   year: 2024
   id: threedv24
-  link: https://3dv.org
-  deadline: '2023-06-02 23:59:59'
+  link: https://3dvconf.github.io/2024/
+  deadline: '2023-08-07 23:59:59'
   timezone: UTC-7
-  date: September 12-15, 2024
-  place: --
+  date: March 18-21, 2024
+  place: Davos, Switzerland
   sub: CV
 
 - title: GCPR
@@ -1046,20 +1037,17 @@
   sub: IV
   host: ACM
 
-- title: AAMAS (Deadline estimated)
+- title: AAMAS
   long: International Conference on Autonomous Agents and Multiagent Systems
   hindex: 44
-  year: 2023
-  id: aamas23
-  link: https://aamas2022-conference.auckland.ac.nz/
-  deadline: '2022-10-08 23:59:59'
-  abstract_deadline: '2022-10-01 23:59:59'
+  year: 2024
+  id: aamas24
+  link: https://www.aamas2024-conference.auckland.ac.nz/
+  deadline: '2023-10-02 23:59:59'
   timezone: UTC-12
-  date: --
-  place: --
+  date: May 06-10, 2024
+  place: Auckland, New Zealand
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline. New website does not exist yet
-    therefore old website linked from 2022'
 
 - title: ICAR
   long: International Conference on Advanced Robotics
@@ -1170,13 +1158,13 @@
 - title: ICVES (Deadline estimated)
   long: International Conference on Connected Vehicles and Expo
   hindex: 15
-  year: 2022
-  id: icves22
+  year: 2023
+  id: icves23
   link: https://icves2022.org/
   deadline: '2023-08-09 23:59:59'
   timezone: UTC-12
-  date: November 14-16, 2022
-  place: Bogota, Colombia
+  date: --
+  place: --
   sub: IV
   host: IEEE
 
@@ -1288,12 +1276,12 @@
   long: International Conference on Universal Village
   hindex: --
   year: 2023
-  id: uv22
+  id: uv23
   link: https://universalvillage.org/ieee-uv-conference/
   deadline: '2023-09-15 23:59:59'
   timezone: UTC-12
-  date: October 22-25, 2022
-  place: Virtual
+  date: --
+  place: --
   sub: IV
   host: IEEE
 
@@ -1343,8 +1331,8 @@
   link: https://ml4ad.github.io/
   deadline: '2023-10-01 23:59:59'
   timezone: UTC-12
-  date: 2022-12-03
-  place: New Orleans, USA
+  date: --
+  place: --
   sub: ML
   host: --
 
@@ -1389,26 +1377,26 @@
 - title: ICCVE (Deadline estimated)
   long: International Conference on Connected Vehicles and Expo
   hindex: --
-  year: 2022
-  id: iccve22
+  year: 2024
+  id: iccve24
   link: https://iccve2022.org/
   deadline: '2023-11-12 23:59:59'
   timezone: UTC-12
-  date: March 7-9, 2022
-  place: Florida, USA
+  date: --
+  place: --
   sub: V2X
   host: IEEE
 
-- title: SIGMOD/PODS (Deadline estimated)
+- title: SIGMOD/PODS
   long: International Conference on Management of Data
   hindex: 66
   year: 2025
   id: sigmod25
   link: https://2024.sigmod.org/
-  deadline: '2024-01-01 23:59:59'
+  deadline: '2023-12-04 23:59:59'
   timezone: UTC-12
-  date: --
-  place: --
+  date: June 09-15, 2024
+  place: Santiago, Chile
   sub: ML
   host: ACM
 
