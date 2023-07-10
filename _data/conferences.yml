@@ -1127,7 +1127,7 @@
   sub: V2X
   host: IEEE
 
-  - title: ICARM (Deadline estimated)
+- title: ICARM (Deadline estimated)
   long: International Conference on Advanced Robotics & Mechatronics
   hindex: --
   year: 2024
