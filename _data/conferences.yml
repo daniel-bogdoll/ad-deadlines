@@ -1040,47 +1040,47 @@
   year: 2023
   id: tps23
   link: https://www.sis.pitt.edu/lersais/conference/tps/2023/calls.html
-  deadline: '2022-07-25 23:59:59'
+  deadline: '2023-07-25 23:59:59'
   timezone: UTC-12
   date: November 01-03, 2023
   place: Atlanta, USA
   sub: IV
   host: IEEE
 
-- title: AVVision (WS)
+- title: AVVision (WS) (Deadline estimated)
   long: Autonomous Vehicle Vision Workshop
   hindex: --
   year: 2022
   id: avvision22
   link: https://avvision.xyz/eccv22/
-  deadline: '2022-07-31 20:59:00'
+  deadline: '2024-07-31 20:59:00'
   timezone: UTC+1
   date: October 24-28, 2022
   place: Tel-Aviv, Israel
   sub: ML
   host: ECCV
 
-- title: ICVES
+- title: ICVES (Deadline estimated)
   long: International Conference on Connected Vehicles and Expo
   hindex: 15
   year: 2022
   id: icves22
   link: https://icves2022.org/
-  deadline: '2022-08-09 23:59:59'
+  deadline: '2023-08-09 23:59:59'
   timezone: UTC-12
   date: November 14-16, 2022
   place: Bogota, Colombia
   sub: IV
   host: IEEE
 
-- title: SSLAD (WS)
+- title: SSLAD (WS) (Deadline estimated)
   long: Workshop on Self-Supervised Learning for Next-Generation Industry-level Autonomous
     Driving
   hindex: --
   year: 2022
   id: sslad22
   link: https://sslad2022.github.io/
-  deadline: '2022-08-15 20:59:00'
+  deadline: '2024-08-15 20:59:00'
   timezone: UTC+1
   date: October 24-28, 2022
   place: Tel-Aviv, Israel
