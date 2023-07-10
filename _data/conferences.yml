@@ -1020,13 +1020,13 @@
   sub: DM
   host: IEEE
 
-- title: ICCPS
+- title: ICCPS (Deadline estimated)
   long: International Conference on Cyber-Physical Systems
   hindex: 26
   year: 2023
   id: iccps23
   link: http://iccps.acm.org/2023/
-  deadline: '2022-07-01 23:59:59'
+  deadline: '2022-10-24 23:59:59'
   timezone: UTC-12
   date: April 22-23, 2023
   place: Tokyo, Japan
