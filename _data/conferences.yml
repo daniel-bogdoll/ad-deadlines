@@ -982,12 +982,12 @@
   year: 2023
   id: icecet23
   link: http://icecet.com/
-  deadline: '2023-08-04 23:59:00'
+  deadline: '2023-09-07 23:59:00'
   timezone: UTC+1
   date: November 16-17, 2023
-  place: Cairo, Egypt
+  place: Cape Town, South Africa
   sub: ML
-  host: Alexandria University
+  host: IEEE
 
 - title: 3DV
   long: International Conference on 3D Vision
