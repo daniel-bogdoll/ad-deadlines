@@ -1,45 +1,5 @@
 ---
 
-- title: DNOW (WS)
-  long: Workshop on Dealing with Novelty in Open Worlds
-  hindex: --
-  year: 2023
-  id: dnow23
-  link: https://www.cs.umd.edu/~pulkit/DNOW_workshop_2/
-  deadline: '2022-10-11 23:59:00'
-  timezone: UTC+1
-  date: January 03-07, 2023
-  place: Waikoloa, Hawaii
-  sub: ML
-  host: WACV
-
-- title: SDM (Deadline estimated)
-  long: International Conference on Data Mining
-  hindex: 54
-  year: 2023
-  id: sdm23
-  link: https://www.siam.org/conferences/cm/conference/sdm23
-  deadline: '2022-10-12 23:59:59'
-  timezone: UTC-12
-  date: --
-  place: --
-  sub: DM
-  host: SIAM
-
-- title: MT-ITS
-  long: International IEEE Conference on Models and Technologies for Intelligent Transportation
-    Systems
-  hindex: 21
-  year: 2023
-  id: mtits2023
-  link: https://mt-its2023.eurecom.fr/
-  deadline: '2022-10-15 23:59:59'
-  timezone: UTC-12
-  date: June 14-16, 2023
-  place: Nice, France
-  sub: IV
-  host: IEEE
-
 - title: IFAC World Congress
   long: International Federation of Automatic Control World Congress
   hindex: 24
@@ -870,19 +830,6 @@
   sub: DM
   host: IEEE
 
-- title: CSCS
-  long: Computer Science in Cars Symposium
-  hindex: --
-  year: 2022
-  id: cscs22
-  link: https://acm-cscs.org/
-  deadline: '2022-10-08 23:59:59'
-  timezone: UTC-12
-  date: December 08, 2022
-  place: Ingolstadt, Germany
-  sub: IV
-  host: ACM
-
 - title: ICAR
   long: International Conference on Advanced Robotics
   hindex: 15
@@ -936,6 +883,59 @@
   sub: IV
   host: ICCV
 
+- title: CSCS
+  long: Computer Science in Cars Symposium
+  hindex: --
+  year: 2022
+  id: cscs22
+  link: https://acm-cscs.org/
+  deadline: '2022-10-08 23:59:59'
+  timezone: UTC-12
+  date: December 08, 2022
+  place: Ingolstadt, Germany
+  sub: IV
+  host: ACM
+
+- title: DNOW (WS)
+  long: Workshop on Dealing with Novelty in Open Worlds
+  hindex: --
+  year: 2023
+  id: dnow23
+  link: https://www.cs.umd.edu/~pulkit/DNOW_workshop_2/
+  deadline: '2022-10-11 23:59:00'
+  timezone: UTC+1
+  date: January 03-07, 2023
+  place: Waikoloa, Hawaii
+  sub: ML
+  host: WACV
+
+- title: SDM (Deadline estimated)
+  long: International Conference on Data Mining
+  hindex: 54
+  year: 2023
+  id: sdm23
+  link: https://www.siam.org/conferences/cm/conference/sdm23
+  deadline: '2022-10-12 23:59:59'
+  timezone: UTC-12
+  date: --
+  place: --
+  sub: DM
+  host: SIAM
+
+- title: MT-ITS
+  long: International IEEE Conference on Models and Technologies for Intelligent Transportation
+    Systems
+  hindex: 21
+  year: 2023
+  id: mtits2023
+  link: https://mt-its2023.eurecom.fr/
+  deadline: '2022-10-15 23:59:59'
+  timezone: UTC-12
+  date: June 14-16, 2023
+  place: Nice, France
+  sub: IV
+  host: IEEE
+
 - title: TPS
   long: International Conference on Trust, Privacy and Security in Intelligent Systems,
     and Applications
@@ -975,19 +975,6 @@
   place: Ha Long, Vietnam
   sub: AS
   host: IEEE/SICE
-
-- title: ICECET
-  long: International Conference on Electrical, Computer and Energy Technologies
-  hindex: --
-  year: 2023
-  id: icecet23
-  link: http://icecet.com/
-  deadline: '2023-09-07 23:59:00'
-  timezone: UTC+1
-  date: November 16-17, 2023
-  place: Cape Town, South Africa
-  sub: ML
-  host: IEEE
 
 - title: 3DV
   long: International Conference on 3D Vision
@@ -1077,6 +1064,19 @@
   date: December 15-18, 2023
   place: Sorrento, Italy
   sub: DM
+  host: IEEE
+
+- title: ICECET
+  long: International Conference on Electrical, Computer and Energy Technologies
+  hindex: --
+  year: 2023
+  id: icecet23
+  link: http://icecet.com/
+  deadline: '2023-09-07 23:59:00'
+  timezone: UTC+1
+  date: November 16-17, 2023
+  place: Cape Town, South Africa
+  sub: ML
   host: IEEE
 
 - title: WCNC
