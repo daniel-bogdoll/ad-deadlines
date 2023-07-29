@@ -883,6 +883,20 @@
   sub: IV
   host: ICCV
 
+- title: TPS
+  long: International Conference on Trust, Privacy and Security in Intelligent Systems,
+    and Applications
+  hindex: --
+  year: 2023
+  id: tps23
+  link: https://www.sis.pitt.edu/lersais/conference/tps/2023/calls.html
+  deadline: '2023-07-25 23:59:59'
+  timezone: UTC-12
+  date: November 01-03, 2023
+  place: Atlanta, USA
+  sub: IV
+  host: IEEE
+
 - title: CSCS
   long: Computer Science in Cars Symposium
   hindex: --
@@ -934,33 +948,6 @@
   date: June 14-16, 2023
   place: Nice, France
   sub: IV
-  host: IEEE
-
-- title: TPS
-  long: International Conference on Trust, Privacy and Security in Intelligent Systems,
-    and Applications
-  hindex: --
-  year: 2023
-  id: tps23
-  link: https://www.sis.pitt.edu/lersais/conference/tps/2023/calls.html
-  deadline: '2023-07-25 23:59:59'
-  timezone: UTC-12
-  date: November 01-03, 2023
-  place: Atlanta, USA
-  sub: IV
-  host: IEEE
-
-- title: SSCI
-  long: Symposium Series On Computational Intelligence
-  hindex: 31
-  year: 2023
-  id: ssci23
-  link: https://attend.ieee.org/ssci-2023/
-  deadline: '2023-08-15 23:59:59'
-  timezone: UTC-12
-  date: December 05-08, 2023
-  place: Mexiko City, Mexiko
-  sub: ML
   host: IEEE
 
 - title: SII
@@ -1026,6 +1013,19 @@
   place: Valencia, Spain
   sub: V2X
   host: IARIA
+
+- title: SSCI
+  long: Symposium Series On Computational Intelligence
+  hindex: 31
+  year: 2023
+  id: ssci23
+  link: https://attend.ieee.org/ssci-2023/
+  deadline: '2023-08-15 23:59:59'
+  timezone: UTC-12
+  date: December 05-08, 2023
+  place: Mexiko City, Mexiko
+  sub: ML
+  host: IEEE
 
 - title: NeRF4ADR (WS)
   long: Neural Fields for Autonomous Driving and Robotics
