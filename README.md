@@ -1,5 +1,11 @@
 ## [AD Deadlines](https://ad-deadlines.com)
 
+---
+
+**I stopped maintaining the project in mid-2023. I hope that the list of conferences might still be of interest to some.**
+
+---
+
 Countdown timers to keep track of a bunch of conference deadlines in the field of autonomous driving (AD).
 
 Inspired by [aideadlin.es](https://aideadlin.es/?sub=ML,CV,RO), [esrlabs](https://github.com/esrlabs/Conferences-for-Autonomous-Driving) & [jackietseng](https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html).
