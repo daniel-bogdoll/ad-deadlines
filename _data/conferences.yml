@@ -1,5 +1,741 @@
 ---
 
+- title: VCAD (WS)
+  long: Vision-Centric Autonomous Driving
+  hindex: 106
+  year: 2023
+  id: vcad2023
+  link: http://vcad.site/#/
+  deadline: '2023-04-30 20:59:00'
+  timezone: UTC+1
+  date: June 18-22, 2023
+  place: Vancouver, Canada
+  sub: ML
+  host: CVPR
+
+- title: ICMI
+  long: International Conference on Multimodal Interaction
+  hindex: 34
+  year: 2023
+  id: icmi2023
+  link: https://icmi.acm.org/2023/
+  deadline: '2023-05-01 23:59:00'
+  timezone: UTC-7
+  date: October 09-13, 202
+  place: Paris, France
+  host: ACM
+  sub: RO
+
+- title: NeurIPS
+  long: Conference on Neural Information Processing Systems
+  hindex: 278
+  year: 2023
+  id: neurips23
+  link: https://nips.cc
+  deadline: '2023-05-11 13:00:00'
+  timezone: America/Los_Angeles
+  date: December 10-16, 2023
+  place: New Orleans, United States
+  sub: ML
+  host: NeurIPS
+
+- title: BMVC
+  long: British Machine Vision Conference
+  hindex: 66
+  year: 2023
+  id: bmvc23
+  link: https://britishmachinevisionassociation.github.io/bmvc
+  deadline: '2023-05-12 23:59:59'
+  timezone: UTC
+  date: November 20-24, 2023
+  place: Aberdeen, UK
+  sub: CV
+
+- title: ITSC
+  long: International Conference on Intelligent Transportation Systems / Intelligent
+    Transportation Systems Conference
+  hindex: 49
+  year: 2023
+  id: itsc2023
+  link: https://2023.ieee-itsc.org/
+  deadline: '2023-05-15 23:59:59'
+  timezone: UTC-12
+  date: September 24-28, 2023
+  place: Bilbao, Spain
+  sub: IV
+  host: IEEE
+
+- title: ICVS
+  long: International Conference on Computer Vision Systems
+  hindex: 12
+  year: 2023
+  id: icvs23
+  link: https://icvs2023.conf.tuwien.ac.at/contributions/
+  deadline: '2023-05-29 23:59:59'
+  timezone: UTC-12
+  date: September 27-29, 2023
+  place: Vienna, Austria, China
+  sub: IV
+  host: SAE
+
+- title: GCPR
+  long: German Conference on Pattern Recognition
+  hindex: 24
+  year: 2023
+  id: gcpr23
+  link: https://www.dagm-gcpr.de/year/2023
+  deadline: '2023-06-02 23:59:59'
+  timezone: UTC-12
+  date: September 27-30, 2022
+  place: Heidelberg, Germany
+  sub: ML
+  host: DAGM
+
+- title: ICINCO
+  long: International Conference on Informatics in Control, Automation and Robotics
+  hindex: 15
+  year: 2023
+  id: icinco2023
+  link: https://icinco.scitevents.org/
+  deadline: '2023-06-02 23:59:59'
+  timezone: UTC-12
+  date: November 13-15, 2023
+  place: Rome, Italy
+  sub: RO
+  host: INSTICC
+
+- title: ISC2
+  long: International Smart Cities Conference
+  hindex: 22
+  year: 2023
+  id: isc223
+  link: https://attend.ieee.org/isc-2023/
+  deadline: '2023-06-05 23:59:59'
+  timezone: UTC-12
+  date: September 24-27, 2023
+  place: Bucharest, Romania
+  sub: V2X
+  host: IEEE
+
+- title: CoRL
+  long: Conference on Robot Learning
+  hindex: 64
+  year: 2023
+  id: corl23
+  link: https://www.corl2023.org/
+  deadline: '2023-06-08 23:59:00'
+  timezone: UTC-7
+  date: November 06-09, 2023
+  place: Atlanta, USA
+  sub: RO
+
+- title: ICITE
+  long: International Conference on Intelligent Transportation Engineering
+  hindex: 8
+  year: 2023
+  id: icite2023
+  link: http://www.icite.org/
+  deadline: '2023-06-10 23:59:59'
+  timezone: UTC-12
+  date: October 28-30, 2023
+  place: Beijing, China
+  sub: IV
+  host: IEEE
+
+- title: HICSS
+  long: Hawaii International Conference on System Sciences
+  hindex: 45
+  year: 2023
+  id: hicss24
+  link: https://hicss.hawaii.edu/
+  deadline: '2023-06-15 23:59:59'
+  timezone: UTC-12
+  date: January 03-06,2024
+  place: Hawaii, USA
+  sub: DM
+  host: Shidler College of Business
+
+- title: ACML
+  long: Asian Conference on Machine Learning
+  hindex: 17
+  year: 2023
+  id: acml23
+  link: https://www.acml-conf.org/2023/cfp.html
+  deadline: '2023-06-23 23:59:00'
+  timezone: UTC-7
+  date: November 11-14, 2023
+  place: Istanbul, Turkey
+  sub: ML
+
+- title: ICDM
+  long: International Conference on Data Mining
+  hindex: 54
+  year: 2023
+  id: icdm23
+  link: https://www.cloud-conf.net/icdm2023/
+  deadline: '2023-07-01 23:59:59'
+  timezone: UTC-5
+  date: December 01-04, 2023
+  place: Shanghai, China
+  sub: DM
+  host: IEEE
+
+- title: ICAR
+  long: International Conference on Advanced Robotics
+  hindex: 15
+  year: 2023
+  id: icar23
+  link: https://sites.google.com/view/2023icar
+  deadline: '2023-07-14 23:59:59'
+  timezone: UTC-12
+  date: December 05-08, 2023
+  place: Abu Dhabi, UAE
+  sub: RO
+  host: IEEE
+
+- title: ICMLA
+  long: International Conference On Machine Learning And Applications
+  hindex: 39
+  year: 2023
+  id: icmla2023
+  link: https://www.icmla-conference.org/icmla23/
+  deadline: '2023-07-15 23:59:59'
+  timezone: UTC-12
+  date: December 15-17, 2023
+  place: Florida, USA
+  sub: ML
+  host: IEEE
+
+- title: BRAVO (WS)
+  long: Robustness and Reliability of Autonomous Vehicles in the Open-world
+  hindex: 71
+  year: 2023
+  id: bravo23
+  link: https://valeoai.github.io/bravo/
+  deadline: '2023-07-19 23:59:59'
+  timezone: UTC-12
+  date: October 03, 2023
+  place: Paris, France
+  sub: IV
+  host: ICCV
+
+- title: ROAD++ (WS)
+  long: Workshop & Challenge on Event Detection for Situation Awareness in Autonomous
+    Driving
+  hindex: 71
+  year: 2023
+  id: road23
+  link: https://sites.google.com/view/road-plus-plus/home
+  deadline: '2023-07-20 23:59:59'
+  timezone: UTC-12
+  date: October 02-03, 2023
+  place: Paris, France
+  sub: IV
+  host: ICCV
+
+- title: TPS
+  long: International Conference on Trust, Privacy and Security in Intelligent Systems,
+    and Applications
+  hindex: --
+  year: 2023
+  id: tps23
+  link: https://www.sis.pitt.edu/lersais/conference/tps/2023/calls.html
+  deadline: '2023-07-25 23:59:59'
+  timezone: UTC-12
+  date: November 01-03, 2023
+  place: Atlanta, USA
+  sub: IV
+  host: IEEE
+
+- title: SII
+  long: International Symposium on System Integration
+  hindex: 13
+  year: 2024
+  id: sii24
+  link: https://www.sice-si.org/SII2024/
+  deadline: '2023-08-01 23:59:59'
+  timezone: UTC-12
+  date: January 08-11, 2024
+  place: Ha Long, Vietnam
+  sub: AS
+  host: IEEE/SICE
+
+- title: 3DV
+  long: International Conference on 3D Vision
+  hindex: 41
+  year: 2024
+  id: threedv24
+  link: https://3dvconf.github.io/2024/
+  deadline: '2023-08-07 23:59:59'
+  timezone: UTC-7
+  date: March 18-21, 2024
+  place: Davos, Switzerland
+  sub: CV
+
+- title: AAAI
+  long: International Conference on Artificial Intelligence
+  hindex: 180
+  year: 2024
+  id: aaai24
+  link: https://aaai.org/aaai-conference/
+  deadline: '2023-08-08 23:59:59'
+  timezone: UTC-12
+  date: February 20-27, 2024
+  place: Vancouver, Canada
+  sub: ML
+  host: AAAI
+
+- title: ICVES (Deadline estimated)
+  long: International Conference on Connected Vehicles and Expo
+  hindex: 15
+  year: 2023
+  id: icves23
+  link: https://icves2022.org/
+  deadline: '2023-08-09 23:59:59'
+  timezone: UTC-12
+  date: --
+  place: --
+  sub: IV
+  host: IEEE
+
+- title: ICSNC
+  long: International Conference on Systems and Networks Communications
+  hindex: --
+  year: 2023
+  id: icsnc23
+  link: https://www.iaria.org/conferences2023/ICSNC23.html
+  deadline: '2023-08-10 23:59:59'
+  timezone: UTC-12
+  date: November 13-17, 2023
+  place: Valencia, Spain
+  sub: V2X
+  host: IARIA
+
+- title: SSCI
+  long: Symposium Series On Computational Intelligence
+  hindex: 31
+  year: 2023
+  id: ssci23
+  link: https://attend.ieee.org/ssci-2023/
+  deadline: '2023-08-15 23:59:59'
+  timezone: UTC-12
+  date: December 05-08, 2023
+  place: Mexiko City, Mexiko
+  sub: ML
+  host: IEEE
+
+- title: NeRF4ADR (WS)
+  long: Neural Fields for Autonomous Driving and Robotics
+  hindex: 71
+  year: 2023
+  id: nerf4adr23
+  link: https://neural-fields.xyz/
+  deadline: '2023-08-15 23:59:59'
+  timezone: UTC-12
+  date: October 03, 2023
+  place: Paris, France
+  sub: IV
+  host: ICCV
+
+- title: WACV
+  long: Winter Conference on Application of Computer Vision
+  hindex: 76
+  year: 2024
+  id: wacv24
+  link: https://wacv2024.thecvf.com/
+  deadline: '2023-08-30 23:59:59'
+  timezone: America/Los_Angeles
+  date: January 03-07, 2024
+  place: Waikoloa, Hawaii
+  sub: CV
+  host: IEEE
+
+- title: Big Data
+  long: International Conference on Big Data
+  hindex: 52
+  year: 2023
+  id: bigdata23
+  link: https://bigdataieee.org/BigData2023
+  deadline: '2023-09-03 23:59:59'
+  timezone: UTC-12
+  date: December 15-18, 2023
+  place: Sorrento, Italy
+  sub: DM
+  host: IEEE
+
+- title: ICECET
+  long: International Conference on Electrical, Computer and Energy Technologies
+  hindex: --
+  year: 2023
+  id: icecet23
+  link: http://icecet.com/
+  deadline: '2023-09-07 23:59:00'
+  timezone: UTC+1
+  date: November 16-17, 2023
+  place: Cape Town, South Africa
+  sub: ML
+  host: IEEE
+
+- title: WCNC
+  long: Wireless Communications and Networking Conference
+  hindex: 24
+  year: 2024
+  id: wcnc24
+  link: https://wcnc2024.ieee-wcnc.org/
+  deadline: '2023-09-11 23:59:59'
+  timezone: UTC-12
+  date: April 21-24, 2024
+  place: Dubai, UAE
+  sub: V2X
+  host: IEEE
+
+- title: WCX
+  long: World Congress Experience
+  hindex: --
+  year: 2024
+  id: wcx24
+  link: https://www.sae.org/highlights/wcx
+  deadline: '2023-09-12 23:59:59'
+  timezone: UTC-12
+  date: April 16-18, 2024
+  place: Detroit, USA
+  sub: IV
+  host: SAE
+
+- title: UVS-OMAN
+  long: International Conference on Unmanned Vehicle Systems
+  hindex: --
+  year: 2024
+  id: uvsoman24
+  link: https://uvsc.om/
+  deadline: '2023-09-14 23:59:59'
+  timezone: UTC-12
+  date: February 05-07, 2024
+  place: Muscat, Oman
+  sub: IV
+  host: IEEE
+
+- title: ICRA
+  long: International Conference on Robotics and Automation
+  hindex: 116
+  year: 2024
+  id: icra24
+  link: http://ieee-icra.org/
+  deadline: '2023-09-15 23:59:59'
+  timezone: America/Los_Angeles
+  date: May 13-17, 2024
+  place: Yokohama, Japan
+  sub: RO
+  host: IEEE
+
+- title: UV (Deadline estimated)
+  long: International Conference on Universal Village
+  hindex: --
+  year: 2023
+  id: uv23
+  link: https://universalvillage.org/ieee-uv-conference/
+  deadline: '2023-09-15 23:59:59'
+  timezone: UTC-12
+  date: --
+  place: --
+  sub: IV
+  host: IEEE
+
+- title: FG
+  long: International Conference on Automatic Face and Gesture Recognition
+  hindex: --
+  year: 2024
+  id: fg2024
+  link: http://iab-rubric.org/fg2024/
+  deadline: '2023-09-18 23:59:59'
+  timezone: UTC-7
+  date: May 28-30, 2024
+  place: Istanbul, Turkey
+  sub: CV
+  host: IEEE
+
+- title: HRI
+  long: International Conference on Human-Robot Interaction
+  hindex: 47
+  year: 2024
+  id: hri24
+  link: https://humanrobotinteraction.org/2024/
+  deadline: '2023-09-29 23:59:59'
+  timezone: UTC-12
+  date: March 11-14, 2024
+  place: Boulder, USA
+  sub: RO
+  host: ACM/IEEE
+
+- title: ALT (Deadline estimated)
+  long: International Conference on Algorithmic Learning Theory
+  hindex: 26
+  year: 2024
+  id: alt24
+  link: http://algorithmiclearningtheory.org/alt2024/
+  deadline: '2023-09-30 16:59:59'
+  timezone: America/New_York
+  date: February 20-23, 2023
+  place: Singapore
+  sub: ML
+
+- title: ICARA
+  long: International Conference on Automation, Robotics and Applications
+  hindex: --
+  year: 2024
+  id: icara24
+  link: http://www.icara.us/
+  deadline: '2023-10-01 23:59:59'
+  timezone: UTC-12
+  date: February 22-24, 2024
+  place: Athens, Greece
+  sub: RO
+  host: IEEE
+
+- title: ML4AD (WS) (Deadline estimated)
+  long: NeurIPS Workshop on Machine Learning for Autonomous Driving
+  hindex: --
+  year: 2024
+  id: ml4ad24
+  link: https://ml4ad.github.io/
+  deadline: '2023-10-01 23:59:59'
+  timezone: UTC-12
+  date: --
+  place: --
+  sub: ML
+  host: --
+
+- title: AAMAS
+  long: International Conference on Autonomous Agents and Multiagent Systems
+  hindex: 44
+  year: 2024
+  id: aamas24
+  link: https://www.aamas2024-conference.auckland.ac.nz/
+  deadline: '2023-10-02 23:59:59'
+  timezone: UTC-12
+  date: May 06-10, 2024
+  place: Auckland, New Zealand
+  sub: ML
+
+- title: SATML
+  long: Conference on Secure and Trustworthy Machine Learning
+  hindex: --
+  year: 2024
+  id: satml24
+  link: https://satml.org/call-for-papers/
+  deadline: '2023-10-04 23:59:59'
+  timezone: UTC-12
+  date: April, 2024
+  place: Toronto, Canada
+  sub: ML
+  host: IEEE
+  note: '<b>NOTE</b>: Mandatory abstract deadline on August 22, 2022'
+
+- title: ICLR (Deadline estimated)
+  long: International Conference on Learning Representations
+  hindex: 253
+  year: 2024
+  id: iclr24
+  link: https://iclr.cc/Conferences/2024
+  deadline: '2023-10-05 17:00:00'
+  timezone: UTC-7
+  date: May 05 -07, 2024
+  place: Vienna, Austria
+  sub: ML
+
+- title: WWW
+  long: International World Wide Web Conference
+  hindex: 70
+  year: 2024
+  id: www24
+  link: https://www2024.thewebconf.org/
+  deadline: '2023-10-05 23:59:59'
+  timezone: UTC-12
+  date: May 13-17, 2023
+  place: Singapur
+  sub: DM
+
+- title: ACCV (Deadline estimated)
+  long: Asian Conference on Computer Vision
+  hindex: 43
+  year: 2024
+  id: accv24
+  link: http://accv2024.org/
+  deadline: '2023-10-06 23:59:00'
+  timezone: UTC
+  date: December 08-12, 2022
+  place: Hanoi, Vietnam
+  sub: CV
+
+- title: AISTATS (Deadline estimated)
+  long: International Conference on Artificial Intelligence and Statistics
+  hindex: 68
+  year: 2024
+  id: aistats24
+  link: https://www.aistats.org/aistats2024/
+  deadline: '2023-10-15 11:59:00'
+  timezone: UTC
+  date: --
+  place: --
+  sub: ML
+
+- title: ICCPS (Deadline estimated)
+  long: International Conference on Cyber-Physical Systems
+  hindex: 26
+  year: 2024
+  id: iccps24
+  link: http://iccps.acm.org/2023/
+  deadline: '2023-10-24 23:59:59'
+  timezone: UTC-12
+  date: --
+  place: --
+  sub: IV
+  host: ACM/IEEE
+
+- title: ICCVE (Deadline estimated)
+  long: International Conference on Connected Vehicles and Expo
+  hindex: --
+  year: 2024
+  id: iccve24
+  link: https://iccve2022.org/
+  deadline: '2023-11-12 23:59:59'
+  timezone: UTC-12
+  date: --
+  place: --
+  sub: V2X
+  host: IEEE
+
+- title: ICPS (Deadline estimated)
+  long: International Conference on Industrial Cyber-Physical Systems
+  hindex: 11
+  year: 2024
+  id: icps24
+  link: http://icps2023.cug.edu.cn/
+  deadline: '2023-12-01 23:59:59'
+  timezone: UTC-12
+  date: --
+  place: --
+  sub: IV
+  host: IEEE
+
+- title: SIGMOD/PODS
+  long: International Conference on Management of Data
+  hindex: 66
+  year: 2025
+  id: sigmod25
+  link: https://2024.sigmod.org/
+  deadline: '2023-12-04 23:59:59'
+  timezone: UTC-12
+  date: June 09-15, 2024
+  place: Santiago, Chile
+  sub: ML
+  host: ACM
+
+- title: ICPR (Deadline estimated)
+  long: International Conference on Pattern Recognition
+  hindex: 43
+  year: 2024
+  id: icpr24
+  link: http://www.icpr2022.com/
+  deadline: '2024-01-10 23:59:00'
+  timezone: UTC+1
+  date: August 21-25, 2022
+  place: Kolkata, India
+  sub: ML
+  host: IEEE
+
+- title: WCCI
+  long: World Congress on Computational Intelligence
+  hindex: 57
+  year: 2024
+  id: wcci24
+  link: https://wcci2024.org/
+  deadline: '2024-01-15 23:59:00'
+  timezone: UTC+1
+  date: June 30 - July 05, 2024
+  place: Yokohama, Japan
+  sub: ML
+  host: IEEE
+
+- title: VNC (Deadline estimated)
+  long: Vehicular Networking Conference
+  hindex: 28
+  year: 2024
+  id: vnc24
+  link: https://ieee-vnc.org/2021/
+  deadline: '2024-01-15 23:59:59'
+  timezone: UTC-12
+  date: --
+  place: --
+  sub: V2X
+  host: IEEE
+
+- title: AVEC (Deadline estimated)
+  long: International Symposium on Advanced Vehicle Control
+  hindex: --
+  year: 2024
+  id: avec24
+  link: https://www.showsbee.com/fairs/AVEC-Symposium.html
+  deadline: '2024-01-17 23:59:59'
+  timezone: UTC-12
+  date: September 02-06, 2024
+  place: Milan, Italy
+  sub: IV
+  host: JSAE
+
+- title: CSCS
+  long: Computer Science in Cars Symposium
+  hindex: --
+  year: 2022
+  id: cscs22
+  link: https://acm-cscs.org/
+  deadline: '2022-10-08 23:59:59'
+  timezone: UTC-12
+  date: December 08, 2022
+  place: Ingolstadt, Germany
+  sub: IV
+  host: ACM
+
+- title: DNOW (WS)
+  long: Workshop on Dealing with Novelty in Open Worlds
+  hindex: --
+  year: 2023
+  id: dnow23
+  link: https://www.cs.umd.edu/~pulkit/DNOW_workshop_2/
+  deadline: '2022-10-11 23:59:00'
+  timezone: UTC+1
+  date: January 03-07, 2023
+  place: Waikoloa, Hawaii
+  sub: ML
+  host: WACV
+
+- title: SDM (Deadline estimated)
+  long: International Conference on Data Mining
+  hindex: 54
+  year: 2023
+  id: sdm23
+  link: https://www.siam.org/conferences/cm/conference/sdm23
+  deadline: '2022-10-12 23:59:59'
+  timezone: UTC-12
+  date: --
+  place: --
+  sub: DM
+  host: SIAM
+
+- title: MT-ITS
+  long: International IEEE Conference on Models and Technologies for Intelligent Transportation
+    Systems
+  hindex: 21
+  year: 2023
+  id: mtits2023
+  link: https://mt-its2023.eurecom.fr/
+  deadline: '2022-10-15 23:59:59'
+  timezone: UTC-12
+  date: June 14-16, 2023
+  place: Nice, France
+  sub: IV
+  host: IEEE
+
 - title: IFAC World Congress
   long: International Federation of Automatic Control World Congress
   hindex: 24
@@ -649,742 +1385,6 @@
   place: Vancouver, Canada
   sub: ML
   host: CVPR
-
-- title: VCAD (WS)
-  long: Vision-Centric Autonomous Driving
-  hindex: 106
-  year: 2023
-  id: vcad2023
-  link: http://vcad.site/#/
-  deadline: '2023-04-30 20:59:00'
-  timezone: UTC+1
-  date: June 18-22, 2023
-  place: Vancouver, Canada
-  sub: ML
-  host: CVPR
-
-- title: ICMI
-  long: International Conference on Multimodal Interaction
-  hindex: 34
-  year: 2023
-  id: icmi2023
-  link: https://icmi.acm.org/2023/
-  deadline: '2023-05-01 23:59:00'
-  timezone: UTC-7
-  date: October 09-13, 202
-  place: Paris, France
-  host: ACM
-  sub: RO
-
-- title: NeurIPS
-  long: Conference on Neural Information Processing Systems
-  hindex: 278
-  year: 2023
-  id: neurips23
-  link: https://nips.cc
-  deadline: '2023-05-11 13:00:00'
-  timezone: America/Los_Angeles
-  date: December 10-16, 2023
-  place: New Orleans, United States
-  sub: ML
-  host: NeurIPS
-
-- title: BMVC
-  long: British Machine Vision Conference
-  hindex: 66
-  year: 2023
-  id: bmvc23
-  link: https://britishmachinevisionassociation.github.io/bmvc
-  deadline: '2023-05-12 23:59:59'
-  timezone: UTC
-  date: November 20-24, 2023
-  place: Aberdeen, UK
-  sub: CV
-
-- title: ITSC
-  long: International Conference on Intelligent Transportation Systems / Intelligent
-    Transportation Systems Conference
-  hindex: 49
-  year: 2023
-  id: itsc2023
-  link: https://2023.ieee-itsc.org/
-  deadline: '2023-05-15 23:59:59'
-  timezone: UTC-12
-  date: September 24-28, 2023
-  place: Bilbao, Spain
-  sub: IV
-  host: IEEE
-
-- title: ICVS
-  long: International Conference on Computer Vision Systems
-  hindex: 12
-  year: 2023
-  id: icvs23
-  link: https://icvs2023.conf.tuwien.ac.at/contributions/
-  deadline: '2023-05-29 23:59:59'
-  timezone: UTC-12
-  date: September 27-29, 2023
-  place: Vienna, Austria, China
-  sub: IV
-  host: SAE
-
-- title: GCPR
-  long: German Conference on Pattern Recognition
-  hindex: 24
-  year: 2023
-  id: gcpr23
-  link: https://www.dagm-gcpr.de/year/2023
-  deadline: '2023-06-02 23:59:59'
-  timezone: UTC-12
-  date: September 27-30, 2022
-  place: Heidelberg, Germany
-  sub: ML
-  host: DAGM
-
-- title: ICINCO
-  long: International Conference on Informatics in Control, Automation and Robotics
-  hindex: 15
-  year: 2023
-  id: icinco2023
-  link: https://icinco.scitevents.org/
-  deadline: '2023-06-02 23:59:59'
-  timezone: UTC-12
-  date: November 13-15, 2023
-  place: Rome, Italy
-  sub: RO
-  host: INSTICC
-
-- title: ISC2
-  long: International Smart Cities Conference
-  hindex: 22
-  year: 2023
-  id: isc223
-  link: https://attend.ieee.org/isc-2023/
-  deadline: '2023-06-05 23:59:59'
-  timezone: UTC-12
-  date: September 24-27, 2023
-  place: Bucharest, Romania
-  sub: V2X
-  host: IEEE
-
-- title: CoRL
-  long: Conference on Robot Learning
-  hindex: 64
-  year: 2023
-  id: corl23
-  link: https://www.corl2023.org/
-  deadline: '2023-06-08 23:59:00'
-  timezone: UTC-7
-  date: November 06-09, 2023
-  place: Atlanta, USA
-  sub: RO
-
-- title: ICITE
-  long: International Conference on Intelligent Transportation Engineering
-  hindex: 8
-  year: 2023
-  id: icite2023
-  link: http://www.icite.org/
-  deadline: '2023-06-10 23:59:59'
-  timezone: UTC-12
-  date: October 28-30, 2023
-  place: Beijing, China
-  sub: IV
-  host: IEEE
-
-- title: HICSS
-  long: Hawaii International Conference on System Sciences
-  hindex: 45
-  year: 2023
-  id: hicss24
-  link: https://hicss.hawaii.edu/
-  deadline: '2023-06-15 23:59:59'
-  timezone: UTC-12
-  date: January 03-06,2024
-  place: Hawaii, USA
-  sub: DM
-  host: Shidler College of Business
-
-- title: ACML
-  long: Asian Conference on Machine Learning
-  hindex: 17
-  year: 2023
-  id: acml23
-  link: https://www.acml-conf.org/2023/cfp.html
-  deadline: '2023-06-23 23:59:00'
-  timezone: UTC-7
-  date: November 11-14, 2023
-  place: Istanbul, Turkey
-  sub: ML
-
-- title: ICDM
-  long: International Conference on Data Mining
-  hindex: 54
-  year: 2023
-  id: icdm23
-  link: https://www.cloud-conf.net/icdm2023/
-  deadline: '2023-07-01 23:59:59'
-  timezone: UTC-5
-  date: December 01-04, 2023
-  place: Shanghai, China
-  sub: DM
-  host: IEEE
-
-- title: ICAR
-  long: International Conference on Advanced Robotics
-  hindex: 15
-  year: 2023
-  id: icar23
-  link: https://sites.google.com/view/2023icar
-  deadline: '2023-07-14 23:59:59'
-  timezone: UTC-12
-  date: December 05-08, 2023
-  place: Abu Dhabi, UAE
-  sub: RO
-  host: IEEE
-
-- title: ICMLA
-  long: International Conference On Machine Learning And Applications
-  hindex: 39
-  year: 2023
-  id: icmla2023
-  link: https://www.icmla-conference.org/icmla23/
-  deadline: '2023-07-15 23:59:59'
-  timezone: UTC-12
-  date: December 15-17, 2023
-  place: Florida, USA
-  sub: ML
-  host: IEEE
-
-- title: BRAVO (WS)
-  long: Robustness and Reliability of Autonomous Vehicles in the Open-world
-  hindex: 71
-  year: 2023
-  id: bravo23
-  link: https://valeoai.github.io/bravo/
-  deadline: '2023-07-19 23:59:59'
-  timezone: UTC-12
-  date: October 03, 2023
-  place: Paris, France
-  sub: IV
-  host: ICCV
-
-- title: ROAD++ (WS)
-  long: Workshop & Challenge on Event Detection for Situation Awareness in Autonomous
-    Driving
-  hindex: 71
-  year: 2023
-  id: road23
-  link: https://sites.google.com/view/road-plus-plus/home
-  deadline: '2023-07-20 23:59:59'
-  timezone: UTC-12
-  date: October 02-03, 2023
-  place: Paris, France
-  sub: IV
-  host: ICCV
-
-- title: TPS
-  long: International Conference on Trust, Privacy and Security in Intelligent Systems,
-    and Applications
-  hindex: --
-  year: 2023
-  id: tps23
-  link: https://www.sis.pitt.edu/lersais/conference/tps/2023/calls.html
-  deadline: '2023-07-25 23:59:59'
-  timezone: UTC-12
-  date: November 01-03, 2023
-  place: Atlanta, USA
-  sub: IV
-  host: IEEE
-
-- title: CSCS
-  long: Computer Science in Cars Symposium
-  hindex: --
-  year: 2022
-  id: cscs22
-  link: https://acm-cscs.org/
-  deadline: '2022-10-08 23:59:59'
-  timezone: UTC-12
-  date: December 08, 2022
-  place: Ingolstadt, Germany
-  sub: IV
-  host: ACM
-
-- title: DNOW (WS)
-  long: Workshop on Dealing with Novelty in Open Worlds
-  hindex: --
-  year: 2023
-  id: dnow23
-  link: https://www.cs.umd.edu/~pulkit/DNOW_workshop_2/
-  deadline: '2022-10-11 23:59:00'
-  timezone: UTC+1
-  date: January 03-07, 2023
-  place: Waikoloa, Hawaii
-  sub: ML
-  host: WACV
-
-- title: SDM (Deadline estimated)
-  long: International Conference on Data Mining
-  hindex: 54
-  year: 2023
-  id: sdm23
-  link: https://www.siam.org/conferences/cm/conference/sdm23
-  deadline: '2022-10-12 23:59:59'
-  timezone: UTC-12
-  date: --
-  place: --
-  sub: DM
-  host: SIAM
-
-- title: MT-ITS
-  long: International IEEE Conference on Models and Technologies for Intelligent Transportation
-    Systems
-  hindex: 21
-  year: 2023
-  id: mtits2023
-  link: https://mt-its2023.eurecom.fr/
-  deadline: '2022-10-15 23:59:59'
-  timezone: UTC-12
-  date: June 14-16, 2023
-  place: Nice, France
-  sub: IV
-  host: IEEE
-
-- title: SII
-  long: International Symposium on System Integration
-  hindex: 13
-  year: 2024
-  id: sii24
-  link: https://www.sice-si.org/SII2024/
-  deadline: '2023-08-01 23:59:59'
-  timezone: UTC-12
-  date: January 08-11, 2024
-  place: Ha Long, Vietnam
-  sub: AS
-  host: IEEE/SICE
-
-- title: 3DV
-  long: International Conference on 3D Vision
-  hindex: 41
-  year: 2024
-  id: threedv24
-  link: https://3dvconf.github.io/2024/
-  deadline: '2023-08-07 23:59:59'
-  timezone: UTC-7
-  date: March 18-21, 2024
-  place: Davos, Switzerland
-  sub: CV
-
-- title: AAAI
-  long: International Conference on Artificial Intelligence
-  hindex: 180
-  year: 2024
-  id: aaai24
-  link: https://aaai.org/aaai-conference/
-  deadline: '2023-08-08 23:59:59'
-  timezone: UTC-12
-  date: February 20-27, 2024
-  place: Vancouver, Canada
-  sub: ML
-  host: AAAI
-
-- title: ICVES (Deadline estimated)
-  long: International Conference on Connected Vehicles and Expo
-  hindex: 15
-  year: 2023
-  id: icves23
-  link: https://icves2022.org/
-  deadline: '2023-08-09 23:59:59'
-  timezone: UTC-12
-  date: --
-  place: --
-  sub: IV
-  host: IEEE
-
-- title: ICSNC
-  long: International Conference on Systems and Networks Communications
-  hindex: --
-  year: 2023
-  id: icsnc23
-  link: https://www.iaria.org/conferences2023/ICSNC23.html
-  deadline: '2023-08-10 23:59:59'
-  timezone: UTC-12
-  date: November 13-17, 2023
-  place: Valencia, Spain
-  sub: V2X
-  host: IARIA
-
-- title: SSCI
-  long: Symposium Series On Computational Intelligence
-  hindex: 31
-  year: 2023
-  id: ssci23
-  link: https://attend.ieee.org/ssci-2023/
-  deadline: '2023-08-15 23:59:59'
-  timezone: UTC-12
-  date: December 05-08, 2023
-  place: Mexiko City, Mexiko
-  sub: ML
-  host: IEEE
-
-- title: NeRF4ADR (WS)
-  long: Neural Fields for Autonomous Driving and Robotics
-  hindex: 71
-  year: 2023
-  id: nerf4adr23
-  link: https://neural-fields.xyz/
-  deadline: '2023-08-15 23:59:59'
-  timezone: UTC-12
-  date: October 03, 2023
-  place: Paris, France
-  sub: IV
-  host: ICCV
-
-- title: WACV
-  long: Winter Conference on Application of Computer Vision
-  hindex: 76
-  year: 2024
-  id: wacv24
-  link: https://wacv2024.thecvf.com/
-  deadline: '2023-08-30 23:59:59'
-  timezone: America/Los_Angeles
-  date: January 03-07, 2024
-  place: Waikoloa, Hawaii
-  sub: CV
-  host: IEEE
-
-- title: Big Data
-  long: International Conference on Big Data
-  hindex: 52
-  year: 2023
-  id: bigdata23
-  link: https://bigdataieee.org/BigData2023
-  deadline: '2023-09-03 23:59:59'
-  timezone: UTC-12
-  date: December 15-18, 2023
-  place: Sorrento, Italy
-  sub: DM
-  host: IEEE
-
-- title: ICECET
-  long: International Conference on Electrical, Computer and Energy Technologies
-  hindex: --
-  year: 2023
-  id: icecet23
-  link: http://icecet.com/
-  deadline: '2023-09-07 23:59:00'
-  timezone: UTC+1
-  date: November 16-17, 2023
-  place: Cape Town, South Africa
-  sub: ML
-  host: IEEE
-
-- title: WCNC
-  long: Wireless Communications and Networking Conference
-  hindex: 24
-  year: 2024
-  id: wcnc24
-  link: https://wcnc2024.ieee-wcnc.org/
-  deadline: '2023-09-11 23:59:59'
-  timezone: UTC-12
-  date: April 21-24, 2024
-  place: Dubai, UAE
-  sub: V2X
-  host: IEEE
-
-- title: WCX
-  long: World Congress Experience
-  hindex: --
-  year: 2024
-  id: wcx24
-  link: https://www.sae.org/highlights/wcx
-  deadline: '2023-09-12 23:59:59'
-  timezone: UTC-12
-  date: April 16-18, 2024
-  place: Detroit, USA
-  sub: IV
-  host: SAE
-
-- title: UVS-OMAN
-  long: International Conference on Unmanned Vehicle Systems
-  hindex: --
-  year: 2024
-  id: uvsoman24
-  link: https://uvsc.om/
-  deadline: '2023-09-14 23:59:59'
-  timezone: UTC-12
-  date: February 05-07, 2024
-  place: Muscat, Oman
-  sub: IV
-  host: IEEE
-
-- title: ICRA
-  long: International Conference on Robotics and Automation
-  hindex: 116
-  year: 2024
-  id: icra24
-  link: http://ieee-icra.org/
-  deadline: '2023-09-15 23:59:59'
-  timezone: America/Los_Angeles
-  date: May 13-17, 2024
-  place: Yokohama, Japan
-  sub: RO
-  host: IEEE
-
-- title: UV (Deadline estimated)
-  long: International Conference on Universal Village
-  hindex: --
-  year: 2023
-  id: uv23
-  link: https://universalvillage.org/ieee-uv-conference/
-  deadline: '2023-09-15 23:59:59'
-  timezone: UTC-12
-  date: --
-  place: --
-  sub: IV
-  host: IEEE
-
-- title: FG
-  long: International Conference on Automatic Face and Gesture Recognition
-  hindex: --
-  year: 2024
-  id: fg2024
-  link: http://iab-rubric.org/fg2024/
-  deadline: '2023-09-18 23:59:59'
-  timezone: UTC-7
-  date: May 28-30, 2024
-  place: Istanbul, Turkey
-  sub: CV
-  host: IEEE
-
-- title: HRI
-  long: International Conference on Human-Robot Interaction
-  hindex: 47
-  year: 2024
-  id: hri24
-  link: https://humanrobotinteraction.org/2024/
-  deadline: '2023-09-29 23:59:59'
-  timezone: UTC-12
-  date: March 11-14, 2024
-  place: Boulder, USA
-  sub: RO
-  host: ACM/IEEE
-
-- title: ALT (Deadline estimated)
-  long: International Conference on Algorithmic Learning Theory
-  hindex: 26
-  year: 2024
-  id: alt24
-  link: http://algorithmiclearningtheory.org/alt2024/
-  deadline: '2023-09-30 16:59:59'
-  timezone: America/New_York
-  date: February 20-23, 2023
-  place: Singapore
-  sub: ML
-
-- title: ICARA
-  long: International Conference on Automation, Robotics and Applications
-  hindex: --
-  year: 2024
-  id: icara24
-  link: http://www.icara.us/
-  deadline: '2023-10-01 23:59:59'
-  timezone: UTC-12
-  date: February 22-24, 2024
-  place: Athens, Greece
-  sub: RO
-  host: IEEE
-
-- title: ML4AD (WS) (Deadline estimated)
-  long: NeurIPS Workshop on Machine Learning for Autonomous Driving
-  hindex: --
-  year: 2024
-  id: ml4ad24
-  link: https://ml4ad.github.io/
-  deadline: '2023-10-01 23:59:59'
-  timezone: UTC-12
-  date: --
-  place: --
-  sub: ML
-  host: --
-
-- title: AAMAS
-  long: International Conference on Autonomous Agents and Multiagent Systems
-  hindex: 44
-  year: 2024
-  id: aamas24
-  link: https://www.aamas2024-conference.auckland.ac.nz/
-  deadline: '2023-10-02 23:59:59'
-  timezone: UTC-12
-  date: May 06-10, 2024
-  place: Auckland, New Zealand
-  sub: ML
-
-- title: SATML
-  long: Conference on Secure and Trustworthy Machine Learning
-  hindex: --
-  year: 2024
-  id: satml24
-  link: https://satml.org/call-for-papers/
-  deadline: '2023-10-04 23:59:59'
-  timezone: UTC-12
-  date: April, 2024
-  place: Toronto, Canada
-  sub: ML
-  host: IEEE
-  note: '<b>NOTE</b>: Mandatory abstract deadline on August 22, 2022'
-
-- title: ICLR (Deadline estimated)
-  long: International Conference on Learning Representations
-  hindex: 253
-  year: 2024
-  id: iclr24
-  link: https://iclr.cc/Conferences/2024
-  deadline: '2023-10-05 17:00:00'
-  timezone: UTC-7
-  date: May 05 -07, 2024
-  place: Vienna, Austria
-  sub: ML
-
-- title: WWW
-  long: International World Wide Web Conference
-  hindex: 70
-  year: 2024
-  id: www24
-  link: https://www2024.thewebconf.org/
-  deadline: '2023-10-05 23:59:59'
-  timezone: UTC-12
-  date: May 13-17, 2023
-  place: Singapur
-  sub: DM
-
-- title: ACCV (Deadline estimated)
-  long: Asian Conference on Computer Vision
-  hindex: 43
-  year: 2024
-  id: accv24
-  link: http://accv2024.org/
-  deadline: '2023-10-06 23:59:00'
-  timezone: UTC
-  date: December 08-12, 2022
-  place: Hanoi, Vietnam
-  sub: CV
-
-- title: AISTATS (Deadline estimated)
-  long: International Conference on Artificial Intelligence and Statistics
-  hindex: 68
-  year: 2024
-  id: aistats24
-  link: https://www.aistats.org/aistats2024/
-  deadline: '2023-10-15 11:59:00'
-  timezone: UTC
-  date: --
-  place: --
-  sub: ML
-
-- title: ICCPS (Deadline estimated)
-  long: International Conference on Cyber-Physical Systems
-  hindex: 26
-  year: 2024
-  id: iccps24
-  link: http://iccps.acm.org/2023/
-  deadline: '2023-10-24 23:59:59'
-  timezone: UTC-12
-  date: --
-  place: --
-  sub: IV
-  host: ACM/IEEE
-
-- title: ICCVE (Deadline estimated)
-  long: International Conference on Connected Vehicles and Expo
-  hindex: --
-  year: 2024
-  id: iccve24
-  link: https://iccve2022.org/
-  deadline: '2023-11-12 23:59:59'
-  timezone: UTC-12
-  date: --
-  place: --
-  sub: V2X
-  host: IEEE
-
-- title: ICPS (Deadline estimated)
-  long: International Conference on Industrial Cyber-Physical Systems
-  hindex: 11
-  year: 2024
-  id: icps24
-  link: http://icps2023.cug.edu.cn/
-  deadline: '2023-12-01 23:59:59'
-  timezone: UTC-12
-  date: --
-  place: --
-  sub: IV
-  host: IEEE
-
-- title: SIGMOD/PODS
-  long: International Conference on Management of Data
-  hindex: 66
-  year: 2025
-  id: sigmod25
-  link: https://2024.sigmod.org/
-  deadline: '2023-12-04 23:59:59'
-  timezone: UTC-12
-  date: June 09-15, 2024
-  place: Santiago, Chile
-  sub: ML
-  host: ACM
-
-- title: ICPR (Deadline estimated)
-  long: International Conference on Pattern Recognition
-  hindex: 43
-  year: 2024
-  id: icpr24
-  link: http://www.icpr2022.com/
-  deadline: '2024-01-10 23:59:00'
-  timezone: UTC+1
-  date: August 21-25, 2022
-  place: Kolkata, India
-  sub: ML
-  host: IEEE
-
-- title: WCCI
-  long: World Congress on Computational Intelligence
-  hindex: 57
-  year: 2024
-  id: wcci24
-  link: https://wcci2024.org/
-  deadline: '2024-01-15 23:59:00'
-  timezone: UTC+1
-  date: June 30 - July 05, 2024
-  place: Yokohama, Japan
-  sub: ML
-  host: IEEE
-
-- title: VNC (Deadline estimated)
-  long: Vehicular Networking Conference
-  hindex: 28
-  year: 2024
-  id: vnc24
-  link: https://ieee-vnc.org/2021/
-  deadline: '2024-01-15 23:59:59'
-  timezone: UTC-12
-  date: --
-  place: --
-  sub: V2X
-  host: IEEE
-
-- title: AVEC (Deadline estimated)
-  long: International Symposium on Advanced Vehicle Control
-  hindex: --
-  year: 2024
-  id: avec24
-  link: https://www.showsbee.com/fairs/AVEC-Symposium.html
-  deadline: '2024-01-17 23:59:59'
-  timezone: UTC-12
-  date: September 02-06, 2024
-  place: Milan, Italy
-  sub: IV
-  host: JSAE
 
 - title: ECML-PKDD (Deadline estimated)
   long: European Conference on Machine Learning and Principles and Practice of Knowledge
